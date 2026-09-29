@@ -1,0 +1,317 @@
+[
+  {
+    "id": "e1ca968d-a66b-4c9b-be02-f3c0d2fa4858",
+    "createdAt": 1790636425.198686,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same woman exactly (same face, nose, lips, hair, pose, profile angle, framing and crop). Change only the light and background: a deep, dark forest-green and warm umber studio background, and a warm golden side light falling on her face, cheekbone, neck and shoulder so the light visibly glows and bounces off her skin, with soft warm highlights and gentle falloff into shadow. Dark but hopeful, calm, intimate, cinematic film look with fine grain. Not gloomy, not gothic, no pure black. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230025_e1ca968d-a66b-4c9b-be02-f3c0d2fa4858.png",
+    "ref": 1
+  },
+  {
+    "id": "49749657-55cf-4491-bc72-8c709ffa3c99",
+    "createdAt": 1790636427.489346,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same woman exactly (same face, nose, lips, hair, pose, profile angle, framing and crop). Change only the light: late-afternoon sunlight filtering through leaves now falls across the scene as soft, blurred dappled leaf shadows on the background wall, her neck, shoulder and the side of her face, with warm amber patches of light between the shadows. The overall image is darker and moody but warm and hopeful, deep green and umber tones, film grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230027_49749657-55cf-4491-bc72-8c709ffa3c99.png",
+    "ref": 1
+  },
+  {
+    "id": "f52ad011-27cd-41ee-a196-d36ba4823ab4",
+    "createdAt": 1790636430.249094,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the exact same composition: the same Los Angeles skyline at the same size and position, the same palm tree silhouettes, the same horizon height. Change only the time of day and colour: soft dusk, the sky a calm gradient from lavender and dusty violet at the top to a faint warm rose at the horizon, a quiet purple-blue ambience, the first city lights twinkling. No red or orange sunset. Calm, dreamy, film grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230030_f52ad011-27cd-41ee-a196-d36ba4823ab4.png",
+    "ref": 1
+  },
+  {
+    "id": "6f887c27-d089-484d-bff0-d0cc0f75325a",
+    "createdAt": 1790636432.12605,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Galata Tower in Istanbul rising above terracotta rooftops, seen from a nearby rooftop terrace at golden hour. The tower fills the upper-middle of the frame, warm low sun on its stone, a soft peach and pale blue sky above. The lower 40% of the frame is calm, softly out-of-focus rooftops and a terrace ledge in warm shadow, quiet enough for text. Kodak Portra 400 film look, fine grain, warm and calm, editorial travel photograph. No people, no readable text, no signs, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230032_6f887c27-d089-484d-bff0-d0cc0f75325a.png",
+    "ref": 0
+  },
+  {
+    "id": "c3ff3938-2918-4b7f-8af1-cf56cc1c082e",
+    "createdAt": 1790636434.02424,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Hagia Sophia in Istanbul in warm early-evening light, its great dome and four minarets glowing softly, seen from a garden with plane trees and a fountain in the foreground. The monument sits in the upper half of the frame against a soft apricot and lilac sky. The lower 40% of the frame is calm garden path and soft shadow, quiet enough for text. Kodak Portra 400 film look, fine grain, warm, calm, editorial. No people, no readable text, no signs, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230034_c3ff3938-2918-4b7f-8af1-cf56cc1c082e.png",
+    "ref": 0
+  },
+  {
+    "id": "ff6f3033-4c6c-440f-9829-fa426af972e4",
+    "createdAt": 1790636435.95818,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Blue Mosque (Sultan Ahmed Mosque) in Istanbul at blue hour, its cascade of domes and six slender minarets lit warmly from within and below, a deep dusky violet-blue sky with the last warm glow near the horizon. The mosque sits in the upper-middle of the frame; the lower 40% is a calm, dark, softly lit plaza, quiet enough for text. Film look, fine grain, serene. No people, no readable text, no signs, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230035_ff6f3033-4c6c-440f-9829-fa426af972e4.png",
+    "ref": 0
+  },
+  {
+    "id": "fcc5a504-3722-4019-b062-742f96caa080",
+    "createdAt": 1790636438.419721,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A photograph in exactly the same style, colour grade, sky and composition as the reference, but the view is the Pacific Ocean from a bluff on the Los Angeles coast at golden hour: calm sea, a perfectly flat horizon at exactly the same height as the skyline in the reference, a few tall palm silhouettes at the lower edge, the same warm peach and dusty-rose sky with the same thin band of cloud. No city, no people, no boats, no text. Kodak Portra film look, gentle grain.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230038_fcc5a504-3722-4019-b062-742f96caa080.png",
+    "ref": 1
+  },
+  {
+    "id": "20cf6d18-9de1-4899-9b4f-a2fd6423266d",
+    "createdAt": 1790636441.8829,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the man exactly the same: same face, hair, white linen shirt, pose, the plate and towel in his hands, his position and size in the frame. Replace only the room around him: a calm kitchen with deep dusky-blue walls and cabinets, evening light, and a large window behind him showing a leafy suburban street with tall old trees and brick and clapboard houses, all softly out of focus. The whole background is gently blurred with a shallow depth of field so he stays sharp. Warm light on him, cool blue room, cinematic, film grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230041_20cf6d18-9de1-4899-9b4f-a2fd6423266d.png",
+    "ref": 1
+  },
+  {
+    "id": "87b9387c-f143-42b1-8ec5-d1a1b067fa5c",
+    "createdAt": 1790639633.773236,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235353_87b9387c-f143-42b1-8ec5-d1a1b067fa5c.png",
+    "ref": 1
+  },
+  {
+    "id": "99e7fa98-b95e-4012-91cf-778fc5157cfe",
+    "createdAt": 1790639636.14232,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235356_99e7fa98-b95e-4012-91cf-778fc5157cfe.png",
+    "ref": 1
+  },
+  {
+    "id": "90c4b031-f2e5-4988-a29c-88e4826aa301",
+    "createdAt": 1790639638.439198,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235358_90c4b031-f2e5-4988-a29c-88e4826aa301.png",
+    "ref": 1
+  },
+  {
+    "id": "15610c73-232c-4bb7-9013-11ca4662cac8",
+    "createdAt": 1790639640.85029,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, smile, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235400_15610c73-232c-4bb7-9013-11ca4662cac8.png",
+    "ref": 1
+  },
+  {
+    "id": "2f85644c-63a3-42ed-9167-b991d86a6255",
+    "createdAt": 1790639642.998846,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same people exactly: same faces, noses, hair, clothing, hands, pose, framing and crop. Change only the background and the light: the room fades into a near-black warm charcoal darkness (deep brown-black, not pure black), with a soft warm key light from the side on the young man's face so it glows gently while everything else falls softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235402_2f85644c-63a3-42ed-9167-b991d86a6255.png",
+    "ref": 1
+  },
+  {
+    "id": "198ec6c8-c859-49ed-a468-492e17eeba20",
+    "createdAt": 1790639645.358131,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, platinum hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235405_198ec6c8-c859-49ed-a468-492e17eeba20.png",
+    "ref": 1
+  },
+  {
+    "id": "78f5e6ec-0f6c-4b48-a25e-de219af2f8b9",
+    "createdAt": 1790639647.587028,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235407_78f5e6ec-0f6c-4b48-a25e-de219af2f8b9.png",
+    "ref": 1
+  },
+  {
+    "id": "5f94cce9-6201-412f-81dc-dd4ca247a45c",
+    "createdAt": 1790639649.766658,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235409_5f94cce9-6201-412f-81dc-dd4ca247a45c.png",
+    "ref": 1
+  },
+  {
+    "id": "3c46b372-b9c0-4b6f-845e-72d2ebb1a4fe",
+    "createdAt": 1790639652.199395,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235412_3c46b372-b9c0-4b6f-845e-72d2ebb1a4fe.png",
+    "ref": 1
+  },
+  {
+    "id": "6565994e-0a92-44bb-8a9b-55bd1ba1c62f",
+    "createdAt": 1790639654.589389,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same man exactly: same face, hair, white linen shirt, the plate and towel in his hands, his pose, position and size in the frame. Change only the surroundings and light: the kitchen falls away into a near-black warm charcoal darkness (deep brown-black, not pure black), only a faint soft hint of the window behind him, and a soft warm key light on his face and shirt so he glows gently while the edges fall into shadow. Natural skin colour, real texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235414_6565994e-0a92-44bb-8a9b-55bd1ba1c62f.png",
+    "ref": 1
+  },
+  {
+    "id": "11835ad7-967c-40a0-b302-222715a1d6d3",
+    "createdAt": 1790639697.282548,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235457_11835ad7-967c-40a0-b302-222715a1d6d3.png",
+    "ref": 1
+  },
+  {
+    "id": "ea0d8a77-2c54-4a38-9dac-a1f2d1c91403",
+    "createdAt": 1790639699.767693,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235459_ea0d8a77-2c54-4a38-9dac-a1f2d1c91403.png",
+    "ref": 1
+  },
+  {
+    "id": "a6e8a12d-9f91-489a-a979-c93317ad2220",
+    "createdAt": 1790639701.91636,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235501_a6e8a12d-9f91-489a-a979-c93317ad2220.png",
+    "ref": 1
+  },
+  {
+    "id": "c8313409-6e1e-4639-83e6-fee704b67468",
+    "createdAt": 1790639704.17783,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, smile, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235504_c8313409-6e1e-4639-83e6-fee704b67468.png",
+    "ref": 1
+  },
+  {
+    "id": "1e1f31fc-eb12-42c3-8cf8-66fa23a76d37",
+    "createdAt": 1790639706.129069,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same people exactly: same faces, noses, hair, clothing, hands, pose, framing and crop. Change only the background and the light: the room fades into a very dark teal-black darkness (deep blue-green, almost black), with a soft warm key light from the side on the young man's face so it glows gently while everything else falls softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235506_1e1f31fc-eb12-42c3-8cf8-66fa23a76d37.png",
+    "ref": 1
+  },
+  {
+    "id": "d68cf620-15ef-40e6-9fbd-90f8efefeca9",
+    "createdAt": 1790639708.290269,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, platinum hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235508_d68cf620-15ef-40e6-9fbd-90f8efefeca9.png",
+    "ref": 1
+  },
+  {
+    "id": "40bd2805-b3ff-4b2e-9f65-1a6cb4953a71",
+    "createdAt": 1790639710.604981,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235510_40bd2805-b3ff-4b2e-9f65-1a6cb4953a71.png",
+    "ref": 1
+  },
+  {
+    "id": "5fb55d82-b246-4902-a3db-08e9fa70a40d",
+    "createdAt": 1790639712.783802,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235512_5fb55d82-b246-4902-a3db-08e9fa70a40d.png",
+    "ref": 1
+  },
+  {
+    "id": "3244ad1b-3b44-4650-8e77-116e63ac7abb",
+    "createdAt": 1790639715.15428,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235515_3244ad1b-3b44-4650-8e77-116e63ac7abb.png",
+    "ref": 1
+  },
+  {
+    "id": "0e3e7990-ace6-4577-886c-d9c4709014df",
+    "createdAt": 1790639718.253423,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same man exactly: same face, hair, white linen shirt, the plate and towel in his hands, his pose, position and size in the frame. Change only the surroundings and light: the kitchen falls away into a very dark teal-black darkness (deep blue-green, almost black), only a faint soft hint of the window behind him, and a soft warm key light on his face and shirt so he glows gently while the edges fall into shadow. Natural skin colour, real texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235518_0e3e7990-ace6-4577-886c-d9c4709014df.png",
+    "ref": 1
+  },
+  {
+    "id": "fe6ddc54-6613-44e1-9b2b-7519c794fa3f",
+    "createdAt": 1790639720.762315,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Edit of the reference photo. Keep everything the same: the same woman (same face, hair, cream sweater, mug, pose), the same seat, cabin, framing and both window positions and views (Los Angeles on the left, Istanbul with its mosque and minarets on the right). Change only the time and colour: soft dusk, both windows show a calm dusky violet and lavender sky with a faint rose glow at the horizon and the first city lights, and the cabin has a gentle cool-violet ambience with soft warm light still on her face. Dreamy, calm, hopeful, not red, not orange. 35mm film, fine grain. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235520_fe6ddc54-6613-44e1-9b2b-7519c794fa3f.png",
+    "ref": 1
+  },
+  {
+    "id": "ea52f70f-06a1-48ce-a28f-1d1e425767c1",
+    "createdAt": 1790640050.470772,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Top-down flat-lay photograph, camera directly overhead and perfectly square to the subject: an open clear acrylic ring binder lying completely flat on a deep matte black background. Two blank facing pages of warm cream paper, one left and one right, both perfectly flat rectangles with edges parallel to the frame, separated by a slim central spine with four silver binder rings. The open binder spans nearly the full width of the frame, centered, with even black margins on all sides. Soft warm light from the top left with gentle falloff across the pages, subtle paper fibre texture, soft ring shadows. Analog 35mm film photograph, fine natural film grain, calm, bright, optimistic, editorial product-mockup look. Both pages are completely empty: no text, no photos, no writing, no marks, no logos, nothing printed on them. No hands, no props, no other objects.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000050_ea52f70f-06a1-48ce-a28f-1d1e425767c1.png",
+    "ref": 0
+  },
+  {
+    "id": "cd1d56c0-7e31-47f8-ae35-58006cdccce7",
+    "createdAt": 1790640061.758446,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Straight overhead studio photograph of an open ring binder resting perfectly flat on a deep black velvet background, shot like a product mockup with the camera exactly perpendicular. The binder is open to a two-page spread: a blank warm cream left page and a blank warm cream right page, both flat, crisp rectangles aligned with the image edges, joined by a central silver ring mechanism with four rings. The spread is centered and fills most of the frame width, black background visible around every edge. Soft warm window light from the top left, a gentle highlight on the paper, faint page texture, soft shadows cast by the rings. Shot on 35mm film, fine organic grain, bright and hopeful mood. The pages are entirely blank: no text, no images, no writing, no stains, nothing on them. Nothing else in the scene.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000101_cd1d56c0-7e31-47f8-ae35-58006cdccce7.png",
+    "ref": 0
+  },
+  {
+    "id": "c1a36bca-e250-45bc-85b1-30402274dca7",
+    "createdAt": 1790640063.89837,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Top-down photograph, camera perfectly overhead: an open lay-flat hardcover book with warm cream paper lying completely flat on a deep matte black surface. The two facing pages are blank, flat and rectangular with straight edges parallel to the frame, meeting at a neat center gutter with only a very soft gutter shadow. The open book is centered and fills most of the frame width, with even black margins around it. Soft warm light from the top left, gentle luminous falloff, subtle paper texture. Analog 35mm film look with fine grain, bright, calm and optimistic, editorial mockup style. The pages are completely empty: no text, no photos, no writing, no marks, nothing printed. No hands, no props.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000103_c1a36bca-e250-45bc-85b1-30402274dca7.png",
+    "ref": 0
+  },
+  {
+    "id": "04511b96-27a7-4501-a3b0-6b648828e942",
+    "createdAt": 1790640146.118916,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Overhead flat-lay still life photograph shot straight down from directly above, camera perfectly square and parallel to the subject, no perspective tilt. An open A4 ring binder lying completely flat on a deep matte black background. The binder has a clear frosted PVC cover and a translucent spine with four chrome silver rings down the exact center. Two blank facing pages of thick warm cream paper, one left of the rings and one right of the rings, both perfectly flat, same size, rectangular, edges parallel to the frame edges. The pages are completely empty: no text, no photos, no writing, no marks, no logos, nothing printed. Soft warm morning light from the top left with gentle falloff, subtle paper fibre texture, soft shadows of the metal rings falling onto the inner edges of the pages. Bright, optimistic, calm mood. The open binder is centered and fills about 92 percent of the frame width, with black background visible above and below. 35mm film photograph, fine natural film grain, editorial product still life.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000226_04511b96-27a7-4501-a3b0-6b648828e942.png",
+    "ref": 0
+  },
+  {
+    "id": "17c3db26-23d2-423d-855f-930c12328eb6",
+    "createdAt": 1790640154.160854,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Top-down flat-lay photograph, camera directly overhead and perfectly square to the subject. A large open ring binder with tall portrait pages lying perfectly flat on a deep black background, filling most of the frame with a thin black border on all sides. Chrome silver binder rings run vertically down the exact center over a translucent frosted spine; clear PVC cover edges visible behind the pages. Left page and right page are both blank warm cream paper, perfectly flat, identical size, straight edges aligned with the frame. Absolutely nothing on the pages: no text, no images, no writing, no marks. Soft warm light from the top left, gentle highlight on the paper, subtle page texture, delicate ring shadows cast onto the pages near the spine. Bright and optimistic, clean and calm. Shot on 35mm film, fine organic film grain, editorial still life.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000234_17c3db26-23d2-423d-855f-930c12328eb6.png",
+    "ref": 0
+  },
+  {
+    "id": "038da58b-970a-465a-b2cb-19cc63457e66",
+    "createdAt": 1790640162.53598,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Straight-down overhead photograph of an open lay-flat ring binder resting on deep black velvet-matte background, camera exactly perpendicular, symmetrical composition, no angle. The spread is centered, left page and right page are blank sheets of warm off-white cream paper, lying perfectly flat with crisp straight edges parallel to the image borders. Four polished silver rings and a translucent spine sit at the vertical center line. Both pages completely blank and empty: no text, no photos, no drawings, no marks of any kind. Warm soft daylight from the upper left, light and optimistic, subtle paper grain, faint soft shadows from the rings onto the pages. Plenty of flat clean paper area on both pages. 35mm film look with fine film grain, high-end editorial still life.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000242_038da58b-970a-465a-b2cb-19cc63457e66.png",
+    "ref": 0
+  }
+]
