@@ -1,0 +1,1994 @@
+{
+ "results": [
+  {
+   "index": 1,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Band light lands as a horizontal warm-brown glow on the backdrop at eye level with top and bottom easing darker and no corner vignette, but the band shows mostly on the wall and barely on the face, which stays evenly lit rather than G1's eye/cheek band.",
+   "hopeful": 6,
+   "problems": [
+    "Band reads as a backdrop stripe rather than light on the face: the eyes/nose/cheek are lit the same as the jaw and neck, so the G1 effect is on the wall, not the person",
+    "Upper edge of the wall band behind the crown is slightly plateau-like (fairly defined transition around the hairline height) which hints at a gradient overlay",
+    "Wall texture has a faint uniform speckle sheen across the whole frame that reads like a synthetic plaster texture"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 2,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Soft light patch at eye level on the left of the dusty-rose backdrop with darker top and bottom and no corner vignette; the glow is more of a window-shaped soft patch behind the face than a clean horizontal band across the whole frame, and the face itself picks it up on the nose/cheek acceptably.",
+   "hopeful": 7,
+   "problems": [
+    "The band light is confined to the left third behind the face and fades before it crosses the frame, so it reads as a soft spot/glow rather than a horizontal band",
+    "Backdrop is a fairly saturated pink-taupe; it stays off the skin but is close to reading mauve in the shadows on the right, which is borderline for a purple-free base variant",
+    "Bun and hairline flyaways are frizzier and more diffuse than the original's tidy bun; still plausible but slightly softer/wispier than the source"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 3,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 5,
+   "target_match": "Band light is present as a broad horizontal beam across the stone-grey wall at head height, but it is far too defined (a distinct top edge, brightest at the left frame edge, fading right) and reads as a painted light bar or stage strip rather than soft ambient light; top/bottom do darken and there is no corner vignette.",
+   "hopeful": 6,
+   "problems": [
+    "Band has a hard, straight upper edge and a beam-like shape starting at the left frame edge, the classic light-bar overlay tell",
+    "Figure floats: no floor line, no contact shadow, feet cropped, wall runs to the bottom of the frame so he appears pasted on a seamless backdrop",
+    "The original's window and window-light context is gone; face is small and lit from the front while the band on the wall is to his left, so the light on him does not agree with the band",
+    "Wall has a uniform fine noise/grain layer over the whole surface that reads synthetic",
+    "Plate and cloth are staged props with no reason to be held in an empty room (prop-list staging)"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "hard-edged horizontal light bar on backdrop",
+    "floating figure, no shadow or floor"
+   ]
+  },
+  {
+   "index": 4,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Closest to G1 of the four: a soft horizontal band of light from the left at eye level catches the brow, nose, lips and cheek, the charcoal backdrop eases darker toward top and bottom, sides are not darkened and there is no corner vignette; skin tone held, not lightened.",
+   "hopeful": 8,
+   "problems": [
+    "Collarbone tattoo (present in the source too) has rendered as a strip of pseudo-script squiggles that reads like garbled lettering on close inspection; not readable text but a mild AI tell if zoomed",
+    "Backdrop is charcoal-brown rather than a cool charcoal; acceptable but slightly warmer than the label"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "pseudo-script tattoo on collarbone"
+   ]
+  },
+  {
+   "index": 5,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Light reads as a left-side pool/glow at eye level with both top corners and the whole right side darkened, i.e. closer to a corner vignette than a clean horizontal band easing off only top and bottom.",
+   "hopeful": 5,
+   "problems": [
+    "Right third of frame is darkened, violating 'sides not darkened'",
+    "Top-left and top-right corners fall to near-black, reads as radial vignette",
+    "Visible noise/grain layer in the slate background",
+    "Overall mood is moody rather than hopeful; face is well lit but frame is heavy"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "grain layer in background"
+   ]
+  },
+  {
+   "index": 6,
+   "verdict": "fix",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Clean horizontal band across the wall at eye level with top and bottom easing darker and no corner vignette, but the backdrop is warm beige/putty, not pearl white.",
+   "hopeful": 7,
+   "problems": [
+    "Background tone is warm greige, not the pearl white the label calls for",
+    "Loose hair strands along the lower right edge look slightly smeared/painted",
+    "Faint plastic smoothness on the cheek highlight"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 7,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Full-width soft horizontal band at eye level, top and bottom darker, sides open, dusty-rose wall as specified.",
+   "hopeful": 7,
+   "problems": [
+    "Heavy grain in the dark shirt region",
+    "Shoulder on the right melts into the background shadow",
+    "Cheek and temple a touch over-smoothed"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "grain layer on shirt"
+   ]
+  },
+  {
+   "index": 8,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Band sits at eye level but is concentrated in the upper left of the wall, with the top-right corner darker; right side of frame is only mildly darkened, so it mostly passes as a band rather than a vignette.",
+   "hopeful": 7,
+   "problems": [
+    "Band is asymmetric, brighter upper-left than a true horizontal band",
+    "Top-right corner falls darker than the target allows",
+    "Visible grain across the peach wall",
+    "Second person's touching hand has slightly soft, low-detail fingers"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "grain layer",
+    "partial second person (arm and hand) from source, soft finger detail"
+   ]
+  },
+  {
+   "index": 9,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Clear horizontal band of light across the eye/nose line with top and bottom of the frame easing darker and no radial corner vignette, but the backdrop reads warm bronze-brown rather than the labelled charcoal.",
+   "hopeful": 8,
+   "problems": [
+    "Backdrop colour is warm brown, not charcoal as labelled (looks like a duplicate of the warm-brown slot)",
+    "Left side of the frame is noticeably darker than the right, so the band is slightly directional rather than a clean symmetric band",
+    "Hair mass on the left is very dense/uniform with little strand separation in the shadow"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 10,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Band of light sits at eye/nose level with top-left and bottom easing dark; the backdrop reads as brushed silver-grey with a mild upper-left corner falloff rather than a clean pearl white.",
+   "hopeful": 8,
+   "problems": [
+    "Backdrop has a brushed-metal sheen (fine horizontal streaks) which reads more like an aluminium panel than a pearl-white wall",
+    "Upper-left corner darkens more than the rest of the top edge, edging toward a corner vignette",
+    "Skin on the forehead/cheek has a slightly waxy, uniformly smooth glow"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 11,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Warm brown backdrop with a soft horizontal band brightest at eye level and the top and bottom darkening, but the left side is darker than the right so it reads partly as side falloff.",
+   "hopeful": 8,
+   "problems": [
+    "Left edge and lower-left are darker than the right edge, approaching a side/corner vignette rather than a pure horizontal band",
+    "Cheek and nose bridge have a glossy specular sheen that looks slightly oily/plastic",
+    "Fine flyaway hairs on the crown are a little too regular and stringy"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 12,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Dusty-rose backdrop with a subtle lighter horizontal band at eye level and the top and bottom-right easing darker; no hard corner vignette and the sides stay open.",
+   "hopeful": 6,
+   "problems": [
+    "Downcast eyes and inward expression read as pensive/melancholic more than hopeful",
+    "Bottom-right corner is darker than the bottom-left, a mild asymmetric falloff",
+    "Backdrop is a mauve-leaning rose; no purple reaches the skin but it sits close to the plum range the purple variants use"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 13,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Soft horizontal band brightens the stone-grey wall at eye level, top and bottom ease darker with no radial corner vignette; matches G1 well.",
+   "hopeful": 7,
+   "problems": [
+    "Bottom of frame goes darker than the top, so the band sits slightly high; minor",
+    "Fine noise/grain visible in the flat grey background at full size"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 14,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Peach backdrop carries a lighter horizontal band at eye level with darker top and bottom; sides not darkened, no corner vignette.",
+   "hopeful": 8,
+   "problems": [
+    "Global warm cast is strong; peach wall and skin sit in the same hue family, slightly monochrome",
+    "Background is a smooth gradient with little surface texture, mild render feel"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 15,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Background is warm brown/olive, not charcoal, and the frame is not visibly lighter than a standard band-light variant; the band itself is present at eye level on the left with darker bottom-right.",
+   "hopeful": 6,
+   "problems": [
+    "Colour label mismatch: reads warm brown, not charcoal",
+    "Not visibly lighter/hopeful: overall exposure sits at the same dark level as the regular band-light set",
+    "Darkening is heavier bottom-right than bottom-left, edging toward a corner vignette"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 16,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Slate navy wall with a clear, fairly bright horizontal band at eye level on the left, top and bottom easing darker, no corner vignette; reads lighter than the standard variant.",
+   "hopeful": 8,
+   "problems": [
+    "Band on the background left is a little strip-like (defined upper/lower edge) rather than fully feathered",
+    "Right side of the wall is noticeably darker than the left, mild side darkening"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 17,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Band light is there (bright pearl-white band at eye/nose level on the right, top eases darker) and it is visibly lighter than the pass-10 version, but the bottom-right corner drops to near black (mean L~42) and the top-left is also dark, so it reads as a diagonal falloff more than a clean horizontal band.",
+   "hopeful": 8,
+   "problems": [
+    "Bottom-right corner falls to near black, flirting with the forbidden corner/radial darkening",
+    "Skin reads lighter and more orange than the pass-10 source (face mean RGB 148/105/78) - looks mildly lightened/warmed relative to his deeper brown tone",
+    "Cheekbone and forehead have a smooth plasticky specular sheen; skin pores are soft/waxy compared with pass-10",
+    "Hair silhouette against the bright band is slightly painterly (fused curls, soft halo edge at the crown)"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "soft halo edge around hair against the bright band",
+    "waxy skin sheen on cheek"
+   ]
+  },
+  {
+   "index": 18,
+   "verdict": "fix",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Clean horizontal band: brightest at eye level (bg mean L~130), top (L~59) and bottom (L~31) ease darker, sides not darkened, no corner vignette - but the frame is still a moody mid-dark warm-brown image, not 'visibly lighter/hopeful'; the bottom third is nearly as dark as the base look.",
+   "hopeful": 6,
+   "problems": [
+    "Not visibly lighter than the standard band-light version - overall exposure and the dark lower third read the same as the moody base",
+    "Expression is neutral/searching rather than hopeful; no lift",
+    "Sweater and lower background merge into one dark brown mass, losing separation"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 19,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Good G1 band: bright soft band at eye level on the left (bg L~173), top and bottom easing darker with no corner vignette; the mauve sits in the dusty-rose background and its deep tones only (bg deep RGB 81/61/54 brown-mauve), skin stays warm brown (face B-G -25).",
+   "hopeful": 8,
+   "problems": [
+    "Background mauve/dusty-rose tint is fairly global rather than confined to the very deepest tones, though it stays off the skin",
+    "Minor: the bright band is slightly stronger on the left edge than on the face itself, so the light source reads as coming from just off frame rather than washing across the face"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 20,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Band light works (bright stone-grey band at eye level, top L~75 and bottom L~59 darker, sides clean, no vignette) but the purple treatment is essentially absent - blacks and deep greys are neutral brown-grey (shirt RGB 24/19/18, bg deep 67/57/52) with no mauve - and the skin has been lifted: face mean L~157 with a rosy cheek, visibly lighter than her deeper tan in the originals contact.",
+   "hopeful": 6,
+   "problems": [
+    "Skin lightened: face (RGB 201/146/121) and neck read noticeably paler and pinker than the source woman's tan complexion",
+    "Purple variant shows no mauve/plum in the deep tones at all - indistinguishable from a plain stone-grey band-light edit",
+    "Rosy pink flush concentrated on the cheek/apple could be read as a healing flush on a rhinoplasty account even though it is not purple",
+    "Expression flat/neutral, little hope in the gaze",
+    "Lips slightly over-glossed and hair strands near the shoulder look painted/fused"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "over-glossy lips",
+    "fused painterly hair strands at lower right"
+   ]
+  },
+  {
+   "index": 21,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "No horizontal band: light is a top-left flood that fades top-to-bottom (top rows ~86 lum, bottom ~42) with the bottom-right corner dropping to near-black, and the promised mauve is entirely absent from the deep tones (dark pixels warm brown, b-g 0).",
+   "hopeful": 6,
+   "problems": [
+    "Lighting is a top-down gradient rather than an eye-level band; bottom-right quadrant darkens like a half-vignette",
+    "Zero mauve/plum anywhere: deep tones are warm brown, so this is a duplicate of the plain peach version, not a purple variant",
+    "Background peach reads as a saturated orange-brown wash (bg hue 21, sat 0.43), warmer than the peach target",
+    "Second person's hand and sleeve intruding from the left with no context is a staging tell; hand fingers are soft-edged and slightly mitten-like",
+    "Sternocleidomastoid and neck tendons over-defined for a relaxed pose"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "disembodied hand/arm at left edge",
+    "oval salon-chair headrest cut off at right edge",
+    "slightly rendered, over-smooth skin on cheek"
+   ]
+  },
+  {
+   "index": 22,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Good G1 band: a soft lighter zone crosses the charcoal-brown background at eye level (rows 2-3 brightest) with the top easing darker and no radial vignette; mauve is effectively absent from the blacks (dark pixels 24,20,18, warm), so the purple part of the brief is not delivered.",
+   "hopeful": 7,
+   "problems": [
+    "No mauve/plum in the deep tones: reads as the plain charcoal version rather than a purple variant",
+    "Bottom-left corner behind the hair falls to near-black (lum ~13), slightly heavier than the band-light target wants",
+    "Charcoal background has drifted to warm brown"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 23,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Band light present: the slate-navy wall lightens in a horizontal zone at eye level on the right and eases darker toward the top, sides not vignetted; deep tones are near-neutral with only a trace of cool blue (b-g +1), no true mauve.",
+   "hopeful": 7,
+   "problems": [
+    "Mauve is only a faint cool tint in the top-left navy, not a visible plum in the blacks; purple variant barely distinguishable from the plain slate-navy one",
+    "Light falls mostly from the right so the left half of the frame is uniformly dim rather than a symmetric band",
+    "Slight ruddiness on the cheek and under-eye is warm (hue 19), acceptable but worth watching on a rhinoplasty account"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "fine flyaway hair strands at crown slightly haloed against the wall"
+   ]
+  },
+  {
+   "index": 24,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Clear horizontal band of lighter green wall at eye level (rows 2-3 ~57 lum vs ~34 at top), top and bottom easing darker, no corner vignette; deep tones are warm-neutral olive (dark pixels 33,28,24) with no mauve at all.",
+   "hopeful": 4,
+   "problems": [
+    "Downcast eyes and closed-in posture read pensive/melancholy, weakest 'hopeful' of the four",
+    "No plum/mauve in the blacks: purple variant not actually applied, effectively the plain forest-green version",
+    "Right third of the frame is uniformly dark (cols ~33-36), slightly side-darkened relative to the G1 target"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 25,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "No horizontal band: the backdrop is brightest at the TOP of frame and eases darker toward the bottom (an inverted top-lit gradient), so the top edge does not go dark and the eye-level band is not defined; only the cheek highlight suggests it.",
+   "hopeful": 8,
+   "problems": [
+    "Reads closer to early-mid fifties than early sixties: skin is too smooth/polished for the brief, wrinkles are painted on rather than in the skin",
+    "Eyes are unnaturally bright glassy blue-grey with an over-clean catchlight, a typical t2i tell",
+    "Backdrop is a smooth mottled render texture, not a lit wall; top of frame is lighter than the face area",
+    "Turtleneck ribbing is perfectly uniform and hyper-sharp against soft skin, mixed focus feels composited"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "glassy over-bright irises",
+    "synthetic mottled backdrop texture"
+   ]
+  },
+  {
+   "index": 26,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "No band light: lighting is flat and even across the whole face; backdrop has a diagonal light-to-dark studio-muslin gradient (bright upper-left, dark lower-right) instead of top/bottom easing dark with a light band at eye level.",
+   "hopeful": 7,
+   "problems": [
+    "Backdrop reads as mottled painted studio muslin, a stock-photo/AI tell rather than the Essos wall look",
+    "Everything is uniformly sharp (beard, knit, ear) with no depth falloff, corporate-headshot feel rather than quiet-luxury editorial",
+    "Dusty rose is only faintly present; backdrop skews to muddy brown-mauve rather than a clean dusty rose",
+    "Pose/gaze (down and to the side) is fine but the frame is fairly conventional compared with the profile originals"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "mottled muslin backdrop",
+    "uniform sharpness"
+   ]
+  },
+  {
+   "index": 27,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Closest to G1: a soft lighter horizontal zone in the grey backdrop around eye level, darker toward the bottom and slightly darker at the top, no corner vignette, sides even; face highlight sits on cheek/nose at eye level.",
+   "hopeful": 7,
+   "problems": [
+    "Top of frame could ease a touch darker to make the band read more clearly",
+    "Expression is calm rather than visibly hopeful; a fraction more lift in the eyes would help"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 28,
+   "verdict": "fix",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Backdrop has a soft roughly radial bright patch upper-left behind the face rather than a horizontal band; bottom of frame does not ease darker and the top corners are only marginally darker, so it reads as a lit studio wall rather than G1.",
+   "hopeful": 8,
+   "problems": [
+    "Light patch on backdrop is blob/radial, not a horizontal band; needs top and bottom easing darker",
+    "Backdrop is very smooth and uniform peach with a faint synthetic sheen, close to a render gradient",
+    "Polo shirt knit texture is slightly over-uniform; hair on the right (frame right) has a sharp cut-out edge against the backdrop"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "radial light patch on backdrop",
+    "slightly hard hair/backdrop edge"
+   ]
+  },
+  {
+   "index": 29,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Faint horizontal lift across the eyes/cheek with the background brightest right at eye level on the right side and easing darker only slightly at the top-left; no corner vignette, sides not darkened, but the band is subtle enough that the frame reads more as a flat light-grey studio backdrop than the G1 moody band.",
+   "hopeful": 8,
+   "problems": [
+    "Band effect is weak: top and bottom of the frame barely ease darker, so it drifts toward a plain corporate studio grey rather than the G1 look",
+    "Background is a smooth, featureless gradient (no wall/paper texture), which is the one place that could hint at a render",
+    "Hair on the frame-left edge merges into a slightly darker patch of background; minor"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 30,
+   "verdict": "keep",
+   "score": 9,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Clear soft horizontal band of warm light across the closed eyes, nose and cheek with the mottled charcoal backdrop brightest at eye level and easing darker toward top and bottom; no radial vignette, sides not pinched.",
+   "hopeful": 9,
+   "problems": [
+    "Skin on the cheek and forehead is a touch too smooth/plasticky under the warm band for a close portrait; stubble and nose texture save it",
+    "Warm rim glow on the hair strands at the crown is slightly stronger than the key would justify"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 31,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Pearl-white wall carries a visible brighter horizontal band at eye level with the top edge going slightly darker and the bottom-left corner dimming; no corner vignette, sides clean; overall lighter/high-key than G1 but the band structure is there.",
+   "hopeful": 8,
+   "problems": [
+    "Overall low-contrast milky rendering (shadows lifted everywhere) reads a little like a soft-focus filter rather than a real lens; the face lacks a true shadow side",
+    "Hairline at the temple/fringe has a slightly painted, over-uniform strand quality",
+    "The band on the wall is a bit too evenly horizontal and edge-to-edge, which can read as an applied gradient rather than window light"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 32,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Warm-brown backdrop is brightest in a horizontal band behind the eyes/nose with the top and bottom of the frame easing darker; no radial corner vignette, sides not darkened; band is a little wide and the whole frame carries a global amber cast.",
+   "hopeful": 8,
+   "problems": [
+    "Global amber/orange cast: skin, shirt and backdrop all pull warm together, so the frame is close to the 'global amber cast' tell; a small neutralising of the backdrop would help",
+    "Backdrop is an almost perfectly smooth painted gradient with no texture, the one render-like element",
+    "Skin under the band is slightly over-smoothed on the cheek, though stubble and wrinkles at the eye hold it"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 33,
+   "verdict": "fix",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Corner darkening is essentially absent: the frame is a bright, hazy hotel-brochure daylight with only the natural dim of the left wall, well under the requested ~80% A1 corner fall-off; brightness/hopefulness is fine.",
+   "hopeful": 7,
+   "problems": [
+    "No organic-post corner darkening applied; needs the A1 vignette at ~80% to sit in the feed with the other posts",
+    "Composition is a near one-to-one restage of the pass-7 suite (same tray, glass, pink roses, green velvet chair, books, lamp) so it reads as a prop list rather than a found moment",
+    "Hazy washed-out sky flattens the Bosphorus view to a cutout; bridge and ferry are rendered too crisply for the haze level",
+    "Brass side table at the right edge is cropped awkwardly and its top plane does not quite sit on the floor"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "staged tray with roses and water glass on the duvet",
+    "cropped brass side table at right edge"
+   ]
+  },
+  {
+   "index": 34,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Open, flat overcast daylight with zero corner darkening; it is the brightest of the four and misses the A1 corner fall-off entirely.",
+   "hopeful": 7,
+   "problems": [
+    "No corner darkening at all; top-left and bottom-right corners are as bright as the centre",
+    "Near-duplicate of image 33 (same seed, same props, same crop) with only a cooler/flatter grade, so the pair gives no real variant coverage",
+    "Bed linen texture is over-sharpened and uniformly crisp across the whole foreground, an everything-in-focus render tell",
+    "Cool overcast sky reads slightly clinical rather than calm/hopeful; a touch of warmth is needed",
+    "Same prop-list staging as 33: tray, roses, glass, books, lamp, chair all placed for the camera"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "over-sharp linen texture",
+    "staged tray with roses and glass"
+   ]
+  },
+  {
+   "index": 35,
+   "verdict": "fix",
+   "score": 4,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Muted Portra-style overcast grade with only faint natural corner darkening; tone is right but it is under the ~80% A1 corner fall-off and the frame is neutral rather than hopeful.",
+   "hopeful": 5,
+   "problems": [
+    "A clear drinking glass of water is sitting on the pavement beside the rear wheel: a nonsensical carried-over prop that instantly breaks the photo",
+    "A partial white sneaker/foot intrudes at the bottom-right edge: violates the no-people rule and reads as a cropped person fragment",
+    "Tailgate badge on the right shows illegible lettering (text/logo rule violation)",
+    "Open rear door geometry is odd: door panel and its window frame do not line up with the B-pillar",
+    "Corner darkening too weak; sky top-left is bright and flat",
+    "Overall mood is grey and static rather than calm/hopeful; needs a lift in the midtones"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "water glass on the ground",
+    "cropped foot at bottom-right edge",
+    "badge lettering on tailgate",
+    "mis-aligned open rear door"
+   ]
+  },
+  {
+   "index": 36,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Deep-focus, flat overcast daylight with almost no corner darkening; the whole frame is evenly lit, missing the A1 corner fall-off and reading a bit cold and grey rather than hopeful.",
+   "hopeful": 5,
+   "problems": [
+    "No corner darkening applied; bright overcast sky fills the top-left corner",
+    "Everything from cobbles to distant mosque is uniformly sharp with perfect surfaces (flawless paving pattern, spotless car paint), an AI deep-focus tell",
+    "Tailgate badge carries illegible lettering near the right edge (text/logo rule)",
+    "Open rear door still shows the odd panel/window-frame alignment seen in 35",
+    "Grey, cool grade reads flat and clinical for a quiet-luxury feed; needs warmth and a slight lift",
+    "Ferry, lamp posts and topiary are all crisply placed like set dressing"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "badge lettering on tailgate",
+    "uniform deep-focus sharpness",
+    "mis-aligned open rear door"
+   ]
+  },
+  {
+   "index": 37,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "No organic corner darkening at all: frame is uniformly bright with a blown-out white sky, the opposite of the A1 ~80% corner falloff; 'phone candid' reads as a warmer grade only.",
+   "hopeful": 7,
+   "problems": [
+    "Two Turkish Airlines tails (red fin, white crescent/bird logo) clearly readable through the glass at right and centre - livery/logo on a real-airline aircraft is a logo fail",
+    "Sky fully clipped to white through the top third of the window; overexposed compared to the pass-7 airport bar (contact row 3 col 4) which holds sky and corner tone",
+    "Warm amber stripes on the floor look like a global amber cast/light overlay: the light bars run at an angle inconsistent with the window mullion shadows behind the suitcase",
+    "Suitcase is rendered too clean: every panel groove sharp, no scuffs, wheels and telescopic handle perfectly symmetric; jacket draped in an art-directed 'prop-list' way",
+    "Floor reflection of suitcase and mullions is a perfect mirror on terrazzo, a render tell",
+    "Cropped right edge shows a second aircraft cut off mid-fuselage; apron vehicles are all in razor focus at every distance (no depth falloff)"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "airline logo/livery on tail fins (x2)",
+    "clipped white sky",
+    "render-like mirror reflection on floor"
+   ]
+  },
+  {
+   "index": 38,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Control is cool-neutral and evenly lit edge to edge; zero corner darkening, so it misses the organic-post falloff entirely, though the tonality is more believable than 37.",
+   "hopeful": 6,
+   "problems": [
+    "Same Turkish Airlines tail logos visible through the glass (right and centre) - logo fail",
+    "Slightly cold/flat grade reads more like a stock airport render than a warm Essos post; no residual warmth or hope in the light",
+    "Everything is tack sharp from the suitcase to the control tower and apron trucks - no lens depth at all",
+    "Suitcase surface and handle too perfect (no wear, symmetric panel lines); jacket drape identical to 37 so the staging is obvious across the pair",
+    "Floor mirror reflection of window mullions is too clean and geometrically exact",
+    "Sky still near-clipped, pale and detail-less"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "airline logo/livery on tail fins (x2)",
+    "near-clipped sky",
+    "perfect mirror reflection on terrazzo"
+   ]
+  },
+  {
+   "index": 39,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "LABEL MISMATCH: file 39 is the hotel-suite bedroom (bed, tray, green velvet chair, Bosphorus window), not balcony tea. It is bright and evenly lit with no corner darkening at all, so it misses the ~80% organic falloff; it is a 'hotel's own photo' in feel but too flat to be an Essos post.",
+   "hopeful": 8,
+   "problems": [
+    "Content is the hotel suite, not the labelled 'balcony tea' scene - check the pipeline index",
+    "No corner or edge darkening anywhere; corners are as bright as the centre, unlike the pass-7 suite bar (contact row 3 col 2) which holds darker corners and a warmer window",
+    "Prop-list staging: pink roses, water glass and silver tray centred on the duvet exactly on the compositional third; the tray sits on soft bedding without denting it",
+    "Every plane in focus: picture frame, lamp, sheer curtain, ferry on the water and the far bridge all equally sharp - no lens depth",
+    "The sheer curtain billows indoors while the window appears closed; the green armchair sits half outside the window plane against the balcony railing, spatially ambiguous",
+    "Lamp base and the nightstand/book stack merge with the bed headboard region on the left - small geometry muddle",
+    "Overall grade is cool-white; lacks the warm hopeful morning tone of the reference"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "staged tray/roses on bedding without weight",
+    "ambiguous chair-vs-balcony depth",
+    "no vignette"
+   ]
+  },
+  {
+   "index": 40,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Overcast 'open daylight' is bright and flat across the whole frame; no corner darkening and no residual warm pocket, so it misses the A1 falloff while being about the right level of hopeful.",
+   "hopeful": 7,
+   "problems": [
+    "Prop-list staging: tea glass + patterned saucer + two sugar cubes + orange-blossom sprig + folded napkin all arranged on the marble like a product shot; the sprig lies unnaturally flat and complete",
+    "Tea glass rim shows a doubled/ghosted top edge and the tea inside has a hard horizontal band about halfway down that does not match a liquid meniscus",
+    "Everything is sharp from the napkin weave to the far minarets and the bridge suspension cables - no phone/lens depth falloff for a shot at this table distance",
+    "Sugar cubes are perfectly crisp white cubes with sharp edges, a render tell; the saucer pattern is symmetric and too clean",
+    "Skyline composite: a large multi-minaret mosque sits in the same view as a Bosphorus-style suspension bridge and a Galata-like tower at far right - plausible enough to a casual viewer but stacked landmarks are an AI tell",
+    "Chair top-left is a cropped black metal frame with a flat cushion that looks pasted; balcony rail bottom bar runs straight into the chair without occlusion logic",
+    "Brightness is uniform corner to corner; needs the ~80% corner darkening and a touch of warmth to sit with the rest of the Essos grid"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "ghosted double rim on tea glass",
+    "hard band in tea liquid",
+    "landmark-stack skyline",
+    "no vignette"
+   ]
+  },
+  {
+   "index": 41,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Essentially no corner darkening: the frame is uniformly bright and airy with the top-right window blown to white, so the A1 organic-post vignette (~80%) is absent and it reads as the pass-7 bedside source at full daylight rather than a graded organic post.",
+   "hopeful": 8,
+   "problems": [
+    "Prop-list staging: carafe, tumbler, three folded towels, folding glasses, a white charging cable, monstera, potted plant and a draped robe all arranged on one nightstand -- reads as a set",
+    "The white cable on the left of the nightstand bends and terminates oddly (a stray loop with no plug/socket logic)",
+    "Robe on the armchair is draped implausibly (bulk hangs off the back with no support, extreme fluffy texture)",
+    "Bed linen at left is a soft mushy fold with no thread texture -- render-like",
+    "Wall shadow pattern (window mullions) is too perfect and the same on every surface",
+    "Monstera leaf pinned top-right in an odd flat position, cut by the frame edge",
+    "Global warm cast / lifted blacks, no true dark tones; not the 'Lived-in Portra' look (no film-like halation or colour separation) -- reads like a soft-focus render",
+    "Carafe and glass have overly clean refractions"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "stray charging cable loop",
+    "cropped monstera leaf top-right"
+   ]
+  },
+  {
+   "index": 42,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Corner darkening also absent -- wide deep-focus framing is well lit edge to edge with a bright window, well above target brightness and without the ~80% A1 vignette.",
+   "hopeful": 8,
+   "problems": [
+    "Everything is sharp and clean edge to edge (wide deep focus is the brief, but every surface -- floor, wall, chair frame, towels -- is a perfect render surface with no dust, scuff or lens softness)",
+    "Prop-list staging repeated: carafe, tumbler, towel stack, folded glasses, plant, robe all in one tidy arrangement",
+    "Robe draped over the armchair back hangs with no support, sagging 'fluffy blob' texture",
+    "Chair geometry: rear leg and armrest joinery are ambiguous; the rear right leg meets the seat rail at an odd angle",
+    "Floorboards are a perfectly uniform light oak with no gaps or wear",
+    "Framed picture top-left is cut off and content-less (blank pale rectangle)",
+    "Lifted blacks, low-contrast, slightly milky -- no true shadows",
+    "Bed linen still lacks weave texture"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "ambiguous chair-leg joinery",
+    "cropped blank picture frame top-left"
+   ]
+  },
+  {
+   "index": 43,
+   "verdict": "kill",
+   "score": 3,
+   "identity_ok": true,
+   "looks_real": 3,
+   "target_match": "No corner darkening at all -- fully bright, HDR-flat daylight with a washed-out white sky; opposite of the target's dim organic-post grading.",
+   "hopeful": 7,
+   "problems": [
+    "Not a phone candid: reads as a hyper-sharp HDR travel-stock render -- every cobble, leaf and stone block is crisp from foreground to Galata Tower",
+    "Galata Tower proportions/detail are off (conical cap too tall and smooth, arcade windows repeating uniformly), and the surrounding rooftops are a generic mush",
+    "Cafe table is stage-set: two identical tea glasses on saucers plus sugar bowl, perfectly centred on the round table with no one there",
+    "Bollards along the kerb repeat at machine-identical spacing and size into the distance",
+    "Vine on the wall grows out of nowhere over a lattice grille; brackets and drainpipe on the right merge into the stone in places",
+    "Balcony bracket/oriel on right is a blocky render with over-clean wood",
+    "Bright sky burnt to flat white; global slightly cyan/blue cast in shadows",
+    "Overall too pretty, no lens distortion, no motion or focus imperfection you'd get from a phone candid",
+    "Kerb at bottom-right runs at an unnatural straight angle against the paving pattern"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "repeating identical bollards",
+    "tea-glass pair staged and centred",
+    "render sky"
+   ]
+  },
+  {
+   "index": 44,
+   "verdict": "kill",
+   "score": 3,
+   "identity_ok": true,
+   "looks_real": 3,
+   "target_match": "Control 'plain photo' -- as with 43 there is no corner darkening; bright, slightly warmer, still far above the A1 dim target.",
+   "hopeful": 7,
+   "problems": [
+    "Near-identical to 43 with a slightly warmer/rosier grade; all the same structural tells",
+    "Everything sharp from foreground cobbles to the tower -- render deep focus",
+    "Galata Tower cap too tall and smooth; window arcade uniform",
+    "Bollards repeat at identical spacing",
+    "Two identical staged tea glasses on the centred cafe table with no people -- prop staging",
+    "Vine and wall lattice merge oddly; drainpipe/bracket geometry unclear on the right",
+    "Flat white sky, low micro-contrast, slightly milky shadows",
+    "Kerb line vs cobble pattern geometry inconsistent at bottom-right"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "repeating identical bollards",
+    "staged centred tea glasses",
+    "flat render sky"
+   ]
+  },
+  {
+   "index": 45,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 5,
+   "target_match": "Vignette dose near zero: frame is evenly bright, no organic-post corner darkening at all, and it reads as a hotel-room reading corner rather than a clinic consultation room.",
+   "hopeful": 7,
+   "problems": [
+    "Does not read as a clinic consultation room: armchair, cushion, side table, framed Galata print, wooden sideboard, bed edge = hotel bedroom corner",
+    "No corner darkening (target ~80% A1 strength); flat, bright, catalogue-like",
+    "Render tells: chair upholstery and rug have a uniform synthetic micro-pattern, floorboards spotless, everything in focus, chair placed centred and square to camera",
+    "Prop-list staging: glass of water + folded towels + sprig in vase on the side table, plant on sideboard, out-of-focus leaf pushed into the top-right corner as a framing device",
+    "Window view is a generic Istanbul skyline with minarets floating in haze, painting-like rather than photographed"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "out-of-focus plant leaf intruding top-right corner",
+    "framed print of Galata Tower on wall (picture-in-picture, borderline signage/decor tell)",
+    "rug weave pattern reads as render noise"
+   ]
+  },
+  {
+   "index": 46,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Open daylight but no corner darkening whatsoever and the grade is cool grey, so it misses both the ~80% vignette and the 'touch more hopeful/brighter' brief.",
+   "hopeful": 4,
+   "problems": [
+    "Zero corner darkening; flat overcast light, cool-grey cast, not hopeful",
+    "Leather seat surface has a uniform, obviously repeating embossed grain (perfect-surface render tell)",
+    "Door panel geometry is off: armrest runs as one continuous slab with no cupholder/pocket, seat cushion meets the door with no gap",
+    "Prop-list staging: fringed throw folded dead-centre on the seat plus a clear water bottle set beside it",
+    "Overcast sky is a flat white plane; skyline and ferry look pasted and too sharp relative to the window glass"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "repeating leather grain texture",
+    "door armrest/cushion junction geometry"
+   ]
+  },
+  {
+   "index": 47,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Closest to target of the four: warm Portra-ish grade, visible top-left and bottom-right darkening at roughly the right dose, though the darkening is a slightly radial overlay rather than natural falloff.",
+   "hopeful": 6,
+   "problems": [
+    "Tray table geometry is wrong: it is a large flat slab floating in the foreground below the window, not attached to the seatback in front, and the seat pitch/height relative to the window does not work",
+    "Seatback latch top-left is a tray-table latch placed at the top of the seat, oriented wrongly",
+    "The 'blanket' is a long-fringed scarf; fringe strands are rendered as identical twisted cords",
+    "Cable snaking along the bottom edge and a shoe in the bottom-right corner are unmotivated clutter",
+    "Corner darkening reads slightly as a radial overlay (uniform tone at both corners) rather than lens/light falloff"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "misplaced seatback latch",
+    "floating tray table",
+    "identical fringe cords",
+    "shoe toe bottom-right"
+   ]
+  },
+  {
+   "index": 48,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 5,
+   "target_match": "No corner darkening at all: bright, cool-neutral, evenly lit, deep focus everywhere; misses the A1 vignette entirely and reads as an interiors render rather than a photo.",
+   "hopeful": 6,
+   "problems": [
+    "Everything sharp corner to corner with uniformly perfect plaster, stone and tile surfaces (render tell)",
+    "Prop-list staging: two folded towels + glass bottle + eucalyptus in a jar lined up on the counter",
+    "Vanity slab is an implausibly thick floating monolith with a machine-perfect edge; single bronze lever tap is oddly proportioned and the basin has no visible drain/overflow",
+    "Mirror reflection is inconsistent: shows crown moulding, a doorway and a hanging towel that do not correspond to the wall/window opposite",
+    "Window light patches on the wall are painted-on soft blobs, not projected window mullions",
+    "Cool-grey grade, not hopeful/warm; no corner darkening"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "inconsistent mirror reflection",
+    "floating thick vanity slab",
+    "tap proportions",
+    "painted light patches on wall"
+   ]
+  },
+  {
+   "index": 49,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Corner darkening is essentially absent: sky and water stay flat and bright edge to edge, well below the ~80% A1 organic corner falloff; brightness/hopefulness is fine.",
+   "hopeful": 7,
+   "problems": [
+    "No organic corner darkening at all; needs the 80% A1 falloff added",
+    "Tea glass placed centred on the railing top is prop-list staging; a real ferry rail is too narrow/rounded for a saucer to sit there",
+    "Deep focus everywhere: bench slats, rail, tea glass, distant mosque skyline and two ferries all equally sharp, no depth roll-off from a phone at that distance",
+    "White rails and bench varnish are perfectly clean render surfaces, no rust, chips, or grime typical of Istanbul ferries",
+    "Orange life ring is a stock 'Istanbul ferry' prop; ceiling lamp top-left is slightly wonky/half-cut",
+    "Bench geometry: the third slat set at lower left merges oddly with the seat, and the armrest casting is soft/mushy"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "distant boat hulls slightly smeared",
+    "lamp top-left partially rendered"
+   ]
+  },
+  {
+   "index": 50,
+   "verdict": "fix",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Has a natural-feeling top-left/right-side shadow falloff close to the A1 corner darkening at roughly 60-70%, slightly under the 80% target and a touch flat/grey rather than hopeful.",
+   "hopeful": 5,
+   "problems": [
+    "Prop-list staging: suitcase, boots paired neatly beside it, coat on hook, plant, bowl, mirror, lamp all present in one frame",
+    "Wall strip of light beside the mirror is a hard-edged painted band with no matching window source; it does not fall on the suitcase or door consistently",
+    "Two hardware pieces on the door: a card-reader lock at handle plus a second lock body/deadbolt below the handle on the frame side; hinge side has three big brass hinges rendering oddly with a hinge visible mid-door",
+    "Mirror reflects a second lock plate rather than the room, wrong reflection content",
+    "Everything from foreground bed to door is uniformly sharp except the bed corner, a soft-blur mask rather than lens depth",
+    "Slightly desaturated grey cast makes it read gloomy, less hopeful than quality-bar suite",
+    "Doorway right shows a coat hanging in a black void closet, faint dark seam along the door frame"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "door hardware duplicated (handle lock + extra lock block)",
+    "mirror reflection mismatch",
+    "hard-edged light strip on wall"
+   ]
+  },
+  {
+   "index": 51,
+   "verdict": "fix",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Purple is correctly kept out of the whites and the linen; the plum sits only in the deep window frame and chair shadows, but corner darkening is nearly absent (about 30%) versus the 80% A1 target.",
+   "hopeful": 8,
+   "problems": [
+    "Almost no corner darkening; the whole frame is high-key and evenly lit, missing the organic-post falloff",
+    "Prop staging: tray with water glass and pink roses centred on the bed, velvet chair placed square to the window, books stacked on nightstand, all the pass-7 quality-bar items re-arranged too tidily",
+    "Sheer curtain top is blown to pure white with a hard sheet edge, overexposed clip",
+    "Balcony railing ironwork passes behind the chair with inconsistent scale, the chair appears to sit half outside the glass line",
+    "Distant Bosphorus bridge and cruise boat sharp; deep focus render look",
+    "Green velvet chair is very saturated relative to the muted room palette; mauve tint in its shadow side edges toward blue-purple rather than plum",
+    "Framed print top-left cut off and blurry compared to the sharp lamp beside it"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "curtain highlight clipped",
+    "chair/railing depth inconsistency",
+    "picture frame smeared"
+   ]
+  },
+  {
+   "index": 52,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Warm haze does some top-right lift but corner darkening is minimal (~30%), and the purple was pushed into a global cool-lilac cast on the stone facade and sky rather than only into the black car paint.",
+   "hopeful": 7,
+   "problems": [
+    "Corner darkening well below 80%, especially bottom-left pavement and top-left sky",
+    "Mauve reads as a global cast on the limestone facade, pavement and sky, not confined to deep blacks",
+    "Car body is a generic non-existent SUV: taillight bar and badge area with a scrambled chrome emblem/model script on the tailgate (readable-label risk)",
+    "Open rear door with black interior shows a headrest and seat but no B-pillar geometry; door glass frame is bent",
+    "Both wheel spokes rendered with different spoke counts; rear tyre tread too clean",
+    "Hotel facade bracket lanterns and iron canopy are over-detailed and equally sharp with the mosque skyline behind; deep focus render",
+    "Stock 'Istanbul' composition again: mosque silhouettes and ferry lined up in the exact gap left of the car"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "tailgate badge/script text",
+    "wheel spoke mismatch",
+    "door frame warped",
+    "lilac global cast"
+   ]
+  },
+  {
+   "index": 53,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Corner darkening almost absent and purple not visible: frame is bright and open with only a faint cool tint in the pillar shadow, so it misses both the 80% organic corner darkening and the mauve-in-blacks brief.",
+   "hopeful": 8,
+   "problems": [
+    "No corner darkening; reads as a clean bright stock frame, not the organic post look",
+    "Purple/mauve essentially absent, only a faint cool grey in the left pillar shadow",
+    "Polished floor with perfectly parallel light streaks and mirror reflections reads as a render",
+    "Aircraft tails carry a red-and-white airline mark (Turkish Airlines-style logo) which counts as a brand/logo",
+    "Prop staging: lone suitcase with draped coat placed in the light exactly between pillar and window mullion"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "airline tail logo on two aircraft",
+    "render-like floor reflection streaks"
+   ]
+  },
+  {
+   "index": 54,
+   "verdict": "kill",
+   "score": 3,
+   "identity_ok": false,
+   "looks_real": 5,
+   "target_match": "Scene is a hotel bedroom (bed edge, dresser, framed print, sheer curtains), not a clinic consultation room; corner darkening is soft and roughly on target and a grey-mauve haze sits in the curtain and chair shadows, but the overall frame is low-contrast and milky rather than hopeful.",
+   "hopeful": 5,
+   "problems": [
+    "Wrong scene: hotel bedroom armchair, not a clinic consultation room",
+    "Prop-list staging: armchair, cushion, side table with glass, folded towel, olive sprig in vase, stacked books, plant, framed Istanbul print, all pristine",
+    "Mauve tint spreads into midtones (curtains, chair fabric, rug) instead of staying in the blacks; image reads washed and greyish",
+    "Render bokeh blob of plant leaves in top-right foreground",
+    "Everything evenly sharp and symmetric placement of chair/table/window",
+    "Framed Istanbul print is a generic AI cityscape and could pass as signage/artwork with hidden detail"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "foreground plant bokeh blob top right",
+    "milky low-contrast haze",
+    "framed generic print"
+   ]
+  },
+  {
+   "index": 55,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Bottom-left and lower corners fall off naturally at roughly the 80% organic strength and the exposure is a touch brighter; mauve is barely present, only a slight cool cast in the deep door-panel shadows and nowhere on the cream leather.",
+   "hopeful": 7,
+   "problems": [
+    "Purple target barely achieved; deep shadows read neutral rather than mauve",
+    "Mild prop staging: folded blanket plus water bottle set on the seat edge",
+    "Leather grain and wood trim are slightly too uniform, a hint of render smoothness",
+    "Water bottle label is a plain blue band, unreadable, acceptable but a branded-looking shape"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 56,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Corner darkening present top-left and bottom at about the right strength, but the mauve cast bleeds out of the blacks into the whole seat back and tray table, giving a pink-grey haze rather than plum only in the deepest tones.",
+   "hopeful": 6,
+   "problems": [
+    "Mauve/pink tint over midtones of the seat back, tray table and blanket shadows, not confined to blacks",
+    "Notebook cover has a crinkled, mismatched texture that looks synthetic",
+    "Tray table is oversized and extends under the window in a way that does not match a real seat-back tray",
+    "Blanket fringe strands are over-detailed and partly merge into each other",
+    "Hazy glow layer over the window frame reads as a post-processed diffusion filter"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "notebook cover texture",
+    "tray table geometry",
+    "haze/glow overlay at window"
+   ]
+  },
+  {
+   "index": 57,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Corner darkening is almost absent; the frame is evenly lit and bright, so it reads as a hotel marketing shot rather than the ~80% organic-post corner falloff on A1.",
+   "hopeful": 8,
+   "problems": [
+    "No corner darkening at all: edges are as bright as the centre, missing the organic-post look",
+    "Breakfast tray sits crisply staged on the duvet in the exact centre-left with the sheer curtain framing it; every surface (duvet, tray, green chair) is clean and perfectly lit, a hotel-brochure/prop-list tell",
+    "Duvet throw fold is too sculptural and evenly rendered; fabric drapes read as CG cloth",
+    "Bosphorus skyline is hazy but the mosque silhouettes and the ferry are placed too neatly on the horizon; small sailboat shapes near shore lack detail",
+    "Curtain rod / ceiling recess at top is slightly over-simplified"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "staged breakfast tray on bed",
+    "render-smooth duvet folds",
+    "evenly lit, vignette-free frame"
+   ]
+  },
+  {
+   "index": 58,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Right side and lower corners ease into a soft brown-grey, roughly matching A1 corner darkening at 80% while the window keeps the frame hopeful; not over-darkened.",
+   "hopeful": 7,
+   "problems": [
+    "Carafe, two glasses on coasters and a closed notebook are arranged a touch too neatly on the table (mild prop-list staging)",
+    "Bookshelf books are slightly uniform in spine texture",
+    "Left chair seat cushion edge has a small unnatural crease near the armrest"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "slightly staged table-top arrangement"
+   ]
+  },
+  {
+   "index": 59,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Soft, slightly lifted Portra-style contrast with the curtain side and lower corners easing darker; lived-in details (glasses on bed, cardigan on chair, slippers on carpet) sell it as real; brightness is close to target and gently hopeful.",
+   "hopeful": 6,
+   "problems": [
+    "Slight overall muted/greyish cast makes it lean a touch sombre rather than hopeful; could lift midtones 5-10%",
+    "Lamp cord and charging cable on nightstand are slightly indistinct",
+    "Slippers are a little too pristine and symmetrically paired",
+    "Vertical curtain fold lines are very regular"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "indistinct cable at nightstand",
+    "overly regular curtain folds"
+   ]
+  },
+  {
+   "index": 60,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "No corner darkening; the cabin is flat, evenly lit, and cool-toned, reading as a stock/render image, not the organic-post look.",
+   "hopeful": 6,
+   "problems": [
+    "Missing corner darkening: frame is uniformly lit with a clean, product-shot feel",
+    "Tray table geometry is off: it appears to fold out from the seat-back at an angle inconsistent with the seat in front, and the hinge/latch panel is oversized and simplified",
+    "Window is unrealistically large and rounded; cloud deck seen through it is a perfect flat layer with a render-like gradient sky",
+    "Paper cup and blanket are placed cleanly and centrally on the tray like a prop list; cup is spotlessly white with no lid or branding-free perfection",
+    "Seat belt buckle and armrest have plasticky, over-smooth CG surfaces; cabin wall panel seams are too clean",
+    "Deep-focus sharpness everywhere with no lens character"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "oversized simplified tray-latch panel",
+    "impossible tray-table angle",
+    "render-flat cloud layer in window",
+    "over-smooth plastic surfaces on belt buckle and armrest"
+   ]
+  },
+  {
+   "index": 61,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 9,
+   "target_match": "Reads as a genuine phone snap (rain beads on glass, creased worn leather, water bottle in the door pocket, wide-lens skew) but has none of the A1 corner darkening and is cold overcast grey rather than a touch hopeful; also it is a back-seat interior shot, not the 'black sedan at terminal kerb' exterior the label asked for.",
+   "hopeful": 4,
+   "problems": [
+    "Prompt mismatch: interior back seat looking out, not a sedan at the kerb",
+    "No organic-post corner darkening at all; flat, evenly lit phone image",
+    "Blue-grey overcast cast, damp and gloomy, not hopeful",
+    "Terminal signage visible through the window is tiny and unreadable but present; safest to keep it that way or crop"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "Water-bottle label (unreadable, small)",
+    "Distant terminal signage (unreadable)"
+   ]
+  },
+  {
+   "index": 62,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Postcard composition rather than a plain photo: tea glass staged in the bottom-left corner, wet cobbles glossy and uniformly sharp front to back, mosque and Bosphorus perfectly framed at the end of the lane; no corner darkening, flat overcast light, not hopeful.",
+   "hopeful": 5,
+   "problems": [
+    "Prop-list staging: tea glass and saucer placed as a foreground hero in the corner",
+    "Everything sharp from the tea glass to the distant mosque (no real depth of field)",
+    "Too-perfect framing: mosque silhouette centred at the end of the street across the water",
+    "Cobblestone surface is render-like, evenly glossy with repeated highlight pattern",
+    "Near bollard looks like a turned chess piece and the second bollard is a different design a few metres on",
+    "Shutter hinge and latch hardware on the near window is over-detailed and inconsistent between leaves",
+    "No corner darkening; flat grey overcast, none of the warmth of the A1 reference"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "Red-rimmed tea saucer pattern (no text)",
+    "Wall-bracket lamp stub floating on the far building"
+   ]
+  },
+  {
+   "index": 63,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Convincing hotel's-own wide shot with natural soft falloff in the top-left and foreground corners close to the A1 strength; light is muted overcast rather than a touch brighter/hopeful, so it is postable but on the grey side.",
+   "hopeful": 5,
+   "problems": [
+    "Mood is grey and subdued; the view through the window is hazy blue-grey, not the warm lift the target asks for",
+    "Desk lamp at far left is cut in half by the frame edge and its shade looks slightly too small for its base",
+    "Bed foot sits very close to the lens so the mattress corner reads slightly oversized (wide-lens effect, acceptable for hotel photography)",
+    "Carpet texture is a bit mottled and uniform"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "Suitcase brand tag area is clean (no text) - fine",
+    "Foreground tray with glass cropped at bottom right (natural)"
+   ]
+  },
+  {
+   "index": 64,
+   "verdict": "fix",
+   "score": 4,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Not open daylight so much as a flat cool-grey product-style still: four props (folded towel, water glass, watch, soap dispenser) spaced evenly in a row across the counter, everything pin sharp, no corner darkening, no warmth or hopefulness.",
+   "hopeful": 5,
+   "problems": [
+    "Prop-list staging: towel, glass, watch, dispenser lined up at equal intervals like a catalogue flat-lay",
+    "Watch laid flat with its face turned squarely to camera, unnatural for something someone actually took off",
+    "Mirror inconsistency: the dispenser and pump stand in front of the mirror but no reflection of them appears; the mirror shows only a wall, hanging towel and framed picture",
+    "Backsplash geometry is off: a raised ledge runs behind the dispenser and stops before the towel; the tap at far right seems to emerge from the ledge rather than the basin deck",
+    "Everything in focus from towel to mirror reflection; no real depth of field",
+    "Cool grey global cast, no corner darkening, none of the A1 organic warmth"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "Watch dial (no readable text, but a branded-product feel)",
+    "Framed picture reflected in mirror (unreadable)",
+    "Faucet cropped and geometrically odd at right edge"
+   ]
+  },
+  {
+   "index": 65,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Globally dimmed warm-brown dusk with a single faint residual glow at the horizon, close to the F1 slide-1 backdrop; big empty sky for copy.",
+   "hopeful": 5,
+   "problems": [
+    "Palm arrangement is almost mirror-symmetric (two tall palms in the upper corners, descending sizes down both sides) which reads staged/AI rather than a found LA street",
+    "Horizon glow is very faint; could take ~10% more residual light so it does not read as a flat brown wash",
+    "Slight uniform sky grain/texture layer visible"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "near-symmetric composition",
+    "faint grain layer"
+   ]
+  },
+  {
+   "index": 66,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Most of the frame very dark warm-neutral, one residual light area at the sheer-curtained window, matches F1 slide 2; large dark wall area usable behind white serif copy.",
+   "hopeful": 6,
+   "problems": [
+    "Wall surface has a mottled painterly/noise texture rather than plaster",
+    "Lamp cropped at the left edge and the chair/desk in the far dark are barely legible, only a minor loss",
+    "Bed edge lower-left is a slightly perfect fold"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "mottled wall texture",
+    "edge-cropped lamp"
+   ]
+  },
+  {
+   "index": 67,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Globally dimmed with sconce and window as residual light, but the residual light sits dead centre where headline copy would go, and the frame is darker and more ominous than F1's soft dim.",
+   "hopeful": 3,
+   "problems": [
+    "Dark one-point corridor reads eerie/horror rather than calm and hopeful; wrong emotional register for a recovery brand",
+    "Perfectly centred symmetric one-point composition with identical doors on both sides is a render tell",
+    "Carpet and walls are uniformly smooth with no real texture or wear, render-like",
+    "Sconce and curtained window fall in the upper-centre of the frame, exactly where white serif copy would sit, so they would fight the text"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "centred symmetric one-point placement",
+    "render-smooth surfaces",
+    "spotlight-to-black"
+   ]
+  },
+  {
+   "index": 68,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Dimmed warm-neutral interior with one residual light area (dusk window upper-left), glass kept low-left leaving the right two-thirds of the frame dark and clean for copy; good F1 fit.",
+   "hopeful": 6,
+   "problems": [
+    "Window is a touch brighter than the F1 reference, still usable",
+    "Saucer under the tea glass is slightly flat and its rim does not fully resolve",
+    "Table corner at bottom-right dissolves into the wall without a clear edge"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "soft saucer geometry",
+    "ambiguous table-wall edge"
+   ]
+  },
+  {
+   "index": 69,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Dim density on target: frame is 85%+ near-black warm-neutral with a large empty wall for copy; residual light is the lamp glow at right, but the sheer window at left is a second, competing light area (F1 wants one).",
+   "hopeful": 5,
+   "problems": [
+    "Two residual light areas (lamp right edge, window left) instead of one; window could be darkened a stop",
+    "Lamp is sliced by the right frame edge, so the 'nightstand lamp' subject reads as a half-shape at the border",
+    "Wall is a perfectly uniform flat plane with no texture or falloff detail, slightly render-like at this dimness",
+    "Mood is more 'night, lights out' than hopeful; a touch more warmth in the lamp pool would lift it"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "lamp cropped at right frame edge"
+   ]
+  },
+  {
+   "index": 70,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Dim density on target: globally very dark, soft, warm-neutral; one residual light area (sheer window, upper right) and a big blank wall at left/centre for white serif copy.",
+   "hopeful": 5,
+   "problems": [
+    "Global cast leans amber/brown rather than near-neutral; would benefit from a slight desaturation of the warm tone",
+    "Pillow highlight at left is the only detail and is quite low-contrast; linen creases are barely readable so the 'creased linen' subject is mostly lost",
+    "Bed foreground is a large featureless dark mass, borderline muddy in the bottom third"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 71,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Dim density on target (mostly black, one strip of doorway light at left, large plain plaster wall for copy) but the space reads as a hammam/mosque interior, not a hotel, and the floor light patch reads as a spotlight pool.",
+   "hopeful": 4,
+   "problems": [
+    "Ornamental pointed arch with lattice screen at top right reads as mosque/hammam architecture, off-brand for a hotel/clinic backdrop and a staged 'Istanbul' prop; crop or remove",
+    "Light patch on the stone floor is a hard-edged pool with a spotlight-to-black falloff, while the adjacent wall face is only faintly lit; the light direction does not fully agree",
+    "Plaster wall shows a slightly synthetic uniform mottled texture typical of a render material",
+    "Mood is sombre/cold rather than hopeful; the one light source is thin and grey"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "decorative lattice arch top right",
+    "hard-edged floor light pool"
+   ]
+  },
+  {
+   "index": 72,
+   "verdict": "keep",
+   "score": 7,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Dim density on target: very dark warm-neutral frame, residual light from the sheer window at upper left, wide empty plaster wall centre-right for copy; towel stack sits low-left so copy space is clear.",
+   "hopeful": 5,
+   "problems": [
+    "Three towels are folded to identical, perfectly aligned edges with an unnaturally clean rectangular stack, a prop-list/perfect-surface tell",
+    "Marble counter edge is a perfectly straight, crisp line while everything else is soft; slight render feel on the counter",
+    "Glass shower door at right is a near-black featureless slab, adding a second dead zone rather than depth",
+    "Warm cast is fairly strong on towels and counter; nudging toward neutral would match F1 better"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "perfectly uniform folded towel stack"
+   ]
+  },
+  {
+   "index": 73,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Globally dimmed with most of the frame very dark, one residual warm sliver of light at the bottom horizon, mauve/plum sits only in the dark sky blacks; matches F1 slide 01 closely.",
+   "hopeful": 6,
+   "problems": [
+    "Palms are perfectly matched pairs left and right, slightly symmetric composition",
+    "Lower horizon glow is a faint orange band; borderline 'sunset' tell but subtle enough",
+    "Plum tint is fairly uniform across the whole sky rather than only in the deepest blacks"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 74,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Mostly very dark room, one residual light area at the sheer-curtained window, plum only in the shadowed walls and floor; very close to F1 slide 02.",
+   "hopeful": 6,
+   "problems": [
+    "Bed edge and chair at left are almost swallowed; large flat dark area may look muddy on phone screens",
+    "Buildings outside window slightly soft/painterly",
+    "Plum tint spreads across the wall midtones, not strictly confined to blacks"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 75,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Dimmed with one residual light area (dusk sky and shore lights through the car window), but the lower two thirds are a featureless black door mass and the sky carries a visible pinkish-plum cast rather than mauve only in blacks.",
+   "hopeful": 5,
+   "problems": [
+    "Bottom ~60% of frame is undifferentiated near-black car interior with no texture, reads as empty fill rather than a dimmed photo",
+    "Pink/plum cast is in the sky midtones, not restricted to blacks",
+    "Window pillar edge on the right is a hard vertical band that will fight centered serif copy",
+    "Shore lights and bridge suspension cables slightly too crisp and even for a phone shot through glass"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "hard black car pillar band on right"
+   ]
+  },
+  {
+   "index": 76,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 6,
+   "target_match": "Dimmed with residual light in the sky strip and one wall sconce; plum cast is present across the sky and stone walls, not only in the blacks.",
+   "hopeful": 6,
+   "problems": [
+    "Reads as an archviz render: perfectly straight pool coping, smooth stone wall texture, clean mirror reflection of the sconce, single symmetric potted olive by the door",
+    "Sconce and its reflection are a spotlight-to-black hotspot that will sit under copy",
+    "Plum tint in the sky gradient reads as a grade rather than dusk",
+    "Composition is more scene than backdrop; too many distinct elements (arch, door, tree, pool, sconce) behind text"
+   ],
+   "purple_on_skin": false,
+   "artifacts": [
+    "sconce hotspot with mirror reflection",
+    "render-smooth stone surfaces"
+   ]
+  },
+  {
+   "index": 77,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Fully defocused, most of frame near-black, one residual warm glow low right (city light) with palm silhouettes still readable; warm-neutral brown cast close to the F1 palms slide.",
+   "hopeful": 5,
+   "problems": [
+    "Sky cast leans slightly amber rather than neutral; acceptable but a touch warmer than F1",
+    "Upper-left palm mass is a large soft dark blob with little tonal separation from the sky, so the top-left could read as a smudge behind copy"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 78,
+   "verdict": "keep",
+   "score": 8,
+   "identity_ok": true,
+   "looks_real": 8,
+   "target_match": "Fully out of focus, globally very dark, single residual light source (lamp glow upper right), warm-neutral; clean field for white serif copy.",
+   "hopeful": 5,
+   "problems": [
+    "Almost the entire left two-thirds is featureless near-black; the bed and headboard are barely legible, so it depends on the lamp glow alone for any sense of place",
+    "Lamp glow is quite orange/amber; could be pulled slightly toward neutral to sit with the rest of the dim set"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 79,
+   "verdict": "fix",
+   "score": 5,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Blur and dimming are right, but the mauve/plum tint sits across the whole frame (left wall, midtones, and a pink-mauve sunset sky through the sheer) instead of only in the blacks.",
+   "hopeful": 6,
+   "problems": [
+    "Purple/plum cast is global: the left wall and floor midtones are plum-brown, not neutral with mauve confined to shadows",
+    "Window shows a pink/salmon sunset sky, which reads as a stylised colour-grade rather than the near-neutral F1 look",
+    "Window area is the one residual light but it is relatively large and busy (curtain pleats plus sky colour), leaving only the left/lower two-thirds safely usable for copy"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  },
+  {
+   "index": 80,
+   "verdict": "fix",
+   "score": 6,
+   "identity_ok": true,
+   "looks_real": 7,
+   "target_match": "Fully defocused with lower half near-black, but the upper third (sky and water) is a mid-tone grey-mauve band rather than dimmed, and the mauve is in the midtones, not just the blacks.",
+   "hopeful": 6,
+   "problems": [
+    "Top third is too bright and too mid-toned for white serif copy; only the lower half is usable",
+    "Mauve/plum tint runs through the sky and water midtones, not restricted to the deepest tones",
+    "The strong dark diagonal pillar and window frame create a hard shape through the frame that competes with centred text",
+    "Row of bokeh city lights reads slightly like render bokeh (uniform round discs of near-identical size and brightness)"
+   ],
+   "purple_on_skin": false,
+   "artifacts": []
+  }
+ ],
+ "whole": [
+  {
+   "findings": [
+    "OVERALL: as a body of organic content the three sets do not yet read as one feed. The people set (rows 1-3, indices 1-24) is a coherent, quiet, warm-profile campaign and is the strongest pass so far. The scene set is the weak leg: pass-11 scenes went flat, overcast and vignette-free, so they will not sit next to the A1 post or the E3 guide, and several would read as stock/render to a sceptical patient. The dim set is on-brand and close to F1 and needs only a few culls.",
+    "PEOPLE (1-14, band light): confirmed as one campaign. The 6 pass-10 new people (9-14) integrate cleanly with the 8 originals; same wardrobe register (knits, linen, white tees), same inward gaze, same warm wall. Identity holds against originals_8people_contact and pass10 rows 2-3 for every edit I checked. Best of set: 4, 9, 13, 7, 16, 19.",
+    "1 platinum woman: confirm keep (7). The band sits on the wall not the face, but it is the closest thing in the set to the E3 guide portrait, which is the brand's hero image, so it earns its place.",
+    "3 man with plate: confirm fix, and I would go further: pull it from the organic feed as-is. Full-size view shows a hard-edged light bar starting at the left frame edge, a floating figure with no floor, and a plate-and-cloth prop with no reason to exist. It is the one portrait that reads staged and it breaks the close-crop system the other 31 portraits share. Either re-crop to head-and-shoulders on the band, or drop.",
+    "5 dark-haired man slate navy: confirm fix. Right third and both top corners go to black; it reads as the old moody vignette look the brief moved away from. Its lighter sibling 16 is the version to post.",
+    "6 long-hair woman 'pearl white': confirm the colour label is wrong (warm greige) but as a brand image it is fine; keep. 9 'charcoal' is actually warm brown and reads as a duplicate slot of 11 - fine for the feed, flag for the pipeline.",
+    "8 and 21 East Asian man, hand at face: the oval salon/clinic-chair headrest on the right edge and the disembodied second hand are the only clinical furniture in the whole portrait set. On a hair-transplant account that headrest reads as a barber/clinic chair. Keep 8 as a secondary, but crop tighter on the right to lose the headrest before posting; 21 confirm fix.",
+    "10 and 17 South Asian man on 'pearl white': both backdrops are brushed aluminium, not a wall. 10 keep. 17: OVERRULE to keep (7). At full size skin is a plausible warm brown, identity holds, and it is the only 'lighter/hopeful' variant that is actually visibly lighter than its base. Bottom-right corner drop is a small grade fix, not a reshoot.",
+    "12 and 24 freckled auburn woman: downcast eyes and closed-in posture read as a 'before' / shame beat, not hope. This is intrinsic to the pass-10 source, not the grade, so no edit fixes it. Keep 12 as a quiet supporting frame, never as a lead; 24 (forest green, darker) I would not post.",
+    "15 platinum 'lighter/hopeful charcoal': confirm fix. On the sheet it is indistinguishable from 1 in exposure and the backdrop is olive-brown. 18 Black woman lighter/hopeful: confirm fix, not lighter than 14. Only 16 and 17 delivered the lighter brief.",
+    "20 long-hair woman + purple: confirm fix. On the sheet her face is visibly paler and rosier than 6 and than the originals contact; a pink flush on the cheek of a rhinoplasty-account portrait is exactly the healing-flush association we must avoid. Skin lightening is a trust problem, not a taste problem.",
+    "PURPLE PEOPLE (19-24) as a set: the mauve is effectively absent in 20-24 and only global-tint in 19, so none of them reads as a purple variant and none has purple on skin. Brand recommendation: retire the purple people variant entirely. The upside (tonal variety in the deep tones) is invisible on a phone and the downside (bruise-reading on a nose) is catastrophic. 19 can be posted as a plain dusty-rose frame.",
+    "NEW T2I PEOPLE (25-32): this row does not belong to the same campaign. Six of eight are three-quarter, front-lit, soft-smiling, corporate-headshot poses on smooth painted backdrops; the rest of the set is strict profile, inward, band-lit. It reads like a diversity stock page dropped into an editorial feed. 30 (Scandinavian man, eyes closed) is the one t2i portrait that fully sits with the campaign and is the best single image of the pass (9). 32 (Korean man, eyes closed) also fits (keep). 27 Filipino woman: keep as the one smiling frame that stays calm. 29 mixed-heritage woman: OVERRULE to fix - flat light-grey corporate backdrop, no band, no mood, would look like a LinkedIn headshot in the grid. 31 Chinese woman: OVERRULE to fix - milky high-key, hair painterly, brightest frame in the set. 25, 26, 28: confirm fix (25 too polished/glassy eyes, 26 muslin studio, 28 radial patch). Regenerate the six as profiles, eyes down or closed, on the band-lit wall, shirt/knit wardrobe only.",
+    "SCENES (33-64) as a set: confirm the per-image pattern. Almost every frame is missing the A1 corner darkening and has gone cool/overcast, so the scene set is visibly brighter and greyer than the people set and than the A1 post. Pass-7 (v3 contact row 3) is warmer, has corner falloff and sunset light, and is still the quality bar; pass-11 regressed. The other structural problem is repetition: the same hotel suite appears five times (33, 34, 39, 51, 57), the same SUV four times (35, 36, 52, plus 61 interior), the same suitcase three times (37, 38, 53). A feed needs distinct moments, not six grades of one prop list.",
+    "39 confirmed LABEL MISMATCH: full-size view is the hotel suite (bed, tray, roses, green velvet chair, Bosphorus window), not balcony tea. 40 is the balcony tea. Pipeline index is off by one in that pair.",
+    "45 and 54 'clinic consultation room': both are the same hotel-bedroom armchair corner with a framed Galata print. Nothing about them reads clinic, which is actually the safer failure for the brand (no anything clinical), but the prompt is not landing. Confirm 45 fix and 54 kill; if a consultation room is needed, brief it as a quiet sitting room (like 58) rather than a clinic.",
+    "35, 36, 52 chauffeur SUV: confirm fix; 35 also has the water glass on the pavement and a cropped foot (people rule). 37, 38, 53 airport suitcase: all three carry readable Turkish Airlines tail livery through the glass - a hard logo fail for a brand that cannot imply an airline partnership. Confirm fix/kill on all three; a real fix means a different window view or a crop that loses the apron.",
+    "43 and 44 Galata cafe: confirm kill. Saturated pastel postcard, staged tea-glass pair, repeating bollards; it is the most 'travel-stock' frame of the pass and would undermine trust the fastest.",
+    "Scene keeps that actually read as photographs: 59 recovery-day room (best scene of the pass, glasses on the bed, cardigan, slippers, real fabric), 58 sitting room, 63 last-morning room, 50 entryway (with hardware fixes), 55 car back seat. 61 car interior: OVERRULE to keep-with-crop (7) despite the prompt mismatch. It is the most convincing phone photograph in the entire pass (rain on glass, worn leather) and that realism is precisely what this account lacks; apply the corner darkening and a warmer grade, crop the far-left window strip where distant terminal signage sits, and it is postable. 47 airplane Portra is the only edit with corner darkening at roughly the right dose but the tray-table geometry is wrong; confirm fix.",
+    "Scene method ranking observed on the sheet: the new t2i scenes (57-64) outperformed the edits of pass-7 scenes (33-50), because the edits re-staged the identical props and stripped the warmth. Of the six 'realism' styles, Lived-in Portra (59, 47) came closest to the brand, Phone candid was high-variance (61 excellent, 43 worst), Hotel's own photo produced brochure frames except 63, Open daylight produced 58 but otherwise flat, Plain photo control added nothing over the source, and Wide off-axis deep focus (36, 42, 48, 60) was the worst: everything-sharp render look every time. Purple scenes (51-56) mostly turned into global lilac casts (52, 54, 56); only 55 kept mauve in the blacks.",
+    "DIM (65-80) as a set: confirm the per-image verdicts broadly; this is the most on-brand of the three sets and would carry white serif copy well. 66, 68, 69, 70, 72, 74, 77, 78 are ready. 65 and 73 palms are near-symmetric but read as the F1 slide-1 backdrop and will work under copy.",
+    "67 hotel corridor: OVERRULE fix to kill. A dark one-point corridor with a single light at the end is a horror composition, and the only light sits exactly where the headline goes. Not gradable; replace with another room or window subject.",
+    "71 plaster wall + arch: confirm fix, and if cropping cannot lose the lattice arch, kill. The mosque/hammam arch is the one Istanbul cliche in the dim set and it reads sombre, not hopeful.",
+    "76 courtyard pool at night: OVERRULE fix to keep (7). It is a direct echo of the A1 post (the courtyard pool that the account already uses) so it strengthens feed consistency; pull the plum out of the sky midtones and darken the sconce hotspot, but the composition is right.",
+    "75 Bosphorus from car and 80 blur Bosphorus: confirm fix; the hard black pillar band cuts through copy space in both. 79 blur purple curtain: confirm fix, the salmon sunset sky is a colour-grade tell and not near-neutral.",
+    "TRUST RISKS to clear before any of this is posted: airline livery in 37/38/53; cropped foot in 35; badge lettering on SUV tailgates (35, 36, 52); skin lightening on 20 (and mild on 17); the salon headrest in 8/21 on a hair-transplant account; the corporate-headshot register of 25-31, which reads as a stock site, not a concierge who knows these patients."
+   ],
+   "best": [
+    30,
+    4,
+    9,
+    13,
+    16,
+    19,
+    7,
+    59,
+    58,
+    63,
+    61,
+    74,
+    68,
+    66,
+    78
+   ],
+   "worst": [
+    3,
+    43,
+    44,
+    54,
+    67,
+    37,
+    38,
+    53,
+    35,
+    60,
+    48,
+    64,
+    29,
+    31,
+    20,
+    24
+   ],
+   "method_ranking": [
+    "People: band-light edit of the 8 originals and 6 pass-10 new people (1-14) - one coherent campaign, best set of the pass",
+    "People: lighter/hopeful variants (15-18) - only 16 and 17 delivered; 15 and 18 unchanged from base",
+    "People: NEW t2i portraits (25-32) - 30 and 32 fit, the rest are corporate-headshot register and break the campaign",
+    "People: purple variants (19-24) - mauve absent or global, 20 lightened skin; retire this variant on a rhinoplasty account",
+    "Scenes: NEW t2i scenes (57-64) > edits of pass-7 scenes (33-50); edits re-staged the same props and lost warmth and vignette",
+    "Scene styles: Lived-in Portra (59, 47) > Phone candid (61 best, 43 worst; high variance) > Hotel's own photo (63 only) > Open daylight (58 only) > Plain photo control (adds nothing) > Wide off-axis deep focus (render look every time)",
+    "Scenes: purple variants (51-56) - only 55 kept mauve in blacks; 52, 54, 56 became global lilac casts",
+    "Dim: plain dim (65-72) and blur (77, 78) closest to F1 and ready for copy; dim purple (73-76) acceptable in 73/74/76, midtone plum in 75; blur purple (79, 80) global cast, fix"
+   ],
+   "summary": "Pass 11 delivers one strong, coherent people campaign (indices 1-24: warm band-lit profiles, identities intact, no purple on any face) and an on-brand dim/text-backdrop set (65-80, close to F1), but the scene set regressed: nearly every scene is bright, overcast, vignette-free and re-stages the same five props, so it will not sit in the feed beside A1 or the E3 guide, and 43/44, 37/38/53 (airline livery), 35 (foot, glass on pavement) and 54 would actively undermine trust. The new t2i portraits (25-32) read as a corporate stock headshot row rather than the profile campaign; only 30 and 32 fit. Overrules: 17 keep, 61 keep-with-crop, 76 keep, 29 and 31 fix, 67 kill, 3 pull from feed. Retire the purple people variant; regenerate 25-29 and 31 as profiles on the band wall; rebuild scenes from the 57-64 t2i route with the A1 corner darkening and pass-7 warmth, using 59 as the new realism bar."
+  },
+  {
+   "findings": [
+    "PEOPLE, does the band read as light or effect: on the eight originals the band landed on the WALL, not on the person. In 1, 3, 6, 7, 10, 14, 17, 31 the bright stripe runs edge to edge behind the head with a fairly even top and bottom edge (side-column profile peaks 115-209 at eye level and falls to 23-66 at the bottom) while the subject keeps the original's own key light, so wall light and face light disagree. That is the signature of a gradient overlay, not window light. G1 is the opposite: face lit, wall nearly black. It reads as real light only where the wall is dark and the band is subtle enough that the face highlight carries it: 4, 9, 12, 13, 22, 30. Rule for the next pass: the darker the backdrop the better the band works; on pearl/peach/rose walls it becomes a stage strip.",
+    "PEOPLE, frame 3 overruled from fix to kill: hard-edged beam starting at the left frame edge, no floor, no contact shadow, prop plate; it is the one frame that unambiguously reads as a light-bar overlay on a cut-out.",
+    "PEOPLE, 'lighter/hopeful' variants failed as a category (overrule 16 from keep to fix): measured mean luminance 15=64 vs its base 1=85 (DARKER), 18=63 vs base 14=73 (darker), 16=60 vs base 5=56 (+4, invisible), 17=96 vs base 10=91 (+5, and part of that lift is on the skin: cheek 110/78/54 -> 119/84/59, warmer and lighter, which the brief forbids). None is 'visibly lighter'. 15 is also warm brown, not charcoal. Re-run with a global +0.5 to +0.7 stop lift on the wall and the shadow side only, skin masked.",
+    "PEOPLE, purple variants 19-24 are a no-op, not a fail: dark-pixel B-G is negative or ~0 on all six (19 -4.9, 20 -1.7, 21 -1.3, 22 -2.9, 23 +0.5, 24 -4.8) so there is no mauve anywhere, including the face. No frame has purple on skin. They should not be shipped or labelled as purple variants; 22 is effectively a duplicate of 9 and 21 of 8. 20's 'skin lightened' claim is softened: cheek sample 6 vs 20 is 218/169/142 vs 211/164/139, no change between the pair, but BOTH 6 and 20 sit lighter than her tan in the originals contact, so the lightening happened at the base edit, not the purple step.",
+    "PEOPLE, label/colour drift: 9 and 22 (charcoal) rendered warm bronze-brown and duplicate the warm-brown slot; 6 (pearl white) is putty beige; 15 (charcoal) is brown. The backdrop colour instruction is being ignored on roughly a quarter of the people edits.",
+    "PEOPLE, frame 8 and 21 (East Asian man, hand at face): not a band, a top-left flood (profile 93-139 in the top three bands then 30-45 below); the top-right corner falls off like a half vignette. Both need re-doing with the band anchored at eye level; the disembodied second hand from the source is a staging tell in every version.",
+    "PEOPLE, new t2i 25-32: 30 (Scandinavian man, charcoal) is the best portrait in the set and the closest to G1: warm band over closed eyes, wall easing dark top and bottom, real stubble texture. 27 overruled from keep to fix: the backdrop is BRIGHTER at the bottom (side profile 139-155 in the lower bands vs 126 at eye level), so there is no band structure, it is a lit grey studio wall. 29 is nearly flat (106-124 across the whole wall) and reads corporate grey. 25 is the weakest realism of the whole people set (glassy over-bright irises, mottled painted backdrop, top-lit inverted gradient). 26 and 28 have no band (diagonal muslin gradient / radial blob). 31 has a strong band (peak 209) but a milky lifted-shadow look. 32 carries a global amber cast.",
+    "PEOPLE, identity: all 8 originals and all 6 pass-10 new people match their sources on the contact sheet; no identity failures. Skin not lightened except the 6/20 pair (base edit) and the 17 lift.",
+    "SCENES, vignette dose vs the organic posts: A1 corner/centre luminance ratio measures 0.37-0.48; 80% of that dose is roughly 0.5-0.6. Pass-11 scene edits measure 0.9-2.0 on 33, 34, 36-40, 42-46, 49-55, 58, 59, 61, 64 (corners as bright as or brighter than centre), i.e. the corner darkening was NOT applied to the edits at all. Only 47 (0.59), 56 (0.60), 57 (0.56) sit in the target range with real edge falloff; 41 (0.69), 62 (0.76), 63 (0.78) are mild. 60's low ratio (0.53) is the black seat, not a vignette. Overrule 57's per-image note 'no corner darkening at all': it has a soft edge falloff close to target, it just has a very bright centre. Bottom line: the vignette dose on scenes is wrong for 25 of 32 frames, and the pass-7 quality bar (warm evening light, held corners) was brighter AND darker-cornered than anything here.",
+    "SCENES, which method produced photographs and which produced renders: (1) Lived-in Portra produced the single most photographic frame in the set, 59 (recovery-day room: slippers, glasses on the bed, cardigan, lifted contrast, real hotel drabness) and the nearest-to-target vignette in 47; but 35 is broken by a drinking glass on the pavement and a cropped sneaker, and 41 is a soft-focus render. (2) Hotel's own photo: 63 is credible hotel photography (wide lens, cut lamp, grey view) and 57 is decent; 33/39 are brochure restages of the pass-7 suite and 45 is the wrong room. (3) Open daylight: 58 (sitting room) is the second-best t2i, but 34, 40, 46, 64 are flat prop lists. (4) Plain photo control: 50 acceptable, 38/44/62 render. (5) Phone candid: only 61 (t2i) actually looks like a phone frame (rain beads, wide skew) but it is the wrong scene and gloomy; 37 and 43 (edits) are hyper-sharp HDR stock, the preset had no phone effect on edits. (6) Wide off-axis deep focus is the worst method: 36, 42, 48, 60 are the four clearest renders (everything sharp, perfect surfaces, mirror errors, impossible tray table).",
+    "SCENES, t2i beats edit: the eight new t2i scenes (57-64) contain three of the four best scene frames (58, 59, 63) while the scene edits 33-50 restage seven pass-7 seeds and produce near-duplicates (33/34/39/51/57 same suite; 35/36/52 same SUV; 37/38/53 same suitcase; 41/42 same bedside; 43/44 same street; 46/55 same back seat; 47/56 same plane). Effective coverage of the edit block is 7 seeds, not 18 frames, and the preset labels barely changed the edit output (controls 38/44/50/62 are indistinguishable from their preset siblings).",
+    "SCENES, hard rule violations confirmed on the sheet: Turkish Airlines red tails with white mark visible through the glass in 37, 38, 53 (logo fail, all three are kills as-is); scrambled tailgate script on 35, 36, 52; cropped sneaker foot bottom-right of 35 (no-people rule); 39 is the hotel suite not balcony tea (pipeline index slip); 45 and 54 'clinic consultation room' are the same hotel reading corner, 54 is 45 with a faint tint.",
+    "SCENES, purple 51-56: mauve in blacks is present only as a trace on 52 (+2.9), 55 (+3.6), 56 (+3.8) and absent on 51, 53, 54; midtone B-G is negative on all six, so the per-image claims of a 'global lilac cast' on 52 and 'pink haze over midtones' on 56 are overstated numerically: 52's cool tone is grey limestone under overcast, 56's is a warm-pink lift. No scene has an offensive purple cast; the treatment is simply too faint to justify a variant.",
+    "SCENES, hopefulness regressed: every pass-11 scene is overcast flat daylight; the pass-7 bar (v3 contact row 3) had low warm sun and held corners. 46, 61, 62, 63 in particular are grey and damp. The 'touch more hopeful/brighter' brief was read as 'brighter' only.",
+    "DIM, usability behind white serif copy: 65, 66, 68, 69, 70, 72 are usable now (86-98% of pixels under L40, 95th percentile 31-70, one residual light area kept in a corner). 73 and 74 are the best purple-dim frames and closest to F1 slides 1 and 2. 77 and 78 (blur) are clean fields, 78 is nearly a black card (p95 36) so 77 is the better of the two. 67 is unusable: mean L 12, p95 17, essentially nothing renders on a phone, and the sconce/window sits dead centre under the headline; centred one-point corridor also reads render. 71 (hammam arch, hard floor light pool) and 76 (archviz restage of the A1 courtyard, sconce hotspot with mirror reflection) confirmed as fixes. 79 (window p95 143, top-right corner 161, busy sunset sheer) and 80 (top third mid-tone, corner 63) both have a light area too large and too bright for copy: confirmed fixes.",
+    "DIM, colour: mauve in blacks is present but slight on 73-76, 79, 80 (dark B-G +1.3 to +6.0), and midtones on ALL sixteen dim frames are strongly warm (mid B-G -10 to -46; 78 -46, 77 -32, 71 -26). The set is amber-brown, not the 'near-neutral or warm-neutral' F1 asks for; the per-image 'global plum cast' notes on 75/76/79/80 are really rosy dusk skies in the one residual light area. Recommend desaturating the warm cast 20-30% on 70, 71, 77, 78 and pulling the sunset pink out of 79/80.",
+    "Pipeline-level: the per-image reviewers were accurate on content tells (props, logos, geometry) and I confirm those; where they drifted was on light and colour, which the numbers correct: (a) 57 has corner falloff, (b) 27's wall brightens at the bottom, (c) 16 is not lighter, (d) 20 is not lighter than 6, (e) purple on people and on 51/53/54 is absent rather than 'faint', (f) 52/56/75/76/79/80 midtones are warm, not lilac."
+   ],
+   "best": [
+    4,
+    30,
+    9,
+    12,
+    13,
+    59,
+    58,
+    63,
+    66,
+    68,
+    74,
+    73,
+    77
+   ],
+   "worst": [
+    3,
+    25,
+    35,
+    36,
+    37,
+    38,
+    42,
+    43,
+    44,
+    45,
+    48,
+    53,
+    54,
+    60,
+    64,
+    67,
+    71,
+    79
+   ],
+   "method_ranking": [
+    "SCENES: NEW scene t2i (57-64) over scene edits of pass-7 seeds (33-50): t2i gave 58, 59, 63; edits gave near-duplicates with the vignette not applied",
+    "SCENES by preset: 1. Lived-in Portra (59 best frame in set, 47 nearest vignette; 35 and 41 fail on content)",
+    "2. Hotel's own photo (63 credible, 57 decent; 33/39 brochure restages, 45 wrong room)",
+    "3. Open daylight (58 good; 34/40/46/64 flat prop lists, coolest grade)",
+    "4. Plain photo control (50 ok; 38/44/62 render; indistinguishable from preset siblings, so presets barely moved the edits)",
+    "5. Phone candid (only works on t2i 61; on edits 37/43 it produced HDR stock renders)",
+    "6. Wide off-axis deep focus (36/42/48/60: the four clearest renders, every surface sharp, mirror and tray-table geometry errors)",
+    "PEOPLE: band-light edit works on dark walls (charcoal/navy/forest: 4, 9, 13, 22, 30) and fails on light walls (pearl/peach/rose: 1, 6, 10, 14, 17, 31) where it reads as a stage stripe; 'lighter/hopeful' step is a no-op or darkens; 'purple' step is a no-op on people and on 51/53/54",
+    "DIM: straight dim (65, 66, 68-70, 72) and dim-purple (73, 74) usable; blur 77 > 78; scene-like dims (67, 71, 76) fail as backdrops"
+   ],
+   "summary": "Pass 11 people: identity holds on all 32 and no frame has purple on skin, but the band light mostly landed on the wall rather than the face, so it reads as a gradient overlay except on the dark-backdrop frames (4, 9, 12, 13, 30 are the keepers, 30 is the best new portrait). The 'lighter/hopeful' step did not lighten (15 and 18 are darker than their bases, 16 +4 L, 17 lifted skin instead), and the purple step produced zero mauve, so both variant families are effectively duplicates. Scenes: the corner-darkening dose is wrong on 25 of 32 frames (corner/centre ratio 0.9-2.0 vs A1's 0.4-0.5; only 47, 56, 57 in range), everything is overcast and flat, and the edits restage seven pass-7 seeds as near-duplicates; the eight new t2i scenes are the only ones that look like photographs (59, 58, 63). Lived-in Portra and Hotel's own photo were the most photographic presets, Wide off-axis deep focus the most render-like, and Phone candid only worked on t2i. Hard fails: airline tail logos in 37/38/53, glass-on-ground and foot in 35, wrong rooms in 39/45/54. Dim backdrops are largely usable behind white copy (65, 66, 68-70, 72-74, 77) but the whole set runs amber rather than warm-neutral, 67 is too dark and centred, 71/76 are scenes not backdrops, and 79/80 carry a residual light area too large and bright for text."
+  },
+  {
+   "findings": [
+    "PURPLE-ON-FACE (hard fail criterion): NONE. All six purple variants (19-24) measured b-g between -14 and -25 on skin and eye/nose/jaw crops show only warm tones; the mauve is absent from faces everywhere. Confirms all six per-image 'purple_on_skin:false'. Side note: 20, 21, 22, 23, 24 have essentially no mauve anywhere, so from a compliance view they are just duplicates of the plain versions (safe, but not the requested variant).",
+    "LOGO FAIL (confirmed, must not post): 37, 38, 53 show two parked aircraft with a real airline's red tail fin and white crescent/bird mark, clearly recognisable through the terminal glass. Real-carrier livery on a medical-travel account is a brand/logo violation. Crop or regenerate the apron view.",
+    "TEXT/BADGE FAIL (confirmed): 35, 36 and 52 (same SUV seed) carry a garbled chrome model script on the tailgate lower-right plus a taillight-bar badge and logo-shaped wheel centre caps. Reads as a scrambled marque designation at feed size. Retouch the badge area or regenerate.",
+    "PEOPLE FRAGMENT (confirmed): 35 has a white sneaker/foot of a cropped person entering at the bottom-right edge beside the rear tyre. Violates the no-people scene rule; combined with the tailgate badge, 35 is the single worst scene for compliance.",
+    "SKIN LIGHTENING: per-image results overruled on 20 and 17. Fixed cheek patch 6 vs 20: L 114 vs 115, identical hue, so 20 is NOT lightened relative to its band-light base. 10 vs 17: L 96 vs 101 with identical r-g/b-g, a +5 exposure lift consistent with the 'lighter' brief, not a tone shift. 1 vs 15: identical (confirms 15 is not actually lighter). 4 vs 19: highlight cheek slightly lighter and less saturated (r-g 48.6 -> 39.4), a subtle desaturation toward the mauve backdrop, acceptable. Caveat: both 6 and 20 read paler/pinker than the long-haired woman in originals_8people_contact.jpg (deep tan in moody light), so if anything is lightened it is the pair, not 20 alone.",
+    "POST-OP READ CAUTION: 20 (and its base 6) show a pronounced rosy pink malar flush across the cheekbone in profile, exactly where rhinoplasty bruising sits. It is pink, not mauve, so not a hard fail, but 20's flush is larger and cooler than 6's. Recommend desaturating the cheek apple 20-30% before posting either. Lips in 6/20 also have a crackled over-glossy texture.",
+    "POST-OP READ CAUTION (low): 12/24 freckled woman has a nose bridge/tip ruddier than the cheek (nose r-g ~ +6 over cheek in both). The pass-10 source has the same relationship, so it is natural freckled skin, not an edit artifact. Worth a light neutralise of the nose on 24 where the warmer grade makes it read more.",
+    "POST-OP READ CAUTION (low, inherited from source): 8 and 21 show a second person's hand reaching to the man's cheek/nose. On a rhinoplasty account this reads as examination/consultation. The hand is intact (fingers slightly soft in 21, not warped). Also 10, 17, 30, 32 are all eyes-closed, head-tilted-back, nose-to-light poses; four such images across 32 nudges the set toward a 'resting/recovery' read. Not failures, but avoid clustering them in one carousel.",
+    "TATTOO: 4 (and 19) collarbone tattoo renders as a short pseudo-script squiggle; no readable letters at full size. Acceptable; flag for the designer so copy is not placed over it.",
+    "DUPLICATE FACES: none. The eight new t2i people (25-32) are distinct from each other and from the 14 existing identities (checked 27 vs 11/23, 31 vs 11, 30 vs 5/16/7, 32 vs 8). Identity of all 24 edited portraits matches their sources on the originals and pass-10 contact sheets.",
+    "REAL-PATIENT RISK: none. No before/after framing, no clinical setting, no dressings or tape. Note 45 and 54 labelled 'clinic consultation room' are hotel bedroom corners, which from a compliance angle is the safer outcome (no clinical imagery anywhere in the set).",
+    "BORDERS: automated edge scan of all 80 files found no film borders or frame lines.",
+    "DIM/BLUR SET (65-80) brightened x3.5 and inspected: no text, signage, door numbers, exit signs or people in any of them. 79 and 80 carry a strong global magenta cast (whole frame, not just blacks) which is off-brief but harmless behind copy; 71 shows an ornamental pointed arch with lattice screen that reads as mosque/hammam architecture, a religious/cultural-space read to avoid on a medical brand.",
+    "REMAINING SCENE TEXT (acceptable): 61 has tiny unreadable terminal signage and a bottle in the door pocket; 55 water bottle has a plain blue cap and no readable label; 64 watch dial has no text; 63 suitcase and 50 door hardware are clean; saucers in 40/62 are pattern only. 43/44/62 street scenes contain no people and no readable shop signage.",
+    "WARPED ANATOMY: no warped hands, ears or teeth found. Ears on 7, 26, 28 are natural; no teeth visible (closed-lip smiles throughout); 3's hands hold a plate and cloth, clearly not a compress. Skin on 5, 16, 9, 22 shows a fine crazing micro-texture (AI tell, not a safety issue)."
+   ],
+   "best": [
+    4,
+    9,
+    13,
+    14,
+    27,
+    29,
+    30,
+    31,
+    58,
+    59,
+    63,
+    66,
+    68,
+    74
+   ],
+   "worst": [
+    37,
+    38,
+    53,
+    35,
+    36,
+    52,
+    20,
+    71,
+    79,
+    80
+   ],
+   "method_ranking": [
+    "NEW scene t2i (57-64): cleanest for compliance, no logos, no people, no badges",
+    "People band-light base (1-14): no purple, no lightening, only the 4/19 pseudo-script tattoo",
+    "NEW people t2i (25-32): distinct identities, no duplicates; adds two more closed-eye poses",
+    "People lighter/hopeful (15-18): safe; 15 not actually lighter, 17 lift is exposure only",
+    "People band-light + purple (19-24): safe on faces because the mauve barely applied; 20 malar flush is the only caution",
+    "DIM/BLUR backdrops (65-80): no text or people; 79/80 global magenta, 71 mosque/hammam arch",
+    "Scene purple (51-56): 52 tailgate badge, 53 airline livery",
+    "Scene edits (33-50): worst, real airline livery in 37/38, tailgate badge in 35/36, cropped foot in 35"
+   ],
+   "summary": "Safety/compliance pass on pass-11 (files /tmp/claude-0/-home-user-IEMS-490/76d8a8da-60ab-5cff-aaff-4a9af2d4536b/scratchpad/p11/img/NN.png; review crops in .../scratchpad/p11/rev/). The hard-fail criterion is clear: no purple or mauve on any face in 19-24, confirmed numerically and visually. The real compliance failures are in the scenes: 37, 38 and 53 show a real airline's tail livery through the terminal glass, 35/36/52 carry a garbled marque script on the SUV tailgate, and 35 also has a cropped person's foot at the frame edge. Per-image 'skin lightened' calls on 20 and 17 are overruled (fixed-patch measurements show no tone shift versus their bases); the genuine post-op-read risk is the rosy malar flush on 20 (and 6), plus low-level cautions on the ruddy nose in 12/24, the hand-at-face in 8/21, and the cluster of eyes-closed tilted poses (10, 17, 30, 32). No duplicate identities among the eight new t2i people, no borders, no warped anatomy, no text or people in the dim set, and no clinical imagery anywhere. Everything in the people and dim sets is postable subject to the cautions; block 35, 36, 37, 38, 52, 53 until the livery/badge/foot are removed."
+  }
+ ],
+ "syn": {
+  "selects_people": [
+   30,
+   4,
+   9,
+   13,
+   7,
+   16,
+   14,
+   11,
+   10,
+   1
+  ],
+  "selects_scenes": [
+   59,
+   58,
+   63,
+   57,
+   55
+  ],
+  "selects_dim": [
+   66,
+   68,
+   72,
+   73,
+   74,
+   77
+  ],
+  "kill": [
+   3,
+   5,
+   15,
+   18,
+   20,
+   21,
+   24,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   48,
+   51,
+   52,
+   53,
+   54,
+   56,
+   60,
+   62,
+   64,
+   67
+  ],
+  "fix": [
+   {
+    "index": 6,
+    "what": "Desaturate the rosy malar flush on the cheek apple 20-30% and de-gloss the lips (post-op flush read on a rhinoplasty account); then it is the long-hair woman's postable frame. 20 is a grey duplicate and is killed."
+   },
+   {
+    "index": 8,
+    "what": "Crop the right edge to lose the oval salon/clinic headrest and, if the crop holds, the left edge to lose the second person's hand; otherwise inpaint both out. Re-anchor the band at eye level (currently a top-left flood). 21 is the same frame with worse light and is killed."
+   },
+   {
+    "index": 17,
+    "what": "Re-run the lighter grade as a masked wall/shadow-side lift only (skin masked, face delta L <= 3); lift the bottom-right corner so it no longer drops to black. Until then post 10 for this person."
+   },
+   {
+    "index": 25,
+    "what": "Regenerate: strict profile, eyes down or closed, band-lit dark wall, real skin texture reading early sixties, no glassy over-bright irises, no top-lit inverted gradient."
+   },
+   {
+    "index": 26,
+    "what": "Regenerate: profile, band-lit charcoal or deep dusty-rose wall (no mottled studio muslin), lens depth falloff, no smile; keep the turtleneck."
+   },
+   {
+    "index": 27,
+    "what": "Re-light and turn to profile: band at eye level with the wall easing darker toward the bottom (currently brighter at the bottom, so no band structure); otherwise the closest of the smiling t2i frames."
+   },
+   {
+    "index": 28,
+    "what": "Regenerate: profile, horizontal band (not a radial patch) with top and bottom easing dark, deeper peach wall, fix the hard hair cut-out edge on frame right."
+   },
+   {
+    "index": 29,
+    "what": "Regenerate on a charcoal or warm-brown wall with the band; the flat light-grey studio backdrop reads as a corporate headshot in the grid. Face and hair are good, keep the person."
+   },
+   {
+    "index": 31,
+    "what": "Regenerate with a true shadow side: drop the milky lifted-shadow high-key, less painterly fringe; the band on the pearl wall itself is fine but should be feathered, not edge-to-edge."
+   },
+   {
+    "index": 33,
+    "what": "Apply the A1 corner darkening at 80% (target corner/centre luminance ratio 0.50-0.60) and warm the grade toward the pass-7 suite; keep as the spare suite frame behind 57."
+   },
+   {
+    "index": 40,
+    "what": "Only balcony-tea frame: add corner darkening and warmth, inpaint the ghosted double rim and the hard band in the tea, remove sugar cubes and sprig, soften the background to give lens depth."
+   },
+   {
+    "index": 47,
+    "what": "Inpaint the tray table so it attaches to the seatback in front, remove the shoe toe and cable bottom-right and the misplaced latch; its warm grade and corner falloff (ratio 0.59) are the vignette-dose reference for pass 12."
+   },
+   {
+    "index": 49,
+    "what": "Inpaint the tea glass off the railing, add the 80% corner darkening, add slight depth blur to the skyline and second ferry; fix the half-rendered lamp top-left."
+   },
+   {
+    "index": 50,
+    "what": "Retouch the door to one lock body and three consistent hinges, fix the mirror to reflect the room, soften the hard-edged wall light strip, lift the corner darkening from ~65% to 80% and warm the grey cast slightly."
+   },
+   {
+    "index": 61,
+    "what": "Crop the far-left window strip (distant terminal signage), add the 80% corner darkening and a warm lift to the blue-grey cast; relabel as 'car interior at terminal' since it is not the kerb exterior. Most convincing phone frame of the pass."
+   },
+   {
+    "index": 71,
+    "what": "Crop to lose the lattice arch top-right (mosque/hammam read), soften the hard-edged floor light pool; if the crop cannot lose the arch, kill."
+   },
+   {
+    "index": 75,
+    "what": "Reframe or crop to remove the hard black pillar band on the right, pull the pink out of the sky midtones (mauve only under L25), and tighten on the window so the bottom 60% is not a featureless black mass."
+   },
+   {
+    "index": 76,
+    "what": "Pull the plum out of the sky and stone midtones (mask to L<25), darken the sconce hotspot and its reflection; the composition echoes the A1 courtyard so it is worth saving as a backdrop."
+   },
+   {
+    "index": 79,
+    "what": "Neutralise the global mauve on the wall and floor, desaturate the salmon sunset sky to warm-neutral, darken the window area one stop so copy can sit over the upper third; keep the blur."
+   },
+   {
+    "index": 80,
+    "what": "Darken the top third by about one stop, restrict the mauve to blacks, crop to reduce the pillar diagonal; the bokeh discs should be varied in size and brightness."
+   }
+  ],
+  "method_ranking": [
+   {
+    "method": "People: band-light edit on dark walls (charcoal, slate navy, forest green, deep warm brown)",
+    "verdict": "Best method of the pass: 4, 9, 13, 16, 30 read as real light on the face with identity intact; this is the campaign look."
+   },
+   {
+    "method": "People: band-light edit on light walls (pearl white, peach, stone grey, light rose)",
+    "verdict": "Usable but weaker: the band lands on the wall as an edge-to-edge stripe with a defined top edge while the face keeps its own key (1, 6, 10, 14, 31)."
+   },
+   {
+    "method": "Scenes: NEW scene t2i (57-64)",
+    "verdict": "Only scene route that produced photographs (59, 58, 63, 57); prompt drift on 61 and 64 and no vignette applied, but this is the route to build on."
+   },
+   {
+    "method": "Scene preset: Lived-in Portra",
+    "verdict": "Most photographic preset (59 best scene, 47 nearest vignette dose); failed on content in 35 and 41, not on look."
+   },
+   {
+    "method": "Scene preset: Hotel's own photo",
+    "verdict": "63 credible and 57 decent; on pass-7 edits it produced brochure restages (33, 39) and the wrong room (45)."
+   },
+   {
+    "method": "Scene preset: Open daylight",
+    "verdict": "58 is the second-best t2i scene; everything else went flat, cool and prop-listed (34, 40, 46, 64)."
+   },
+   {
+    "method": "Scene preset: Phone candid",
+    "verdict": "High variance: works only on t2i (61, the most convincing phone frame); on edits it produced hyper-sharp HDR stock (37, 43). Use for t2i only."
+   },
+   {
+    "method": "Scene preset: Plain photo (control)",
+    "verdict": "Indistinguishable from its preset siblings (38/44/50/62), proving the presets barely moved the edits; drop it."
+   },
+   {
+    "method": "Scene preset: Wide off-axis deep focus",
+    "verdict": "Worst method: every frame (36, 42, 48, 60) is an everything-sharp render with mirror and geometry errors. Drop entirely."
+   },
+   {
+    "method": "Scenes: edits of pass-7 seeds (33-50)",
+    "verdict": "Failed as a family: vignette not applied on 25 of 32 scene frames, seven seeds restaged as 18 near-duplicates, airline livery and badges carried through. Abandon in favour of t2i."
+   },
+   {
+    "method": "People: lighter/hopeful variants (15-18)",
+    "verdict": "No-op or regression: 15 and 18 are darker than their bases, 16 +4 L (visible but small), 17 lifted the skin. Re-implement as a masked numeric grade, not a prompt."
+   },
+   {
+    "method": "People: NEW t2i portraits (25-32)",
+    "verdict": "30 is the best single image of the pass and 32 fits; the other six are three-quarter, front-lit, smiling corporate headshots that break the profile campaign."
+   },
+   {
+    "method": "People: purple variants (19-24)",
+    "verdict": "Zero mauve anywhere (dark B-G <= 0), so no purple on skin but also no variant; six duplicates. Retire on people."
+   },
+   {
+    "method": "Scenes: purple variants (51-56)",
+    "verdict": "Trace mauve only in 55/52/56, absent in 51/53/54; 55 is the one keeper and only because it reads real. Retire as a scene variant."
+   },
+   {
+    "method": "Dim: plain dim (65-72) and blur (77, 78)",
+    "verdict": "Closest to F1 and ready behind white serif copy; whole set runs amber rather than warm-neutral; scene-like dims (67, 71) fail."
+   },
+   {
+    "method": "Dim: purple dim and blur purple (73-76, 79, 80)",
+    "verdict": "Works when the plum stays in sky/wall blacks (73, 74); fails when it reaches midtones (75, 76, 79, 80). Keep only with a luminance mask."
+   }
+  ],
+  "band_light_verdict": "Keep the band light, but constrain it: it succeeds when the wall is dark and the band is subtle enough that the eye/cheek highlight carries it (4, 9, 13, 16, 30), and it fails on pearl, peach, stone and light rose walls where it becomes an edge-to-edge stripe with a defined upper edge while the face keeps the source key light, i.e. a gradient overlay rather than window light (1, 3, 6, 10, 14, 17, 31). Identity held on all 24 edits and no skin was lightened at the band step (6/20 sit pale relative to the original tan, but at the base edit). The backdrop colour instruction drifted on about a quarter of frames (charcoal rendered warm brown in 9, 15, 22; pearl white as putty in 6). The lighter/hopeful step did not work: 15 and 18 are darker than their bases, 16 is only marginally lighter, 17 lifted the wall and the skin together. Next pass: dark walls only, G1 polarity (face lit, wall darker, brightest only in a feathered zone at eye height), and do the lighter variant as a masked numeric grade with a pass/fail luminance check.",
+  "purple_verdict": "Retire it on people and scenes. On people the purple step produced zero mauve (dark-pixel B-G between -4.9 and +0.5 on all six), so the hard-fail criterion is trivially met (no purple on any face) but 19-24 are duplicates of their base frames; the upside is invisible on a phone and the downside on a rhinoplasty account is a bruise read, so the variant is not worth its risk. On scenes only 52, 55 and 56 carry a trace and 51/53/54 none; where it was visible it drifted toward midtone casts rather than plum in the blacks. Keep purple only as a dim-backdrop option (73 and 74 are the proof it can work there) applied through a strict luminance mask (L under 25, low saturation) so it never reaches midtones as it did in 75, 76, 79 and 80.",
+  "dim_verdict": "Strongest and most on-brand set of the pass. 66, 68, 72, 73, 74 and 77 are ready behind white serif copy now (86-98% of pixels under L40, one residual light area kept to a corner), with 65, 69, 70 and 78 as usable spares. Two corrections for the whole set: the cast is amber-brown rather than the warm-neutral F1 asks for (desaturate the warm 20-30%, most on 70, 77, 78), and the residual light area must stay in a corner and under about L70 (79 and 80 breach this). Scene-like dims fail as backdrops: 67 (one-point corridor, light dead centre, reads horror) is killed, 71 (hammam arch) and 76 (archviz courtyard) survive only with crops and colour fixes. Blur works; 77 is the better blur because 78 is nearly a black card.",
+  "spec_changes": [
+   "PEOPLE band edit: restrict the band-light backdrop palette to charcoal, slate navy, forest green and deep warm brown; drop pearl white, peach, stone grey and light dusty rose from the band set (or lower their base value by one stop) because the band reads as a stage stripe on light walls.",
+   "PEOPLE band prompt: 'soft light falls on the face at eye level; the wall behind is darker than the face and lightens only in a feathered horizontal zone at eye height, easing to dark within the top and bottom 15-20% of the frame; no defined edges, sides not darkened, wall and face lit from the same direction'. Negative: light bar, stripe, gradient overlay, spotlight, vignette.",
+   "PEOPLE lighter/hopeful: implement as a numeric grade, not a prompt: +0.5 to +0.7 stop on the wall and shadow side with a skin mask; accept only if wall mean L rises by 15 or more versus the base and face mean L changes by 3 or less. Re-run 15, 17, 18 this way.",
+   "PEOPLE purple: drop the variant entirely (19-24 produced no mauve; risk of bruise read). Do not re-run.",
+   "PEOPLE backdrop colour gate: measure the wall hue/luminance against the label before review and reject drift (charcoal came out warm brown three times, pearl white as putty).",
+   "PEOPLE new t2i: strict profile or three-quarter-back, eyes down or closed, closed mouth, no smile with teeth, knit/linen/white-tee wardrobe, band-lit dark wall, real pore texture; negative: studio muslin, corporate headshot, catchlight, smile, flat front light. Cap eyes-closed head-tilted poses at one in four so the set does not cluster into a 'recovery' read (10, 17, 30, 32 already exist).",
+   "PEOPLE re-edits: 3 (man with plate) re-edit from source as a head-and-shoulders crop with the plate and cloth removed; 8/21 (hand at face) inpaint the second hand and the oval headrest out or crop right 25%; 6 desaturate the malar flush before posting.",
+   "SCENES route: abandon edits of pass-7 seeds; generate every scene by t2i on the 57-64 route, one frame per moment, no duplicate seeds (pass 11 had five hotel suites, four SUVs, three suitcases). Aim for 18 distinct moments in the patient's week.",
+   "SCENES vignette: apply the A1 corner darkening as a numeric post step, target corner/centre luminance ratio 0.50-0.60 (A1 measures 0.37-0.48 x 0.8), asymmetric and following the light source rather than a radial overlay, verified per frame before review; 47 is the dose reference.",
+   "SCENES light: specify 'low warm late-afternoon or lamp light through the window, soft shadows, held highlights' and forbid 'overcast, flat, grey, HDR'; the pass-7 suite (v3 contact row 3 col 1) remains the bar and is warmer AND darker-cornered than anything in pass 11.",
+   "SCENES realism cues in every prompt: lived-in detail (glasses on the bed, cardigan on the chair, slippers, unmade linen), imperfect surfaces, subject off-centre, 35mm/phone depth falloff, no more than two props. Negative list: tray with roses, tea glass as hero, sugar cubes, arranged towel stack, framed prints, stacked landmarks, sun disc.",
+   "SCENES hard-rule prompts: airport frames face inward or use frosted glass (no apron or tail-fin view); car frames are interior or three-quarter front with no tailgate, badge or wheel-cap; no signage, plates or door numbers; no people or body parts.",
+   "SCENES presets: drop Wide off-axis deep focus and Plain photo; use Lived-in Portra and Hotel's own photo as the two styles; Phone candid only on t2i.",
+   "SCENES consultation room: re-brief as a quiet sitting room in the manner of 58 (two chairs, window, carafe), never a clinic; 45/54 produced hotel corners, which is the safer failure but not the ask.",
+   "SCENES pipeline: fix the index slip that labelled the hotel suite as balcony tea (39/40) and the prompt drift on 61 (interior instead of kerb) and 64 (flat-lay instead of morning counter).",
+   "DIM: desaturate the warm cast 20-30% toward warm-neutral across the set; keep the one residual light area in a corner (top-left or bottom-right) under L70; keep the centre 60% of the frame under L40; no corridors, arches, pools with sconces or pillar bands through the copy area; blur variants with a single light source. Dim purple only through a luminance mask (L under 25, saturation 8% or less).",
+   "REVIEW gates before human review: automated logo/text detector, person/body-part detector, corner/centre ratio, wall hue versus label, face delta L versus base, dark-pixel B-G for purple; anything failing a gate is regenerated, not reviewed."
+  ],
+  "summary": "Pass 11's people set is the strongest so far: identity holds on all 24 edits, no purple reached any face, and ten portraits (30, 4, 9, 13, 7, 16, 14, 11, 10, 1) can post as one campaign. The band light only works where the wall is dark and the face carries the highlight; on pale walls it reads as an applied stripe, the lighter/hopeful step did not lighten (15 and 18 are darker than their bases, 17 lifted the skin), and the purple step produced zero mauve, so both variant families are duplicates and the purple people variant should be retired. Six of the eight new t2i portraits are three-quarter corporate headshots that break the profile campaign; only 30 (best image of the pass) and 32 fit, so 25-29 and 31 need regenerating as band-lit profiles. Scenes regressed: the corner darkening was not applied on 25 of 32 frames, the light went overcast and grey, the edits restaged seven pass-7 seeds as near-duplicates, and 37/38/53 (airline livery), 35/36/52 (badges, cropped foot), 43/44 and 54 are hard kills; only the t2i route produced photographs (59, 58, 63, 57) plus the 55 back seat. The dim set is on-brand and ready behind white serif copy (66, 68, 72, 73, 74, 77 selected), needing only a 20-30% pull on the amber cast, with 67 killed and 71/75/76/79/80 fixable by crop and colour. Pass 12 should keep the band-light edit on dark walls only, do the lighter variant as a masked numeric grade, drop purple except as a luminance-masked dim option, rebuild every scene by t2i with a verified corner ratio of 0.50-0.60, warm low light and lived-in detail, and add automated logo/person/skin-luminance gates before human review."
+ }
+}
