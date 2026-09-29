@@ -1,0 +1,578 @@
+[
+ {
+  "id": "dbf52d5c-3541-414a-8d0a-a42b9e9fefaa",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "1. platinum-haired woman \u00b7 band light \u00b7 warm brown",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040629_dbf52d5c-3541-414a-8d0a-a42b9e9fefaa.png",
+  "ref": 1
+ },
+ {
+  "id": "b64b63b2-fe0b-49c6-8171-72337155f960",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "2. woman, dark hair up \u00b7 band light \u00b7 dusty rose",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040944_b64b63b2-fe0b-49c6-8171-72337155f960.png",
+  "ref": 1
+ },
+ {
+  "id": "8fee36df-0640-4157-afa2-2e7fb12034aa",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "3. man, white linen shirt, plate \u00b7 band light \u00b7 stone grey",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040945_8fee36df-0640-4157-afa2-2e7fb12034aa.png",
+  "ref": 1
+ },
+ {
+  "id": "e2271876-e9c0-47f7-98dd-39e924269761",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "4. Black woman, low bun \u00b7 band light \u00b7 charcoal",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040630_e2271876-e9c0-47f7-98dd-39e924269761.png",
+  "ref": 1
+ },
+ {
+  "id": "adfdd306-1b72-47ab-86d7-3da3d77427b1",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "5. dark-haired man \u00b7 band light \u00b7 slate navy",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040944_adfdd306-1b72-47ab-86d7-3da3d77427b1.png",
+  "ref": 1
+ },
+ {
+  "id": "fa7cac9e-69d8-4466-a941-68c7e876f823",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "6. woman, long straight dark hair \u00b7 band light \u00b7 pearl white",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040630_fa7cac9e-69d8-4466-a941-68c7e876f823.png",
+  "ref": 1
+ },
+ {
+  "id": "13a38a1a-1b74-42cc-b440-d347bceaf866",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "7. curly-haired man \u00b7 band light \u00b7 dusty rose",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040945_13a38a1a-1b74-42cc-b440-d347bceaf866.png",
+  "ref": 1
+ },
+ {
+  "id": "8e8c4d06-44b9-48f0-a9ec-82b8b159bfa4",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "8. East Asian man, hand at face \u00b7 band light \u00b7 peach",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040945_8e8c4d06-44b9-48f0-a9ec-82b8b159bfa4.png",
+  "ref": 1
+ },
+ {
+  "id": "5a651c3a-4260-4f9e-b877-ef8ce15ef257",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "9. new: Middle Eastern woman, wavy hair \u00b7 band light \u00b7 charcoal",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040944_5a651c3a-4260-4f9e-b877-ef8ce15ef257.png",
+  "ref": 1
+ },
+ {
+  "id": "191bdfe0-b782-4d32-8e2b-360f99d87589",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "10. new: South Asian man, eyes closed \u00b7 band light \u00b7 pearl white",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040945_191bdfe0-b782-4d32-8e2b-360f99d87589.png",
+  "ref": 1
+ },
+ {
+  "id": "f5546a26-189f-4e42-a021-c57f9eba6834",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "11. new: East Asian woman, bob \u00b7 band light \u00b7 warm brown",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040945_f5546a26-189f-4e42-a021-c57f9eba6834.png",
+  "ref": 1
+ },
+ {
+  "id": "8932cca1-f4b7-4169-a9a5-6d79a2356cf8",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "12. new: freckled woman, auburn hair \u00b7 band light \u00b7 dusty rose",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_040945_8932cca1-f4b7-4169-a9a5-6d79a2356cf8.png",
+  "ref": 1
+ },
+ {
+  "id": "2a192786-857e-4f02-bf84-047d94dc3b47",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "13. new: Latino man, curly hair \u00b7 band light \u00b7 stone grey",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_2a192786-857e-4f02-bf84-047d94dc3b47.png",
+  "ref": 1
+ },
+ {
+  "id": "cc5095ec-174d-46e3-bb84-876041cd218e",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "14. new: Black woman, short natural hair \u00b7 band light \u00b7 peach",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041042_cc5095ec-174d-46e3-bb84-876041cd218e.png",
+  "ref": 1
+ },
+ {
+  "id": "413a9528-bffd-4937-8cfa-32ef7403c7b8",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "15. platinum-haired woman \u00b7 band light, lighter/hopeful \u00b7 charcoal",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041040_413a9528-bffd-4937-8cfa-32ef7403c7b8.png",
+  "ref": 1
+ },
+ {
+  "id": "cf53205e-de8d-4dcf-9901-9f478a2e0380",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "16. dark-haired man \u00b7 band light, lighter/hopeful \u00b7 slate navy",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041040_cf53205e-de8d-4dcf-9901-9f478a2e0380.png",
+  "ref": 1
+ },
+ {
+  "id": "584a8125-0a8a-4e46-87ff-3dcc716f5269",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "17. new: South Asian man, eyes closed \u00b7 band light, lighter/hopeful \u00b7 pearl white",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_584a8125-0a8a-4e46-87ff-3dcc716f5269.png",
+  "ref": 1
+ },
+ {
+  "id": "9299318f-440e-42cc-9773-f6d6b89ece87",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "18. new: Black woman, short natural hair \u00b7 band light, lighter/hopeful \u00b7 warm brown",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041042_9299318f-440e-42cc-9773-f6d6b89ece87.png",
+  "ref": 1
+ },
+ {
+  "id": "686690fe-6341-45ba-b92d-2339bf40c531",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "19. Black woman, low bun \u00b7 band light + purple \u00b7 dusty rose",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_686690fe-6341-45ba-b92d-2339bf40c531.png",
+  "ref": 1
+ },
+ {
+  "id": "643308ec-d05e-4474-9462-6e8fa994b4e6",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "20. woman, long straight dark hair \u00b7 band light + purple \u00b7 stone grey",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_643308ec-d05e-4474-9462-6e8fa994b4e6.png",
+  "ref": 1
+ },
+ {
+  "id": "bb917622-abc3-43b0-8a8b-79a9b5fe48ce",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "21. East Asian man, hand at face \u00b7 band light + purple \u00b7 peach",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_bb917622-abc3-43b0-8a8b-79a9b5fe48ce.png",
+  "ref": 1
+ },
+ {
+  "id": "4d0aa584-6ec4-40d8-9b5c-94c79ee5c401",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "22. new: Middle Eastern woman, wavy hair \u00b7 band light + purple \u00b7 charcoal",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_4d0aa584-6ec4-40d8-9b5c-94c79ee5c401.png",
+  "ref": 1
+ },
+ {
+  "id": "c4faca2a-e4d4-441e-bc81-3b0b7d9b6507",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "23. new: East Asian woman, bob \u00b7 band light + purple \u00b7 slate navy",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_c4faca2a-e4d4-441e-bc81-3b0b7d9b6507.png",
+  "ref": 1
+ },
+ {
+  "id": "5e5fda70-b9ec-479e-a7ee-a1ad6b3f2924",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "24. new: freckled woman, auburn hair \u00b7 band light + purple \u00b7 forest green",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041041_5e5fda70-b9ec-479e-a7ee-a1ad6b3f2924.png",
+  "ref": 1
+ },
+ {
+  "id": "e03f8c71-d6dc-49e5-bcd0-d568ba254669",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "25. NEW a woman in her early sixties, Northern European, silver-grey hair cut  \u00b7 warm brown",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_e03f8c71-d6dc-49e5-bcd0-d568ba254669.png",
+  "ref": 1
+ },
+ {
+  "id": "e2a47386-0ecd-49c5-9c44-a655f87c9afd",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "26. NEW a Black man in his mid-forties, deep brown skin, hair cropped very sho \u00b7 dusty rose",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_e2a47386-0ecd-49c5-9c44-a655f87c9afd.png",
+  "ref": 1
+ },
+ {
+  "id": "30cff2f9-a207-4fd8-a9bf-d5ee00f3366e",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "27. NEW a Filipino woman in her late twenties, tan skin, long black hair pulle \u00b7 stone grey",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_30cff2f9-a207-4fd8-a9bf-d5ee00f3366e.png",
+  "ref": 1
+ },
+ {
+  "id": "a7512c7b-db54-4e09-b63c-ea5691327274",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "28. NEW a Latino man around fifty-eight, tan skin, hair cut close and gone sil \u00b7 peach",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_a7512c7b-db54-4e09-b63c-ea5691327274.png",
+  "ref": 1
+ },
+ {
+  "id": "b7b01688-0a4d-4004-9183-9b0d52d0d166",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "29. NEW a woman in her early forties of mixed Black and white heritage, medium \u00b7 light cool grey",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041251_b7b01688-0a4d-4004-9183-9b0d52d0d166.png",
+  "ref": 1
+ },
+ {
+  "id": "6ae8f775-052c-4ef9-bcc3-43599020daa3",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "30. NEW a Scandinavian man in his late twenties, dark-blond hair cut short and \u00b7 charcoal",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_6ae8f775-052c-4ef9-bcc3-43599020daa3.png",
+  "ref": 1
+ },
+ {
+  "id": "73caf6bf-15da-44f5-acc3-7186993094cc",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "31. NEW a Chinese woman in her late fifties, warm light-tan skin, short grey h \u00b7 pearl white",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_73caf6bf-15da-44f5-acc3-7186993094cc.png",
+  "ref": 1
+ },
+ {
+  "id": "14bfb3fc-6cc9-4364-b137-b8070689d885",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "32. NEW a Korean man in his late forties, hair cut short and greying at the te \u00b7 warm brown",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_14bfb3fc-6cc9-4364-b137-b8070689d885.png",
+  "ref": 1
+ },
+ {
+  "id": "d9213e87-6ba6-4a5e-bf5d-b1eff26a94bf",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "33. hotel suite, Bosphorus view \u00b7 Hotel's own photo",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_d9213e87-6ba6-4a5e-bf5d-b1eff26a94bf.png",
+  "ref": 1
+ },
+ {
+  "id": "27e91116-7785-4e3a-a7e8-144789fd628b",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "34. hotel suite, Bosphorus view \u00b7 Open daylight",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_27e91116-7785-4e3a-a7e8-144789fd628b.png",
+  "ref": 1
+ },
+ {
+  "id": "90be1878-cd0d-4d4a-9c31-9a264b9d5afe",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "35. chauffeur SUV, hotel entrance \u00b7 Lived-in Portra",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_90be1878-cd0d-4d4a-9c31-9a264b9d5afe.png",
+  "ref": 1
+ },
+ {
+  "id": "a5d4caef-0ef4-46d5-aebe-8abcc1eca516",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "36. chauffeur SUV, hotel entrance \u00b7 Wide off-axis, deep focus",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041250_a5d4caef-0ef4-46d5-aebe-8abcc1eca516.png",
+  "ref": 1
+ },
+ {
+  "id": "f50425d6-9605-4f4b-ab4f-14cbe029a0ac",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "37. airport arrivals, lone suitcase \u00b7 Phone candid",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041300_f50425d6-9605-4f4b-ab4f-14cbe029a0ac.png",
+  "ref": 1
+ },
+ {
+  "id": "9cbc33ae-4d82-43bc-937e-352b74721b31",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "38. airport arrivals, lone suitcase \u00b7 Plain photo (control)",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_9cbc33ae-4d82-43bc-937e-352b74721b31.png",
+  "ref": 1
+ },
+ {
+  "id": "875d4bc7-79ab-42e3-a832-b56885b47379",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "39. balcony tea, Bosphorus sunrise \u00b7 Hotel's own photo",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_875d4bc7-79ab-42e3-a832-b56885b47379.png",
+  "ref": 1
+ },
+ {
+  "id": "521088ee-59fb-4cd2-bfee-f7b3d3b58c93",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "40. balcony tea, Bosphorus sunrise \u00b7 Open daylight",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_521088ee-59fb-4cd2-bfee-f7b3d3b58c93.png",
+  "ref": 1
+ },
+ {
+  "id": "7d3fa80d-783e-4706-afdf-0df0c7261510",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "41. hotel bedside still life \u00b7 Lived-in Portra",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_7d3fa80d-783e-4706-afdf-0df0c7261510.png",
+  "ref": 1
+ },
+ {
+  "id": "e31fcf01-780a-4c6d-8100-6130470591fe",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "42. hotel bedside still life \u00b7 Wide off-axis, deep focus",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_e31fcf01-780a-4c6d-8100-6130470591fe.png",
+  "ref": 1
+ },
+ {
+  "id": "6f3b23ad-26fd-45f4-8942-382f8c65bb23",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "43. Galata street cafe \u00b7 Phone candid",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_6f3b23ad-26fd-45f4-8942-382f8c65bb23.png",
+  "ref": 1
+ },
+ {
+  "id": "c7b10073-fe31-44c3-b08d-cd1f9bed489c",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "44. Galata street cafe \u00b7 Plain photo (control)",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_c7b10073-fe31-44c3-b08d-cd1f9bed489c.png",
+  "ref": 1
+ },
+ {
+  "id": "302d371e-9046-4fa3-baa5-7c5d26942fd3",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "45. clinic consultation room \u00b7 Hotel's own photo",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041300_302d371e-9046-4fa3-baa5-7c5d26942fd3.png",
+  "ref": 1
+ },
+ {
+  "id": "50c308fa-e9cd-420f-9da7-c8b6f92445d3",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "46. car back seat, tinted window \u00b7 Open daylight",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_50c308fa-e9cd-420f-9da7-c8b6f92445d3.png",
+  "ref": 1
+ },
+ {
+  "id": "e3e86dc9-7f37-498e-a2e0-1e644b32d510",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "47. airplane window seat \u00b7 Lived-in Portra",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_e3e86dc9-7f37-498e-a2e0-1e644b32d510.png",
+  "ref": 1
+ },
+ {
+  "id": "1b91b143-56c0-45f4-a549-4a776547e009",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "48. hotel bathroom vanity \u00b7 Wide off-axis, deep focus",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041259_1b91b143-56c0-45f4-a549-4a776547e009.png",
+  "ref": 1
+ },
+ {
+  "id": "79c70167-086a-48c0-be50-1284364fec12",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "49. Bosphorus ferry deck \u00b7 Phone candid",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_79c70167-086a-48c0-be50-1284364fec12.png",
+  "ref": 1
+ },
+ {
+  "id": "fd12545a-458c-4923-9a9d-9ef00f0f0574",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "50. hotel entryway at night \u00b7 Plain photo (control)",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_fd12545a-458c-4923-9a9d-9ef00f0f0574.png",
+  "ref": 1
+ },
+ {
+  "id": "b0773341-8099-46db-81c3-3711df0ed897",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "51. hotel suite, Bosphorus view \u00b7 purple",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_b0773341-8099-46db-81c3-3711df0ed897.png",
+  "ref": 1
+ },
+ {
+  "id": "49f2e44b-7caf-42d7-8f82-35b9b25f6f8f",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "52. chauffeur SUV, hotel entrance \u00b7 purple",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_49f2e44b-7caf-42d7-8f82-35b9b25f6f8f.png",
+  "ref": 1
+ },
+ {
+  "id": "703febb2-ac41-4bfd-a640-20e1552972d1",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "53. airport arrivals, lone suitcase \u00b7 purple",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_703febb2-ac41-4bfd-a640-20e1552972d1.png",
+  "ref": 1
+ },
+ {
+  "id": "accc77a1-a55f-4861-aee2-318c7a04b77d",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "54. clinic consultation room \u00b7 purple",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_accc77a1-a55f-4861-aee2-318c7a04b77d.png",
+  "ref": 1
+ },
+ {
+  "id": "2865b612-c582-427f-88f2-2f4e06074187",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "55. car back seat, tinted window \u00b7 purple",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_2865b612-c582-427f-88f2-2f4e06074187.png",
+  "ref": 1
+ },
+ {
+  "id": "be8c283d-d7a2-4f59-9f9f-263d4697ad0e",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "56. airplane window seat \u00b7 purple",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_be8c283d-d7a2-4f59-9f9f-263d4697ad0e.png",
+  "ref": 1
+ },
+ {
+  "id": "2161da71-841a-4215-996f-76c1334240a0",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "57. NEW a hotel suite in Istanbul in the morning: the bed pushed toward a tall \u00b7 Hotel's own photo",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_2161da71-841a-4215-996f-76c1334240a0.png",
+  "ref": 1
+ },
+ {
+  "id": "ef5c8dae-5a1b-4331-8ca6-733cf9e47ab7",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "58. NEW a quiet sitting room used for conversations: two upholstered chairs an \u00b7 Open daylight",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_ef5c8dae-5a1b-4331-8ca6-733cf9e47ab7.png",
+  "ref": 1
+ },
+ {
+  "id": "c022f194-26f7-459e-9f9f-f62836705508",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "59. NEW recovery day in the hotel room: pillows propped against the headboard, \u00b7 Lived-in Portra",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_c022f194-26f7-459e-9f9f-f62836705508.png",
+  "ref": 1
+ },
+ {
+  "id": "cbc423a5-8c45-4455-ada0-80c83db5b526",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "60. NEW mid-flight: the window and tray table of a seat seen from the aisle si \u00b7 Wide off-axis, deep focus",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041502_cbc423a5-8c45-4455-ada0-80c83db5b526.png",
+  "ref": 1
+ },
+ {
+  "id": "f71a1ea4-1b61-487c-ad21-91555483eaff",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "61. NEW the back seat of a plain black sedan waiting at a kerb outside a termi \u00b7 Phone candid",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041449_f71a1ea4-1b61-487c-ad21-91555483eaff.png",
+  "ref": 1
+ },
+ {
+  "id": "0de29b42-10d8-4237-b66f-d2a40d0a9489",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "62. NEW an Istanbul side street in the early morning after rain: wet cobbles,  \u00b7 Plain photo (control)",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041449_0de29b42-10d8-4237-b66f-d2a40d0a9489.png",
+  "ref": 1
+ },
+ {
+  "id": "a6aa5701-f30f-4638-beec-f3dbe18a38b0",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "63. NEW the last morning: a suitcase zipped and standing by the hotel room doo \u00b7 Hotel's own photo",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041449_a6aa5701-f30f-4638-beec-f3dbe18a38b0.png",
+  "ref": 1
+ },
+ {
+  "id": "a2caf96b-1b09-4bd9-83fb-5e610d753b2c",
+  "createdAt": 0,
+  "model": "gpt_image_2_5",
+  "ar": "4:5",
+  "prompt": "64. NEW the hotel bathroom counter in the morning: a folded white towel, a gla \u00b7 Open daylight",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_041449_a2caf96b-1b09-4bd9-83fb-5e610d753b2c.png",
+  "ref": 1
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "index": 1,
+  "label": "platinum-haired woman \u00b7 band light \u00b7 warm brown",
+  "set": "people"
+ },
+ {
+  "index": 2,
+  "label": "woman, dark hair up \u00b7 band light \u00b7 dusty rose",
+  "set": "people"
+ },
+ {
+  "index": 3,
+  "label": "man, white linen shirt, plate \u00b7 band light \u00b7 stone grey",
+  "set": "people"
+ },
+ {
+  "index": 4,
+  "label": "Black woman, low bun \u00b7 band light \u00b7 charcoal",
+  "set": "people"
+ },
+ {
+  "index": 5,
+  "label": "dark-haired man \u00b7 band light \u00b7 slate navy",
+  "set": "people"
+ },
+ {
+  "index": 6,
+  "label": "woman, long straight dark hair \u00b7 band light \u00b7 pearl white",
+  "set": "people"
+ },
+ {
+  "index": 7,
+  "label": "curly-haired man \u00b7 band light \u00b7 dusty rose",
+  "set": "people"
+ },
+ {
+  "index": 8,
+  "label": "East Asian man, hand at face \u00b7 band light \u00b7 peach",
+  "set": "people"
+ },
+ {
+  "index": 9,
+  "label": "new: Middle Eastern woman, wavy hair \u00b7 band light \u00b7 charcoal",
+  "set": "people"
+ },
+ {
+  "index": 10,
+  "label": "new: South Asian man, eyes closed \u00b7 band light \u00b7 pearl white",
+  "set": "people"
+ },
+ {
+  "index": 11,
+  "label": "new: East Asian woman, bob \u00b7 band light \u00b7 warm brown",
+  "set": "people"
+ },
+ {
+  "index": 12,
+  "label": "new: freckled woman, auburn hair \u00b7 band light \u00b7 dusty rose",
+  "set": "people"
+ },
+ {
+  "index": 13,
+  "label": "new: Latino man, curly hair \u00b7 band light \u00b7 stone grey",
+  "set": "people"
+ },
+ {
+  "index": 14,
+  "label": "new: Black woman, short natural hair \u00b7 band light \u00b7 peach",
+  "set": "people"
+ },
+ {
+  "index": 15,
+  "label": "platinum-haired woman \u00b7 band light, lighter/hopeful \u00b7 charcoal",
+  "set": "people"
+ },
+ {
+  "index": 16,
+  "label": "dark-haired man \u00b7 band light, lighter/hopeful \u00b7 slate navy",
+  "set": "people"
+ },
+ {
+  "index": 17,
+  "label": "new: South Asian man, eyes closed \u00b7 band light, lighter/hopeful \u00b7 pearl white",
+  "set": "people"
+ },
+ {
+  "index": 18,
+  "label": "new: Black woman, short natural hair \u00b7 band light, lighter/hopeful \u00b7 warm brown",
+  "set": "people"
+ },
+ {
+  "index": 19,
+  "label": "Black woman, low bun \u00b7 band light + purple \u00b7 dusty rose",
+  "set": "people"
+ },
+ {
+  "index": 20,
+  "label": "woman, long straight dark hair \u00b7 band light + purple \u00b7 stone grey",
+  "set": "people"
+ },
+ {
+  "index": 21,
+  "label": "East Asian man, hand at face \u00b7 band light + purple \u00b7 peach",
+  "set": "people"
+ },
+ {
+  "index": 22,
+  "label": "new: Middle Eastern woman, wavy hair \u00b7 band light + purple \u00b7 charcoal",
+  "set": "people"
+ },
+ {
+  "index": 23,
+  "label": "new: East Asian woman, bob \u00b7 band light + purple \u00b7 slate navy",
+  "set": "people"
+ },
+ {
+  "index": 24,
+  "label": "new: freckled woman, auburn hair \u00b7 band light + purple \u00b7 forest green",
+  "set": "people"
+ },
+ {
+  "index": 25,
+  "label": "NEW a woman in her early sixties, Northern European, silver-grey hair cut  \u00b7 warm brown",
+  "set": "people"
+ },
+ {
+  "index": 26,
+  "label": "NEW a Black man in his mid-forties, deep brown skin, hair cropped very sho \u00b7 dusty rose",
+  "set": "people"
+ },
+ {
+  "index": 27,
+  "label": "NEW a Filipino woman in her late twenties, tan skin, long black hair pulle \u00b7 stone grey",
+  "set": "people"
+ },
+ {
+  "index": 28,
+  "label": "NEW a Latino man around fifty-eight, tan skin, hair cut close and gone sil \u00b7 peach",
+  "set": "people"
+ },
+ {
+  "index": 29,
+  "label": "NEW a woman in her early forties of mixed Black and white heritage, medium \u00b7 light cool grey",
+  "set": "people"
+ },
+ {
+  "index": 30,
+  "label": "NEW a Scandinavian man in his late twenties, dark-blond hair cut short and \u00b7 charcoal",
+  "set": "people"
+ },
+ {
+  "index": 31,
+  "label": "NEW a Chinese woman in her late fifties, warm light-tan skin, short grey h \u00b7 pearl white",
+  "set": "people"
+ },
+ {
+  "index": 32,
+  "label": "NEW a Korean man in his late forties, hair cut short and greying at the te \u00b7 warm brown",
+  "set": "people"
+ },
+ {
+  "index": 33,
+  "label": "hotel suite, Bosphorus view \u00b7 Hotel's own photo",
+  "set": "scenes"
+ },
+ {
+  "index": 34,
+  "label": "hotel suite, Bosphorus view \u00b7 Open daylight",
+  "set": "scenes"
+ },
+ {
+  "index": 35,
+  "label": "chauffeur SUV, hotel entrance \u00b7 Lived-in Portra",
+  "set": "scenes"
+ },
+ {
+  "index": 36,
+  "label": "chauffeur SUV, hotel entrance \u00b7 Wide off-axis, deep focus",
+  "set": "scenes"
+ },
+ {
+  "index": 37,
+  "label": "airport arrivals, lone suitcase \u00b7 Phone candid",
+  "set": "scenes"
+ },
+ {
+  "index": 38,
+  "label": "airport arrivals, lone suitcase \u00b7 Plain photo (control)",
+  "set": "scenes"
+ },
+ {
+  "index": 39,
+  "label": "balcony tea, Bosphorus sunrise \u00b7 Hotel's own photo",
+  "set": "scenes"
+ },
+ {
+  "index": 40,
+  "label": "balcony tea, Bosphorus sunrise \u00b7 Open daylight",
+  "set": "scenes"
+ },
+ {
+  "index": 41,
+  "label": "hotel bedside still life \u00b7 Lived-in Portra",
+  "set": "scenes"
+ },
+ {
+  "index": 42,
+  "label": "hotel bedside still life \u00b7 Wide off-axis, deep focus",
+  "set": "scenes"
+ },
+ {
+  "index": 43,
+  "label": "Galata street cafe \u00b7 Phone candid",
+  "set": "scenes"
+ },
+ {
+  "index": 44,
+  "label": "Galata street cafe \u00b7 Plain photo (control)",
+  "set": "scenes"
+ },
+ {
+  "index": 45,
+  "label": "clinic consultation room \u00b7 Hotel's own photo",
+  "set": "scenes"
+ },
+ {
+  "index": 46,
+  "label": "car back seat, tinted window \u00b7 Open daylight",
+  "set": "scenes"
+ },
+ {
+  "index": 47,
+  "label": "airplane window seat \u00b7 Lived-in Portra",
+  "set": "scenes"
+ },
+ {
+  "index": 48,
+  "label": "hotel bathroom vanity \u00b7 Wide off-axis, deep focus",
+  "set": "scenes"
+ },
+ {
+  "index": 49,
+  "label": "Bosphorus ferry deck \u00b7 Phone candid",
+  "set": "scenes"
+ },
+ {
+  "index": 50,
+  "label": "hotel entryway at night \u00b7 Plain photo (control)",
+  "set": "scenes"
+ },
+ {
+  "index": 51,
+  "label": "hotel suite, Bosphorus view \u00b7 purple",
+  "set": "scenes"
+ },
+ {
+  "index": 52,
+  "label": "chauffeur SUV, hotel entrance \u00b7 purple",
+  "set": "scenes"
+ },
+ {
+  "index": 53,
+  "label": "airport arrivals, lone suitcase \u00b7 purple",
+  "set": "scenes"
+ },
+ {
+  "index": 54,
+  "label": "clinic consultation room \u00b7 purple",
+  "set": "scenes"
+ },
+ {
+  "index": 55,
+  "label": "car back seat, tinted window \u00b7 purple",
+  "set": "scenes"
+ },
+ {
+  "index": 56,
+  "label": "airplane window seat \u00b7 purple",
+  "set": "scenes"
+ },
+ {
+  "index": 57,
+  "label": "NEW a hotel suite in Istanbul in the morning: the bed pushed toward a tall \u00b7 Hotel's own photo",
+  "set": "scenes"
+ },
+ {
+  "index": 58,
+  "label": "NEW a quiet sitting room used for conversations: two upholstered chairs an \u00b7 Open daylight",
+  "set": "scenes"
+ },
+ {
+  "index": 59,
+  "label": "NEW recovery day in the hotel room: pillows propped against the headboard, \u00b7 Lived-in Portra",
+  "set": "scenes"
+ },
+ {
+  "index": 60,
+  "label": "NEW mid-flight: the window and tray table of a seat seen from the aisle si \u00b7 Wide off-axis, deep focus",
+  "set": "scenes"
+ },
+ {
+  "index": 61,
+  "label": "NEW the back seat of a plain black sedan waiting at a kerb outside a termi \u00b7 Phone candid",
+  "set": "scenes"
+ },
+ {
+  "index": 62,
+  "label": "NEW an Istanbul side street in the early morning after rain: wet cobbles,  \u00b7 Plain photo (control)",
+  "set": "scenes"
+ },
+ {
+  "index": 63,
+  "label": "NEW the last morning: a suitcase zipped and standing by the hotel room doo \u00b7 Hotel's own photo",
+  "set": "scenes"
+ },
+ {
+  "index": 64,
+  "label": "NEW the hotel bathroom counter in the morning: a folded white towel, a gla \u00b7 Open daylight",
+  "set": "scenes"
+ },
+ {
+  "index": 65,
+  "label": "DIM tall Los Angeles palm trees seen from below against a fading dusk sky,",
+  "set": "dim"
+ },
+ {
+  "index": 66,
+  "label": "DIM a dim hotel room with a sheer curtain drawn across a window and an old",
+  "set": "dim"
+ },
+ {
+  "index": 67,
+  "label": "DIM a quiet hotel corridor at evening, plain carpet, one distant wall scon",
+  "set": "dim"
+ },
+ {
+  "index": 68,
+  "label": "DIM a tulip-shaped tea glass and saucer on a dark wood table by a window a",
+  "set": "dim"
+ },
+ {
+  "index": 69,
+  "label": "DIM a hotel nightstand at the edge of the frame with a bedside lamp turned",
+  "set": "dim"
+ },
+ {
+  "index": 70,
+  "label": "DIM a close-up of creased white linen sheets in a dark room, one soft fold",
+  "set": "dim"
+ },
+ {
+  "index": 71,
+  "label": "DIM a plain plaster wall and stone floor in an old Istanbul building, one ",
+  "set": "dim"
+ },
+ {
+  "index": 72,
+  "label": "DIM a stack of folded white towels on a marble counter in a dark bathroom,",
+  "set": "dim"
+ },
+ {
+  "index": 73,
+  "label": "DIM purple tall Los Angeles palm trees seen from below against a fading dusk sky,",
+  "set": "dim"
+ },
+ {
+  "index": 74,
+  "label": "DIM purple a dim hotel room with a sheer curtain drawn across a window and an old",
+  "set": "dim"
+ },
+ {
+  "index": 75,
+  "label": "DIM purple the Bosphorus at blue hour seen from the back seat of a moving car, th",
+  "set": "dim"
+ },
+ {
+  "index": 76,
+  "label": "DIM purple a stone courtyard with a still reflecting pool at night, one warm ligh",
+  "set": "dim"
+ },
+ {
+  "index": 77,
+  "label": "BLUR tall Los Angeles palm trees seen from below against a fading dusk sky,",
+  "set": "dim"
+ },
+ {
+  "index": 78,
+  "label": "BLUR a hotel nightstand at the edge of the frame with a bedside lamp turned",
+  "set": "dim"
+ },
+ {
+  "index": 79,
+  "label": "BLUR purple a dim hotel room with a sheer curtain drawn across a window and an old",
+  "set": "dim"
+ },
+ {
+  "index": 80,
+  "label": "BLUR purple the Bosphorus at blue hour seen from the back seat of a moving car, th",
+  "set": "dim"
+ }
+]
