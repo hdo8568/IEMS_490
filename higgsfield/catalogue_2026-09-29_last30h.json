@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "40be12e1-1f33-4eeb-b6c7-a2b5417adcfe",
+    "createdAt": 1790554877.191238,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Same woman, same pose, same camera angle (waist-up, eye level, she stands right of centre turning her head over her shoulder toward camera, wind in her long hair), same beige linen top, same warm golden-hour light and 35mm film grain. Change ONLY the background: instead of the wheat field she is on a quiet Los Angeles hillside at golden hour, soft out-of-focus tall palm trees and a hazy warm LA basin far behind her, dry golden grass at the bottom of the frame. Keep the top-left third of the frame as calm open warm sky so text can sit there. Subtle, natural, not a postcard, no signs or landmarks. Photographic, candid, unretouched skin.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_002117_40be12e1-1f33-4eeb-b6c7-a2b5417adcfe.png",
+    "ref": 1
+  },
+  {
+    "id": "a337769b-a2b9-47e2-bf54-e758403a1a51",
+    "createdAt": 1790554877.235082,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Same man, same pose and camera angle (side profile facing left, eyes closed, chin lifted, head and shoulders in the lower right of the frame, eye level), same dark jacket, same soft film look. Change ONLY the background: a very soft, out-of-focus view of Istanbul across the Bosphorus at dusk, a faint far-off silhouette of domes and minarets low on the horizon, calm pale blue-grey and warm sky, water barely visible. Keep the whole upper-left half calm and empty for text. Subtle, not a postcard. Photographic, natural skin texture.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_002117_a337769b-a2b9-47e2-bf54-e758403a1a51.png",
+    "ref": 1
+  },
+  {
+    "id": "a202ebfd-38d5-4579-86c9-6895698d8d14",
+    "createdAt": 1790554877.314301,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Same man, same pose and camera angle (profile facing left, eyes closed, face lifted, lower right of frame, eye level), same dark jacket, same soft film grain. Replace only the background with a gentle hint of Istanbul: a soft-focus waterfront at golden hour with a distant, hazy skyline of domes low on the horizon, most of the frame warm pale sky. Upper-left area calm and empty for text. Understated, candid, real skin texture, no text.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_002117_a202ebfd-38d5-4579-86c9-6895698d8d14.png",
+    "ref": 1
+  },
+  {
+    "id": "e47608e4-d8cc-4de9-9e99-7f9b71a869da",
+    "createdAt": 1790554877.414566,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Same man as the reference, at home in a real 1950s Wilmette-style kitchen on a grey weekday morning, shot candidly on medium-format film: gentle softness, visible grain, slightly imperfect framing. Eye-level camera from across the room; he leans against the counter holding a mug, looking out the window, right of centre. Worn wood floor, simple white cabinets with small scuffs, a plant on the sill, soft diffused daylight, slightly underexposed corners. The upper-left third is a quiet muted wall with nothing on it, for text. Natural, lived-in, calm; not glossy, not a showroom, no dramatic window light.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_002117_e47608e4-d8cc-4de9-9e99-7f9b71a869da.png",
+    "ref": 1
+  },
+  {
+    "id": "902026ef-0368-4695-80e3-10ae14ca3e3e",
+    "createdAt": 1790554877.650963,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Same woman, same pose, same camera angle (waist-up, eye level, right of centre, head turned over her shoulder toward camera, wind in her hair), same beige linen top, same warm late-afternoon light and 35mm film grain. Replace only the wheat field background with a soft-focus Southern California scene: a blurred row of slender palm trees and a pale warm sky, low golden grass in the foreground. Large calm sky area top-left for text. Understated, no landmarks, no text. Candid film photograph, real skin texture.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_002117_902026ef-0368-4695-80e3-10ae14ca3e3e.png",
+    "ref": 1
+  },
+  {
+    "id": "03955a4d-2926-4a70-a9e3-d56ff315a789",
+    "createdAt": 1790554877.968038,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Candid 35mm film photograph (Kodak Portra 400, slight softness, fine grain, a touch of motion blur in his hands) of the same man from the reference, drying a plate in a real, lived-in older suburban kitchen near Chicago on an overcast morning. Camera at eye level from the doorway, wide, he stands right of centre at the sink by a plain double-hung window; soft grey daylight, trees outside slightly blown out. Ordinary details: a dish rack, a kettle, a few mismatched mugs, painted wood cabinets in muted sage, a little clutter, a calendar on the wall. Upper-left of the frame is a calm plain darker wall for text. Not staged, not a catalogue, not symmetrical, no brass-and-marble showroom look, no perfect lighting. Warm muted colours.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_002117_03955a4d-2926-4a70-a9e3-d56ff315a789.png",
+    "ref": 1
+  },
+  {
+    "id": "088049f6-13c9-43d5-8365-6c44ba4f99aa",
+    "createdAt": 1790555905.273036,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_003825_088049f6-13c9-43d5-8365-6c44ba4f99aa.png",
+    "ref": 1
+  },
+  {
+    "id": "073174d8-4fde-4bee-9ba1-881064d2502d",
+    "createdAt": 1790556001.27946,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004001_073174d8-4fde-4bee-9ba1-881064d2502d.png",
+    "ref": 1
+  },
+  {
+    "id": "3281d123-e05f-4e26-9a52-7540710dd0c3",
+    "createdAt": 1790556003.150323,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004003_3281d123-e05f-4e26-9a52-7540710dd0c3.png",
+    "ref": 1
+  },
+  {
+    "id": "ee28e9a4-46a5-421b-8210-18854d663e4c",
+    "createdAt": 1790556005.196286,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004005_ee28e9a4-46a5-421b-8210-18854d663e4c.png",
+    "ref": 1
+  },
+  {
+    "id": "9b0cfb50-4791-41f1-bf8e-7ad1e9ac3347",
+    "createdAt": 1790556007.443042,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004007_9b0cfb50-4791-41f1-bf8e-7ad1e9ac3347.png",
+    "ref": 1
+  },
+  {
+    "id": "8e8f540f-1be0-4af8-8ab2-a982933daae2",
+    "createdAt": 1790556009.34149,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004009_8e8f540f-1be0-4af8-8ab2-a982933daae2.png",
+    "ref": 1
+  },
+  {
+    "id": "96c9385c-f051-451b-a96e-f2397ac94fef",
+    "createdAt": 1790556011.275945,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004011_96c9385c-f051-451b-a96e-f2397ac94fef.png",
+    "ref": 1
+  },
+  {
+    "id": "3338be00-946b-4d64-a149-31fa53d474c2",
+    "createdAt": 1790556013.278058,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004013_3338be00-946b-4d64-a149-31fa53d474c2.png",
+    "ref": 1
+  },
+  {
+    "id": "c071b510-a0e3-4291-a4c5-e2fadad329bb",
+    "createdAt": 1790556058.366313,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004058_c071b510-a0e3-4291-a4c5-e2fadad329bb.png",
+    "ref": 1
+  },
+  {
+    "id": "0e1fcb6c-8efd-4b92-bfea-5eaabe504911",
+    "createdAt": 1790556060.257945,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004100_0e1fcb6c-8efd-4b92-bfea-5eaabe504911.png",
+    "ref": 1
+  },
+  {
+    "id": "cf6e5f84-8218-43d4-9e32-19b3d770f4b0",
+    "createdAt": 1790556062.532409,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004102_cf6e5f84-8218-43d4-9e32-19b3d770f4b0.png",
+    "ref": 1
+  },
+  {
+    "id": "4e283637-d9fd-4f31-a480-c68111e7338c",
+    "createdAt": 1790556185.887852,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004305_4e283637-d9fd-4f31-a480-c68111e7338c.png",
+    "ref": 1
+  },
+  {
+    "id": "4f1a7db3-def5-4f37-967f-17fc31cff12f",
+    "createdAt": 1790556188.329468,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004308_4f1a7db3-def5-4f37-967f-17fc31cff12f.png",
+    "ref": 1
+  },
+  {
+    "id": "bcc178d9-9d91-44a5-9f8a-de2c450a5da2",
+    "createdAt": 1790556190.301576,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004310_bcc178d9-9d91-44a5-9f8a-de2c450a5da2.png",
+    "ref": 1
+  },
+  {
+    "id": "9db23737-ff55-485a-ac97-cd0e8fd8fd64",
+    "createdAt": 1790556361.96001,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit this exact photo. Keep the woman, her face, hair, denim jacket, pose, the terrace, the plants, the pots, the railing, the sunset light and the framing exactly the same, pixel for pixel. Change ONLY the city skyline in the background: replace the New York skyscrapers with a hazy Istanbul skyline across the Bosphorus at sunset, low rooftops, a few domes and slender minarets far away, water visible between. No skyscrapers. Same colours, same softness, same phone-photo look.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_004601_9db23737-ff55-485a-ac97-cd0e8fd8fd64.png",
+    "ref": 1
+  },
+  {
+    "id": "c8f41aa5-49b3-4035-b1bb-9d4b20fc9096",
+    "createdAt": 1790557058.343691,
+    "model": "outpaint",
+    "ar": "4:5",
+    "prompt": "",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_005738_c8f41aa5-49b3-4035-b1bb-9d4b20fc9096.png",
+    "ref": 1
+  },
+  {
+    "id": "1a3784f6-0411-41a2-92af-17dd18656824",
+    "createdAt": 1790567807.84032,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of Busan, South Korea at golden hour: coastal skyline of Haeundae towers by the sea, calm water in front. Strict composition: flat horizon, the skyline sits in a thin band between 58% and 70% of the frame height, the whole top 55% is soft warm sky with one long thin horizontal band of clouds at about 25% of the height. Warm muted Kodak Portra film look, gentle grain, peach and dusty-rose sky, no people, no text.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_035647_1a3784f6-0411-41a2-92af-17dd18656824.png",
+    "ref": 0
+  },
+  {
+    "id": "b02b6e3d-c9c2-4286-832d-45f0a68cea9f",
+    "createdAt": 1790567807.876202,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of Mexico City at golden hour seen from a high rooftop: low dense city, a few towers along Reforma, distant volcanic mountains faint on the horizon. Strict composition: flat horizon, the skyline sits in a thin band between 58% and 70% of the frame height, the whole top 55% is soft warm sky with one long thin horizontal band of clouds at about 25% of the height. Warm muted Kodak Portra film look, gentle grain, peach and dusty-rose sky, no people, no text.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_035647_b02b6e3d-c9c2-4286-832d-45f0a68cea9f.png",
+    "ref": 0
+  },
+  {
+    "id": "90593511-5f98-4cd9-bba5-0923c5d31f56",
+    "createdAt": 1790567807.88284,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of Phoenix, Arizona at golden hour: low desert city and a distant mountain ridge, a couple of saguaro cacti in silhouette at the bottom. Strict composition: flat horizon, the skyline and mountains sit in a thin band between 58% and 70% of the frame height, the whole top 55% is soft warm sky with one long thin horizontal band of clouds at about 25% of the height. Warm muted Kodak Portra film look, gentle grain, peach and dusty-rose sky, no people, no text.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_035647_90593511-5f98-4cd9-bba5-0923c5d31f56.png",
+    "ref": 0
+  },
+  {
+    "id": "5a40929a-12fb-4b20-95e7-4140b662e78e",
+    "createdAt": 1790567807.885817,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Candid film photograph inside an airplane cabin, premium economy, taken from the seat in front facing back. A woman in her late 20s with a light-brown bob and freckles sits in the window seat, looking straight into the camera, laughing with pure excitement, hands pressed together near her chin, visibly hyped for her trip. Her face is exactly in the horizontal centre of the wide frame. The oval airplane window showing a sunlit sea far below is to the left of her, the empty seat to her right. Warm soft daylight, Kodak Portra 400, gentle grain, natural skin texture, white t-shirt and denim jacket. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_035647_5a40929a-12fb-4b20-95e7-4140b662e78e.png",
+    "ref": 0
+  },
+  {
+    "id": "9e5560c6-14fb-4f27-a01c-72ff3f119bfb",
+    "createdAt": 1790567807.895604,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Los Angeles skyline seen from a distant hillside at golden hour. Strict composition: flat horizon, the city silhouette sits in a thin band between 58% and 70% of the frame height, a few tall palm trees in silhouette in the foreground at the bottom, the whole top 55% is soft warm sky with one long thin horizontal band of clouds at about 25% of the height. Warm muted Kodak Portra film look, gentle grain, peach and dusty-rose sky, no people, no text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_035647_9e5560c6-14fb-4f27-a01c-72ff3f119bfb.png",
+    "ref": 0
+  },
+  {
+    "id": "fe84ae1a-3630-41cf-b3a3-bd04920ee4b8",
+    "createdAt": 1790567808.118379,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Same scene, same dark moody lamp light as the reference (open spiral notebook on a dark wooden desk, brass fountain pen, cup of coffee), shot straight down from above, the notebook square to the frame, but smaller: the notebook fills only the middle 60% of the frame height, with dark desk above and below it. On the right lined page, neatly handwritten in dark ink, a real-looking hand-drawn table. Column headers: Istanbul | Mexico City | Medell\u00edn. Rows: Flights | 1,150 | 450 | 800. Hotel (10 nights) | 850 | 1,200 | 750. Private driver | 150 | 250 | 200. Food | 300 | 400 | 300. Procedure | 3,850 | 4,150 | 4,150. Then a hand-drawn line and TOTAL | $6,300 | $6,450 | $6,200. Every number exactly as written here, legible, natural handwriting.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_035648_fe84ae1a-3630-41cf-b3a3-bd04920ee4b8.png",
+    "ref": 1
+  },
+  {
+    "id": "2cb499c1-05b9-4aef-b652-594b416e985e",
+    "createdAt": 1790570035.730132,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Cinematic still of the same woman from the reference photo (same face and hair), seated in a premium economy seat on an overnight flight just before dawn. Wide, perfectly symmetrical frame: she sits exactly in the centre facing the camera, calm and content, relaxed eyes, a faint smile, holding a warm cup of tea in both hands at her chest. On both sides of her, mirrored and identical, a complete oval airplane window with the frame fully in view; through each window, the Los Angeles skyline and palm-lined grid far below under a deep red sunrise sky. Cabin lit in dim crimson and amber night lighting. Grainy 35mm film, gentle motion softness, rich shadows, dreamy and warm. No text, no logos, no other people.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_043355_2cb499c1-05b9-4aef-b652-594b416e985e.png",
+    "ref": 1
+  },
+  {
+    "id": "f463dffe-77f9-4833-86da-ee1a64daf64f",
+    "createdAt": 1790570035.828013,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "The same woman as the reference photo (same face, dark hair loosely tied back), sitting calmly in an airplane window seat before sunrise, photographed straight-on from the seat in front, perfectly centred and symmetrical composition: her face in the exact centre of the wide frame. She looks straight at the camera, peaceful, a gentle natural smile, head resting slightly back against the headrest, a soft blanket over her lap. Two full oval windows, one on each side of her, identical and mirrored, both showing a soft pink-and-red dawn over the Los Angeles basin and the sea of city lights below. Cabin in night mode: warm red and magenta ambient light, low and moody. Kodak Portra 800 film look, strong fine grain, soft focus falloff. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_043355_f463dffe-77f9-4833-86da-ee1a64daf64f.png",
+    "ref": 1
+  },
+  {
+    "id": "53fbb07f-dcb0-47f6-9f96-62fc20fa3277",
+    "createdAt": 1790570036.872906,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "The same woman as the reference photo (same face, same hair in a low bun with loose strands), seated in a premium economy airplane seat, shot perfectly straight-on and perfectly symmetrical, her face exactly in the horizontal centre of the wide frame, eye level, looking directly into the camera. Relaxed and calm: a soft closed-lip smile, shoulders down, hands resting in her lap, a cosy cream knit sweater. Behind her on the left and on the right, two identical full oval airplane windows at the same height, mirror images of each other, each fully visible with its frame, each showing the Los Angeles skyline at dawn far below with a thin red-orange horizon glow. Inside the cabin it is still night: deep red and amber mood lighting, dim, warm, cinematic. 35mm film photograph, visible grain, slight softness, moody, beautiful. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_043356_53fbb07f-dcb0-47f6-9f96-62fc20fa3277.png",
+    "ref": 1
+  },
+  {
+    "id": "cf814e0c-c1d2-4836-b68f-e350d1f3be47",
+    "createdAt": 1790607327.090512,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of Istanbul across the Bosphorus at golden hour, seen from far away across calm water. Strict composition: perfectly flat horizon, the historic city silhouette with a few mosque domes and slender minarets sits in a thin band between 58% and 70% of the frame height, calm water below it filling the bottom 30%, the whole top 55% is soft warm sky with one long thin horizontal band of clouds at about 25% of the height. Warm muted Kodak Portra film look, gentle grain, peach and dusty-rose sky, low contrast. No boats, no people, no text, no signs.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_145527_cf814e0c-c1d2-4836-b68f-e350d1f3be47.png",
+    "ref": 0
+  },
+  {
+    "id": "fae1c2e1-3e26-4b98-b510-2d4c2b120c57",
+    "createdAt": 1790607383.197117,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the exact same overhead camera position, framing and composition: the same open spiral notebook in the same place and at the same size in the centre of the frame, square to the frame, the same coffee cup in the top right corner, the same brass pen lying to the right of the notebook. Change only the light and the desk: warm late-morning window daylight coming from the left, soft sunlight and gentle window-frame shadows falling across a light natural oak desk, bright, airy and calm, warm cream and honey tones, Kodak Portra 400 film look with fine grain. Both notebook pages are clean blank lined paper with faint grey ruled lines and absolutely no writing, no table, no marks. No text, no logos anywhere.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_145623_fae1c2e1-3e26-4b98-b510-2d4c2b120c57.png",
+    "ref": 1
+  },
+  {
+    "id": "b2ed24b6-471b-43da-b5f0-259a25cc2259",
+    "createdAt": 1790607407.008422,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Use the first reference for the exact composition and the second reference only for the light. Shot straight down from above, same framing as the first reference: an open spiral notebook centred and square to the frame at the same size and position, a coffee cup in the top right corner, a brass pen lying to the right of the notebook. Light like the second reference: warm golden window daylight with soft diagonal window shadows across the scene, on a light oak desk. Bright, warm, calm mood: honey and cream tones, not dark. Kodak Portra 400 film look, fine grain. Both notebook pages are clean blank lined paper with faint ruled lines and absolutely no writing or marks. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_145647_b2ed24b6-471b-43da-b5f0-259a25cc2259.png",
+    "ref": 2
+  },
+  {
+    "id": "15cc522b-b0a2-4b0f-9853-25d24ff8d1e7",
+    "createdAt": 1790607419.399394,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A photograph in exactly the same style, colour grade, sky and composition as the reference, but the city is Istanbul seen across the Bosphorus at golden hour: the historic skyline silhouette with several mosque domes and slender minarets, low and far away. Strict composition: perfectly flat horizon, the city silhouette sits in a thin band between 58% and 70% of the frame height, calm water in front of it filling the bottom, the whole top 55% is soft warm peach and dusty-rose sky with one long thin horizontal band of clouds at about 25% of the height. Warm muted Kodak Portra film look, gentle grain. No boats, no people, no text, no signs.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_145659_15cc522b-b0a2-4b0f-9853-25d24ff8d1e7.png",
+    "ref": 1
+  },
+  {
+    "id": "17424de8-3bd1-4dc5-8af1-3baba9c69328",
+    "createdAt": 1790609239.811778,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P152.jpg as the only identity reference. Same young East Asian woman: shoulder-length dark layered hair, expressive brows, same face shape, eyes, nose, lips and skin tone. Keep every facial feature exactly as in the reference. Scene: her living room in Los Angeles in afternoon daylight. She is curled on a light sofa under a knit throw, a mug of tea in her free hand, a plant on the side table. The only phone is the one taking this selfie, out of frame; no second phone in her hand. Outfit: oatmeal knit sweater, as in the reference. Expression: an unimpressed side-eye with a small skeptical smirk (the 'this clinic has 400k followers' look), playful, not annoyed. Composition on the 1080x1350 slide: face box about x580-900, y470-820. The left half (x0-540, y0-740) is calm wall, window light and sofa back, and the top band (y0-380) is calm too. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. Natural hands. Mood 2 light: bright, warm natural daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152719_17424de8-3bd1-4dc5-8af1-3baba9c69328.png",
+    "ref": 1
+  },
+  {
+    "id": "2fce033b-1510-4794-ad01-5fbce320fb02",
+    "createdAt": 1790609240.445399,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P82.jpg as the only identity reference. Same young East Asian woman: same face shape, eyes, brows, nose, lips, skin tone and beauty marks, same sleek centre-parted dark hair in a low ponytail, small gold hoop earrings. Keep her nose and every facial feature exactly as in the reference; do not slim, lift or reshape anything. Take only her identity and ignore the reference's airport background. Scene: a bright boutique hotel room in Istanbul, a calm morning about a week after her rhinoplasty (splint already off). She sits curled in a soft armchair by a tall window, feet tucked up, in an oversized oatmeal knit cardigan over a cream ribbed tank. A tulip-shaped glass of Turkish tea sits on the small table beside her. Behind her on the RIGHT side of the frame, the window with sheer curtains pulled open shows the Bosphorus in soft morning light: hazy blue water, a small white ferry, and the far shore with a mosque dome and two slim minarets, small and distant. Expression: rested and content, a soft closed-mouth smile, eyes to the lens. Nose: no tape, splint, gauze, bruising, swelling, redness, under-eye shadow or marks; nose shape identical to the reference; front-facing only, never a profile. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face in the lower right, face box about x580-960, y600-960 (on the right, as in her reference and Henry's #1184 note). The window and Bosphorus fill the upper right (x560-1080, y0-580). Six timeline bubbles sit in the left half (x34-524, y60-576), so keep that area a calm, low-detail cream wall and curtain in soft daylight. Avoid: any hospital or clinic look, bed-rest pose, medical equipment, IV, bandages, blood, pill bottles, dark or gloomy light, a tired or sad face, a close-up of the nose. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, arm's-length framing, mild phone HDR, natural skin texture with pores, faint sensor noise, true colour, minimal makeup. One phone only (the one taking the photo, out of frame); natural hands. Mood 2 light: bright, soft, warm natural daylight, nothing dark, moody or ominous. No legible text, signage, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152720_2fce033b-1510-4794-ad01-5fbce320fb02.png",
+    "ref": 1
+  },
+  {
+    "id": "d13b86db-cf24-450e-b5fa-72bea193e857",
+    "createdAt": 1790609241.405078,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Scene: the same bright bedroom as the reference a few weeks before the trip, with no suitcase. She sits cross-legged on the bed with a laptop open on the duvet, screen angled away, a notebook and pen beside it, and an iced coffee on the black nightstand. This time it is a front-camera selfie from slightly above, NOT a standing mirror selfie, so it does not repeat the reference frame. Outfit: soft pink ribbed tank and light-grey sweatpants, hair down. Expression: a curious, focused little smile. Composition on the 1080x1350 slide: face box about x600-940, y640-960. The plain white wall above the headboard fills the top ~46% (y0-620) across the full width, calm and empty. Look: a real iPhone front-camera photo she would post to her Instagram story. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152721_d13b86db-cf24-450e-b5fa-72bea193e857.png",
+    "ref": 1
+  },
+  {
+    "id": "cc807162-6858-4ab2-addd-377fe0430889",
+    "createdAt": 1790609242.45123,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, dainty gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Take only her identity; ignore the bedroom and the mirror. Scene: a bright international departure gate in late-morning sun. Floor-to-ceiling windows behind her show a clear sky and a plane parked far outside, soft and out of focus, with a few rows of gate seats and distant travellers looking away. She stands by the window holding the handle of her carry-on. Outfit: cream knit cardigan over a white tank, light-wash jeans. Expression: an excited, happy smile, holiday energy. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x650-980, y400-780, on the right. The left 58% (x0-620, y0-820) is calm window light, sky and soft seating, with no face, hair or busy detail. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, departure boards, gate numbers, airline names, logos or brand marks (anything with text is far away and blurred). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152722_cc807162-6858-4ab2-addd-377fe0430889.png",
+    "ref": 1
+  },
+  {
+    "id": "2326c506-c270-46ad-946a-beb0aa30d051",
+    "createdAt": 1790609242.509619,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P81.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part, the same wide bright smile, same face shape, eyes, brows, nose, lips and skin tone. Keep her nose and every facial feature exactly as in the reference; no tape, splint, swelling or marks, and nothing that reads as a before/after or a result reveal. Take only her identity and ignore the airport. Scene: back home in Los Angeles about two weeks after the trip, on her small apartment balcony in bright afternoon sun: white railing, potted plants, palm trees and a clear blue sky behind. On the little outdoor table beside her sit two quiet souvenirs from Istanbul: a tulip-shaped Turkish tea glass on a saucer and a small blue evil-eye charm. Outfit: soft white tee under a light linen overshirt, hair down. Expression: relaxed and content, a warm natural smile. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x660-990, y600-960, on the right as in her reference. The left 60% (x0-640) from the top down to y800 is calm: open sky, soft palm fronds and plain wall, with no face, hair or busy detail. The table and souvenirs sit low in the frame (below y880). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152722_2326c506-c270-46ad-946a-beb0aa30d051.png",
+    "ref": 1
+  },
+  {
+    "id": "1a93af65-ae9a-48f5-8b2b-69de9f11ecf8",
+    "createdAt": 1790609242.796808,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P82.jpg as the only identity reference. Same young East Asian woman: same face, nose, lips, skin tone and beauty marks, sleek centre-parted dark hair in a low ponytail, small gold hoops. Keep every facial feature exactly as in the reference. Take only her identity and ignore the airport. Scene: her apartment in Los Angeles in the middle of the afternoon. She sits cross-legged on a light linen sofa with a laptop open on her knees, screen angled away and unreadable. An iced coffee in a plain glass on the side table, a potted monstera, a window with sheer curtains and a palm tree in sun outside. Outfit: cream ribbed tank under an open oversized white button-up. Expression: relieved and pleased, a slightly excited closed-mouth smile, like a consult that went well. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face in the lower right, face box about x580-960, y600-950 (on the right, as in her reference and Henry's #1184 note). The left half (x0-540, y0-780) is calm white wall, sheer-curtain light and the plant, and the full-width top band (y0-540) is calm wall and ceiling. Laptop and sofa sit in the lower left and centre. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152722_1a93af65-ae9a-48f5-8b2b-69de9f11ecf8.png",
+    "ref": 1
+  },
+  {
+    "id": "5ebf6cc6-f0d7-43ca-a09d-cb1259ecd46c",
+    "createdAt": 1790609244.431283,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and loose face-framing strands, same face shape, eyes, brows, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the airport and its signs. Scene: she has just checked into a bright hotel room in Istanbul. A large window behind her shows rooftops and a mosque dome with slim minarets across the Golden Horn in soft daylight, next to a white bed with her black rolling suitcase standing beside it. Outfit: black sleeveless top, as in the reference, under a light open shirt, with a crossbody strap. Expression: an excited, big natural smile. No tape. Composition on the 1080x1350 slide: front-camera selfie with her face on the LEFT, face box about x70-500, y320-700, chin above y720. The window view sits behind and above her on the left and centre. The upper right (x590-1080, y0-710) is calm plain wall, curtain and soft light. The lower band (y740-1120) is her shoulders, top and the bed, calm enough to carry text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks (plain suitcase). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152724_5ebf6cc6-f0d7-43ca-a09d-cb1259ecd46c.png",
+    "ref": 1
+  },
+  {
+    "id": "5c068917-edcc-4d57-af09-18b74278e56f",
+    "createdAt": 1790609246.349111,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and face-framing strands, same face, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the reference's background. Scene: a departure gate at LAX early in the morning, the sun already up: bright warm sunlight pours through floor-to-ceiling windows, a soft peach glow low on the horizon, the interior fully lit. A plane is parked far outside, soft and out of focus. Rows of gate seats and very few people. She sits holding an iced coffee in a plain clear cup with no logo, low near her collarbone, with her carry-on beside her. Outfit: light-grey zip hoodie over a black tank, hair down. Expression: a sleepy-happy early-flight smile. Composition on the 1080x1350 slide: face in the upper centre, face box about x300-760, y200-690, chin above y720. The lower part (y740-1350) is hoodie, coffee cup and seats, calm and low-detail. Any screens are far away and blurred with no readable text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, nothing dim, blue-hour or dark. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152726_5c068917-edcc-4d57-af09-18b74278e56f.png",
+    "ref": 1
+  },
+  {
+    "id": "35a2882b-85c7-4a6e-8282-423b8412db98",
+    "createdAt": 1790609249.972169,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P152.jpg as the only identity reference. Same young East Asian woman: shoulder-length dark layered hair, expressive brows, same face shape, eyes, nose, lips and skin tone. Keep every facial feature exactly as in the reference. Scene: her living room in Los Angeles in afternoon daylight. She is curled on a light sofa under a knit throw, a mug of tea in her free hand, a plant on the side table. The only phone is the one taking this selfie, out of frame; no second phone in her hand. Outfit: oatmeal knit sweater, as in the reference. Expression: an unimpressed side-eye with a small skeptical smirk (the 'this clinic has 400k followers' look), playful, not annoyed. Composition on the 1080x1350 slide: face box about x580-900, y470-820. The left half (x0-540, y0-740) is calm wall, window light and sofa back, and the top band (y0-380) is calm too. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. Natural hands. Mood 2 light: bright, warm natural daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152729_35a2882b-85c7-4a6e-8282-423b8412db98.png",
+    "ref": 1
+  },
+  {
+    "id": "9b337ebe-c2a4-4a4d-bbe9-17db167ea871",
+    "createdAt": 1790609252.552279,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, dainty gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Take only her identity; ignore the bedroom and the mirror. Scene: a bright international departure gate in late-morning sun. Floor-to-ceiling windows behind her show a clear sky and a plane parked far outside, soft and out of focus, with a few rows of gate seats and distant travellers looking away. She stands by the window holding the handle of her carry-on. Outfit: cream knit cardigan over a white tank, light-wash jeans. Expression: an excited, happy smile, holiday energy. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x650-980, y400-780, on the right. The left 58% (x0-620, y0-820) is calm window light, sky and soft seating, with no face, hair or busy detail. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, departure boards, gate numbers, airline names, logos or brand marks (anything with text is far away and blurred). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152732_9b337ebe-c2a4-4a4d-bbe9-17db167ea871.png",
+    "ref": 1
+  },
+  {
+    "id": "53c79e51-53fc-4b0a-94b3-77870f0a3194",
+    "createdAt": 1790609253.257759,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Scene: the same bright bedroom as the reference a few weeks before the trip, with no suitcase. She sits cross-legged on the bed with a laptop open on the duvet, screen angled away, a notebook and pen beside it, and an iced coffee on the black nightstand. This time it is a front-camera selfie from slightly above, NOT a standing mirror selfie, so it does not repeat the reference frame. Outfit: soft pink ribbed tank and light-grey sweatpants, hair down. Expression: a curious, focused little smile. Composition on the 1080x1350 slide: face box about x600-940, y640-960. The plain white wall above the headboard fills the top ~46% (y0-620) across the full width, calm and empty. Look: a real iPhone front-camera photo she would post to her Instagram story. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152733_53c79e51-53fc-4b0a-94b3-77870f0a3194.png",
+    "ref": 1
+  },
+  {
+    "id": "dc086f34-0278-42c7-b2d4-ea638b3cbee8",
+    "createdAt": 1790609253.552517,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P81.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part, the same wide bright smile, same face shape, eyes, brows, nose, lips and skin tone. Keep her nose and every facial feature exactly as in the reference; no tape, splint, swelling or marks, and nothing that reads as a before/after or a result reveal. Take only her identity and ignore the airport. Scene: back home in Los Angeles about two weeks after the trip, on her small apartment balcony in bright afternoon sun: white railing, potted plants, palm trees and a clear blue sky behind. On the little outdoor table beside her sit two quiet souvenirs from Istanbul: a tulip-shaped Turkish tea glass on a saucer and a small blue evil-eye charm. Outfit: soft white tee under a light linen overshirt, hair down. Expression: relaxed and content, a warm natural smile. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x660-990, y600-960, on the right as in her reference. The left 60% (x0-640) from the top down to y800 is calm: open sky, soft palm fronds and plain wall, with no face, hair or busy detail. The table and souvenirs sit low in the frame (below y880). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152733_dc086f34-0278-42c7-b2d4-ea638b3cbee8.png",
+    "ref": 1
+  },
+  {
+    "id": "2195c700-c9dd-4868-b114-7ff63d043b3f",
+    "createdAt": 1790609254.149961,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P82.jpg as the only identity reference. Same young East Asian woman: same face shape, eyes, brows, nose, lips, skin tone and beauty marks, same sleek centre-parted dark hair in a low ponytail, small gold hoop earrings. Keep her nose and every facial feature exactly as in the reference; do not slim, lift or reshape anything. Take only her identity and ignore the reference's airport background. Scene: a bright boutique hotel room in Istanbul, a calm morning about a week after her rhinoplasty (splint already off). She sits curled in a soft armchair by a tall window, feet tucked up, in an oversized oatmeal knit cardigan over a cream ribbed tank. A tulip-shaped glass of Turkish tea sits on the small table beside her. Behind her on the RIGHT side of the frame, the window with sheer curtains pulled open shows the Bosphorus in soft morning light: hazy blue water, a small white ferry, and the far shore with a mosque dome and two slim minarets, small and distant. Expression: rested and content, a soft closed-mouth smile, eyes to the lens. Nose: no tape, splint, gauze, bruising, swelling, redness, under-eye shadow or marks; nose shape identical to the reference; front-facing only, never a profile. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face in the lower right, face box about x580-960, y600-960 (on the right, as in her reference and Henry's #1184 note). The window and Bosphorus fill the upper right (x560-1080, y0-580). Six timeline bubbles sit in the left half (x34-524, y60-576), so keep that area a calm, low-detail cream wall and curtain in soft daylight. Avoid: any hospital or clinic look, bed-rest pose, medical equipment, IV, bandages, blood, pill bottles, dark or gloomy light, a tired or sad face, a close-up of the nose. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, arm's-length framing, mild phone HDR, natural skin texture with pores, faint sensor noise, true colour, minimal makeup. One phone only (the one taking the photo, out of frame); natural hands. Mood 2 light: bright, soft, warm natural daylight, nothing dark, moody or ominous. No legible text, signage, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152734_2195c700-c9dd-4868-b114-7ff63d043b3f.png",
+    "ref": 1
+  },
+  {
+    "id": "8257e467-41a9-48c4-80f3-158f8713059b",
+    "createdAt": 1790609254.180673,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P82.jpg as the only identity reference. Same young East Asian woman: same face, nose, lips, skin tone and beauty marks, sleek centre-parted dark hair in a low ponytail, small gold hoops. Keep every facial feature exactly as in the reference. Take only her identity and ignore the airport. Scene: her apartment in Los Angeles in the middle of the afternoon. She sits cross-legged on a light linen sofa with a laptop open on her knees, screen angled away and unreadable. An iced coffee in a plain glass on the side table, a potted monstera, a window with sheer curtains and a palm tree in sun outside. Outfit: cream ribbed tank under an open oversized white button-up. Expression: relieved and pleased, a slightly excited closed-mouth smile, like a consult that went well. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face in the lower right, face box about x580-960, y600-950 (on the right, as in her reference and Henry's #1184 note). The left half (x0-540, y0-780) is calm white wall, sheer-curtain light and the plant, and the full-width top band (y0-540) is calm wall and ceiling. Laptop and sofa sit in the lower left and centre. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152734_8257e467-41a9-48c4-80f3-158f8713059b.png",
+    "ref": 1
+  },
+  {
+    "id": "82e80127-5958-4cd6-89a0-1ea34ded3ae1",
+    "createdAt": 1790609255.660091,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and loose face-framing strands, same face shape, eyes, brows, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the airport and its signs. Scene: she has just checked into a bright hotel room in Istanbul. A large window behind her shows rooftops and a mosque dome with slim minarets across the Golden Horn in soft daylight, next to a white bed with her black rolling suitcase standing beside it. Outfit: black sleeveless top, as in the reference, under a light open shirt, with a crossbody strap. Expression: an excited, big natural smile. No tape. Composition on the 1080x1350 slide: front-camera selfie with her face on the LEFT, face box about x70-500, y320-700, chin above y720. The window view sits behind and above her on the left and centre. The upper right (x590-1080, y0-710) is calm plain wall, curtain and soft light. The lower band (y740-1120) is her shoulders, top and the bed, calm enough to carry text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks (plain suitcase). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152735_82e80127-5958-4cd6-89a0-1ea34ded3ae1.png",
+    "ref": 1
+  },
+  {
+    "id": "eb3d2ba3-d2c4-4c55-96a1-2248ec193dac",
+    "createdAt": 1790609257.164131,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and face-framing strands, same face, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the reference's background. Scene: a departure gate at LAX early in the morning, the sun already up: bright warm sunlight pours through floor-to-ceiling windows, a soft peach glow low on the horizon, the interior fully lit. A plane is parked far outside, soft and out of focus. Rows of gate seats and very few people. She sits holding an iced coffee in a plain clear cup with no logo, low near her collarbone, with her carry-on beside her. Outfit: light-grey zip hoodie over a black tank, hair down. Expression: a sleepy-happy early-flight smile. Composition on the 1080x1350 slide: face in the upper centre, face box about x300-760, y200-690, chin above y720. The lower part (y740-1350) is hoodie, coffee cup and seats, calm and low-detail. Any screens are far away and blurred with no readable text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, nothing dim, blue-hour or dark. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152737_eb3d2ba3-d2c4-4c55-96a1-2248ec193dac.png",
+    "ref": 1
+  },
+  {
+    "id": "22107f20-53a3-41c2-981b-e9e04cf47211",
+    "createdAt": 1790609370.972968,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "The corner of a sunlit living room in a Southwest-style home that could be in Los Angeles or Phoenix (warm white plaster walls, terracotta tile floor), late morning. A tall window on the right with a sheer linen curtain softly diffusing the sun; outside is only bright warm blur and the soft shadow of a leafy branch on the curtain. A low oatmeal linen sofa enters from the left, with a wool throw folded on its arm. In front of it, a small round oak side table holds a smartphone lying face down, a closed notebook with a pen on top, and a handmade ceramic mug. A tall potted fiddle-leaf fig stands in the far corner. The top 45% of the frame is plain warm white plaster wall with a soft wash of window light: no art, no shelves, no clock. All objects sit between about 55% and 88% of the height. This is a private home, not a hotel lobby or reception: no counters, no orchids, no travertine.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, calm and inviting, like an editorial interiors story. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text anywhere: no screen content, book titles, labels or logos. Vertical 4:5 frame, straight verticals.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152930_22107f20-53a3-41c2-981b-e9e04cf47211.png",
+    "ref": 0
+  },
+  {
+    "id": "4dab3647-9893-4bec-9284-69b8e90b5401",
+    "createdAt": 1790609376.083367,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A quiet residential street in Los Angeles in warm late-afternoon daylight. One row of very tall, thin Washingtonia palms stands along the right edge of the frame and recedes toward a hazy vanishing point. Their crowns stay inside the right 20% of the width, and each palm has a slightly different height, lean and ragged frond shape; none are identical copies. Low Spanish-revival stucco houses in cream and pale terracotta with red clay tile roofs, bougainvillea spilling over a low white garden wall, clipped hedges, and a clean sidewalk with long soft shadows. The street is empty: no cars, no people. The top 45% of the frame is open, smooth, pale sky, soft cream at the top to light peach just above the rooftops, with no clouds, power lines or branches crossing its left and center, so dark headline text can sit on it. Houses and gardens fill the band from about 50% to 80% of the height; sidewalk and street fill the bottom 20%.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, calm and inviting, like an editorial travel story. Soft golden sun, creamy highlights, open lifted shadows. Not dark, not moody, not ominous, no heavy vignette, no dusk gloom, no HDR, no CGI sheen, no lens flare. No people. No readable text anywhere: no signs, logos, brand names, license plates, house numbers, mailbox lettering or street signs; any sign shapes must be blank or out of focus. Vertical 4:5 frame, straight verticals, level horizon.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152936_4dab3647-9893-4bec-9284-69b8e90b5401.png",
+    "ref": 0
+  },
+  {
+    "id": "25e0d7b7-12db-4d6f-90a5-446576c7c19e",
+    "createdAt": 1790609384.014568,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman with long dark curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street. Scene: morning in her LA bedroom. She sits up in bed against big white pillows, knees up under a white duvet, curls a little messy, in an oversized white crewneck tee, a mug of coffee in her free hand, warm morning sun through sheer curtains. A front-camera selfie at arm's length, slightly above eye level. Expression: sheepish and amused, a little sleepy (up too late scrolling), not sad. Composition on the 1080x1350 slide: face box about x580-880, y440-790, right of centre below the top third. The left half (x0-540) is white duvet, pillows and sheet folds down the full height, calm. The top band (y0-400) is headboard wall and soft light, calm. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, cosy, nothing dark or ominous. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152944_25e0d7b7-12db-4d6f-90a5-446576c7c19e.png",
+    "ref": 1
+  },
+  {
+    "id": "d8a7be2a-ef79-4107-8f11-9dfaf7795f29",
+    "createdAt": 1790609385.599581,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman: long dark voluminous curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street and its blurred sign patch. Scene: her sunny living room in Los Angeles in late-morning light: white walls, a light oak floor, and a window with a palm tree outside. She sits cross-legged on the floor next to an open hard-shell carry-on, half-packed with folded clothes, sunglasses and a straw sun hat (plain, no labels). A front-camera selfie from slightly above, her arm entering from the lower-right edge; not a mirror selfie, so it does not echo P173's bedroom mirror packing shot. Outfit: black tank and loose light jeans. Expression: excited, happy smile. Composition on the 1080x1350 slide: face box about x560-880, y520-820. The whole top band (y0-480) is plain white wall and soft window light. The suitcase sits in the lower left (below y850). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, soft, warm daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152945_d8a7be2a-ef79-4107-8f11-9dfaf7795f29.png",
+    "ref": 1
+  },
+  {
+    "id": "f3d95edb-6065-4344-ad21-be2027612fcf",
+    "createdAt": 1790609386.627731,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A quiet residential street in Los Angeles in warm late-afternoon daylight. One row of very tall, thin Washingtonia palms stands along the right edge of the frame and recedes toward a hazy vanishing point. Their crowns stay inside the right 20% of the width, and each palm has a slightly different height, lean and ragged frond shape; none are identical copies. Low Spanish-revival stucco houses in cream and pale terracotta with red clay tile roofs, bougainvillea spilling over a low white garden wall, clipped hedges, and a clean sidewalk with long soft shadows. The street is empty: no cars, no people. The top 45% of the frame is open, smooth, pale sky, soft cream at the top to light peach just above the rooftops, with no clouds, power lines or branches crossing its left and center, so dark headline text can sit on it. Houses and gardens fill the band from about 50% to 80% of the height; sidewalk and street fill the bottom 20%.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, calm and inviting, like an editorial travel story. Soft golden sun, creamy highlights, open lifted shadows. Not dark, not moody, not ominous, no heavy vignette, no dusk gloom, no HDR, no CGI sheen, no lens flare. No people. No readable text anywhere: no signs, logos, brand names, license plates, house numbers, mailbox lettering or street signs; any sign shapes must be blank or out of focus. Vertical 4:5 frame, straight verticals, level horizon.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152946_f3d95edb-6065-4344-ad21-be2027612fcf.png",
+    "ref": 0
+  },
+  {
+    "id": "47b2b845-f906-4b11-9dad-061f79e72c37",
+    "createdAt": 1790609388.640844,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A calm boutique hotel room in Istanbul's old town in warm morning light. It must look nothing like a modern sea-view suite: no floor-to-ceiling picture window, no wide water panorama, no green velvet armchair, no tray on the bed, no headboard wall lamps. On the right 40% of the frame, tall white wooden French doors stand open onto a narrow balcony with a black wrought-iron rail and a tiny bistro table holding one tulip-shaped Turkish tea glass on a saucer. Beyond it: terracotta rooftops, a single distant mosque dome and only a thin sliver of the Bosphorus, in soft golden haze. Sheer white curtains lift slightly in the breeze. The upper-left 60% of the frame is plain warm limewash wall with a simple cornice and nothing on it. The lower half is the foot of a low bed with crisp white linen and a folded oatmeal throw, seen at a slight angle from the foot of the bed, calm and uncluttered. No TV, no art, no visible bulbs.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, restful and calm, like a quiet recovery morning. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text, signs or logos anywhere. Vertical 4:5 frame, straight verticals.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152948_47b2b845-f906-4b11-9dad-061f79e72c37.png",
+    "ref": 0
+  },
+  {
+    "id": "aec3fb45-bd83-489c-acbe-26602d2323a0",
+    "createdAt": 1790609392.866624,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "The corner of a sunlit living room in a Southwest-style home that could be in Los Angeles or Phoenix (warm white plaster walls, terracotta tile floor), late morning. A tall window on the right with a sheer linen curtain softly diffusing the sun; outside is only bright warm blur and the soft shadow of a leafy branch on the curtain. A low oatmeal linen sofa enters from the left, with a wool throw folded on its arm. In front of it, a small round oak side table holds a smartphone lying face down, a closed notebook with a pen on top, and a handmade ceramic mug. A tall potted fiddle-leaf fig stands in the far corner. The top 45% of the frame is plain warm white plaster wall with a soft wash of window light: no art, no shelves, no clock. All objects sit between about 55% and 88% of the height. This is a private home, not a hotel lobby or reception: no counters, no orchids, no travertine.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, calm and inviting, like an editorial interiors story. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text anywhere: no screen content, book titles, labels or logos. Vertical 4:5 frame, straight verticals.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_152952_aec3fb45-bd83-489c-acbe-26602d2323a0.png",
+    "ref": 0
+  },
+  {
+    "id": "aa18c69f-e88e-4fb6-ae7f-eb7ba5072354",
+    "createdAt": 1790609402.537566,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman with long dark curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street. Scene: morning in her LA bedroom. She sits up in bed against big white pillows, knees up under a white duvet, curls a little messy, in an oversized white crewneck tee, a mug of coffee in her free hand, warm morning sun through sheer curtains. A front-camera selfie at arm's length, slightly above eye level. Expression: sheepish and amused, a little sleepy (up too late scrolling), not sad. Composition on the 1080x1350 slide: face box about x580-880, y440-790, right of centre below the top third. The left half (x0-540) is white duvet, pillows and sheet folds down the full height, calm. The top band (y0-400) is headboard wall and soft light, calm. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, cosy, nothing dark or ominous. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153002_aa18c69f-e88e-4fb6-ae7f-eb7ba5072354.png",
+    "ref": 1
+  },
+  {
+    "id": "bd640914-bb0c-4e17-9d58-0b0296557091",
+    "createdAt": 1790609402.907339,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A calm boutique hotel room in Istanbul's old town in warm morning light. It must look nothing like a modern sea-view suite: no floor-to-ceiling picture window, no wide water panorama, no green velvet armchair, no tray on the bed, no headboard wall lamps. On the right 40% of the frame, tall white wooden French doors stand open onto a narrow balcony with a black wrought-iron rail and a tiny bistro table holding one tulip-shaped Turkish tea glass on a saucer. Beyond it: terracotta rooftops, a single distant mosque dome and only a thin sliver of the Bosphorus, in soft golden haze. Sheer white curtains lift slightly in the breeze. The upper-left 60% of the frame is plain warm limewash wall with a simple cornice and nothing on it. The lower half is the foot of a low bed with crisp white linen and a folded oatmeal throw, seen at a slight angle from the foot of the bed, calm and uncluttered. No TV, no art, no visible bulbs.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, restful and calm, like a quiet recovery morning. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text, signs or logos anywhere. Vertical 4:5 frame, straight verticals.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153002_bd640914-bb0c-4e17-9d58-0b0296557091.png",
+    "ref": 0
+  },
+  {
+    "id": "882008fd-34e3-4e96-ab4c-7607620b87d2",
+    "createdAt": 1790609406.032415,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman: long dark voluminous curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street and its blurred sign patch. Scene: her sunny living room in Los Angeles in late-morning light: white walls, a light oak floor, and a window with a palm tree outside. She sits cross-legged on the floor next to an open hard-shell carry-on, half-packed with folded clothes, sunglasses and a straw sun hat (plain, no labels). A front-camera selfie from slightly above, her arm entering from the lower-right edge; not a mirror selfie, so it does not echo P173's bedroom mirror packing shot. Outfit: black tank and loose light jeans. Expression: excited, happy smile. Composition on the 1080x1350 slide: face box about x560-880, y520-820. The whole top band (y0-480) is plain white wall and soft window light. The suitcase sits in the lower left (below y850). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, soft, warm daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153006_882008fd-34e3-4e96-ab4c-7607620b87d2.png",
+    "ref": 1
+  },
+  {
+    "id": "3331dba3-1dc2-4dcc-a1bb-a949fda39482",
+    "createdAt": 1790609535.931161,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Scene: the same bright bedroom as the reference a few weeks before the trip, with no suitcase. She sits cross-legged on the bed with a laptop open on the duvet, screen angled away, a notebook and pen beside it, and an iced coffee on the black nightstand. This time it is a front-camera selfie from slightly above, NOT a standing mirror selfie, so it does not repeat the reference frame. Outfit: soft pink ribbed tank and light-grey sweatpants, hair down. Expression: a curious, focused little smile. Composition on the 1080x1350 slide: face box about x600-940, y640-960. The plain white wall above the headboard fills the top ~46% (y0-620) across the full width, calm and empty. Look: a real iPhone front-camera photo she would post to her Instagram story. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Pull the subject lower and a bit smaller. Top of hair below y600 and the face (forehead to chin) inside x600-940, y640-960. Keep x<680, y<560 as clean wall and push the headboard, lamp and all nightstand items below y620. Tighten identity: 'nose exactly as in the reference: slim bridge, narrow small tip, do not widen or round the nose; same face width, not fuller'. Leave out the candle, or say 'plain unlabeled matte candle jar'. Show the laptop as a closed lid or just its back edge, no visible keyboard. For a real selfie: 'camera held slightly above eye level at arm's length in front of her, forearm foreshortened toward the lens at the bottom-right corner, eyes looking at the lens'. Issues found: Face and head sit too high for the layout. facebox reports x622-849, y570-797 at slide scale, so the face starts at y570. The spec says 'Face must be below y620' and the face box starts at y640. The eyes land at about y620-660, on the top edge of the box.; Her hair and the crown of her head (centre part) reach into the BNT2 Notes card zone (x24-675, y81-555), at about x560-675, y440-555. The card would cut across the top-left of her head.; The headboard (y~545) and lamp shade (y~523) also rise above y620, so the plain wall does not fill the top 46% (y0-620) across the full width as asked.; Identity drift, and the nose is the risk: next to BR_P173 the nose tip looks broader and rounder, and the face looks fuller and rounder, with heavier brows and fuller glossy lips. She is the same type of person but not clearly the same woman. For a rhinoplasty ad any change to the nose is disqualifying.; Garbled pseudo-text: the candle jar label on the nightstand has fake text lines, and the laptop keys carry tiny garbled glyphs.; Laptop geometry is off: the trackpad sits beside the keyboard along the hinge instead of in front of it, and the deck and lid proportions read as AI-made.; Does not read as a real front-camera selfie. The camera is at about eye level, not slightly above. Her arm runs sideways out of the right edge, her gaze goes well off-lens, and the wide scene with a large empty wall over her head looks like a staged third-person shot with a fake selfie arm.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153215_3331dba3-1dc2-4dcc-a1bb-a949fda39482.png",
+    "ref": 1
+  },
+  {
+    "id": "c059b1cf-25f9-4914-bd4c-87656d413468",
+    "createdAt": 1790609571.043162,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Scene: the same bright bedroom as the reference a few weeks before the trip, with no suitcase. She sits cross-legged on the bed with a laptop open on the duvet, screen angled away, a notebook and pen beside it, and an iced coffee on the black nightstand. This time it is a front-camera selfie from slightly above, NOT a standing mirror selfie, so it does not repeat the reference frame. Outfit: soft pink ribbed tank and light-grey sweatpants, hair down. Expression: a curious, focused little smile. Composition on the 1080x1350 slide: face box about x600-940, y640-960. The plain white wall above the headboard fills the top ~46% (y0-620) across the full width, calm and empty. Look: a real iPhone front-camera photo she would post to her Instagram story. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm daylight. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Pull the subject lower and a bit smaller. Top of hair below y600 and the face (forehead to chin) inside x600-940, y640-960. Keep x<680, y<560 as clean wall and push the headboard, lamp and all nightstand items below y620. Tighten identity: 'nose exactly as in the reference: slim bridge, narrow small tip, do not widen or round the nose; same face width, not fuller'. Leave out the candle, or say 'plain unlabeled matte candle jar'. Show the laptop as a closed lid or just its back edge, no visible keyboard. For a real selfie: 'camera held slightly above eye level at arm's length in front of her, forearm foreshortened toward the lens at the bottom-right corner, eyes looking at the lens'. Issues found: Face and head sit too high for the layout. facebox reports x622-849, y570-797 at slide scale, so the face starts at y570. The spec says 'Face must be below y620' and the face box starts at y640. The eyes land at about y620-660, on the top edge of the box.; Her hair and the crown of her head (centre part) reach into the BNT2 Notes card zone (x24-675, y81-555), at about x560-675, y440-555. The card would cut across the top-left of her head.; The headboard (y~545) and lamp shade (y~523) also rise above y620, so the plain wall does not fill the top 46% (y0-620) across the full width as asked.; Identity drift, and the nose is the risk: next to BR_P173 the nose tip looks broader and rounder, and the face looks fuller and rounder, with heavier brows and fuller glossy lips. She is the same type of person but not clearly the same woman. For a rhinoplasty ad any change to the nose is disqualifying.; Garbled pseudo-text: the candle jar label on the nightstand has fake text lines, and the laptop keys carry tiny garbled glyphs.; Laptop geometry is off: the trackpad sits beside the keyboard along the hinge instead of in front of it, and the deck and lid proportions read as AI-made.; Does not read as a real front-camera selfie. The camera is at about eye level, not slightly above. Her arm runs sideways out of the right edge, her gaze goes well off-lens, and the wide scene with a large empty wall over her head looks like a staged third-person shot with a fake selfie arm.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153251_c059b1cf-25f9-4914-bd4c-87656d413468.png",
+    "ref": 1
+  },
+  {
+    "id": "5de4f47b-cfcf-46f4-b003-8a63a4c2e3e4",
+    "createdAt": 1790609602.321877,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and loose face-framing strands, same face shape, eyes, brows, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the airport and its signs. Scene: she has just checked into a bright hotel room in Istanbul. A large window behind her shows rooftops and a mosque dome with slim minarets across the Golden Horn in soft daylight, next to a white bed with her black rolling suitcase standing beside it. Outfit: black sleeveless top, as in the reference, under a light open shirt, with a crossbody strap. Expression: an excited, big natural smile. No tape. Composition on the 1080x1350 slide: front-camera selfie with her face on the LEFT, face box about x70-500, y320-700, chin above y720. The window view sits behind and above her on the left and centre. The upper right (x590-1080, y0-710) is calm plain wall, curtain and soft light. The lower band (y740-1120) is her shoulders, top and the bed, calm enough to carry text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks (plain suitcase). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity and scene, but pull the whole head up and in. The top of her hair should be near y230-250, her eyes around y430-450 and her chin no lower than y690. Hold the phone higher and a little farther away so her shoulders and collarbone fill y740-1120 instead of her jaw. State outright that no part of the face or chin may go below y720. Ask for a bigger open-mouth excited smile that shows teeth. Keep the suitcase lower, beside the bed, so its handle stays under y600 or out of the upper-right text zone.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153322_5de4f47b-cfcf-46f4-b003-8a63a4c2e3e4.png",
+    "ref": 1
+  },
+  {
+    "id": "f184e399-6e25-4adc-86a2-343048612dd7",
+    "createdAt": 1790609618.164188,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P81.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part, the same wide bright smile, same face shape, eyes, brows, nose, lips and skin tone. Keep her nose and every facial feature exactly as in the reference; no tape, splint, swelling or marks, and nothing that reads as a before/after or a result reveal. Take only her identity and ignore the airport. Scene: back home in Los Angeles about two weeks after the trip, on her small apartment balcony in bright afternoon sun: white railing, potted plants, palm trees and a clear blue sky behind. On the little outdoor table beside her sit two quiet souvenirs from Istanbul: a tulip-shaped Turkish tea glass on a saucer and a small blue evil-eye charm. Outfit: soft white tee under a light linen overshirt, hair down. Expression: relaxed and content, a warm natural smile. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x660-990, y600-960, on the right as in her reference. The left 60% (x0-640) from the top down to y800 is calm: open sky, soft palm fronds and plain wall, with no face, hair or busy detail. The table and souvenirs sit low in the frame (below y880). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity, outfit, light and table props as they are. Change only the background on the left. Say that beyond the railing on the left side there is only open blue sky, with no city view, no distant skyline, no rooftops and no trees. Tilt the camera slightly upward so the sky fills x0-640 all the way down to about y780. Right below that, the plain white stucco balcony wall top sits at about y780-800. Put no plants, olive tree or foliage on the left above y850: potted plants only low in the frame or on the right behind her. Palm trees only on the right half (x>640). Move her face about 30-40px left, to face box x650-980. Have the selfie arm enter from the lower-right edge. Issues found: Busy detail in the BM2 text zone (x24-556, y40-769). From about y450 to y769 the left column holds a detailed LA vista: distant palms, rooftops, tree canopies, a crane or mast, the white railing and the olive tree's leaves at the left edge. Edge density there is 15% (y450-600) and 22% (y600-769), against 0% for the sky above and 4.4% for her face. It is the busiest part of the frame and sits right where the chat bubbles go. The prompt asked for the left 60% to stay calm (sky, soft fronds, plain wall) down to y800.; The BT3 zone (x34-650, y50-577) is mostly clean sky, but its bottom band (y450-577) holds a row of distant palms and the skyline (12.5% edge density). A palm crown also enters its right edge around x560-650, y290-450. Probably tolerable, but not clean.; The face box runs slightly right of target. Facebox reads x690-1042, y587-940 against the target x660-990, y600-960, so the right edge overshoots by about 52px. It still clears x650 and stays in frame. Minor.; The selfie arm comes in from the bottom centre-left (about x340-640), not the lower-right edge the prompt asked for. It stays out of both text zones. Minor.; Everything else passes. Identity is a strong match: same eyes, brows, smile, centre part, and the same broad, soft nose with a rounded tip, not reshaped. Skin has natural texture with no plastic look. No legible text, logos or signage. No hands visible, phone out of frame. Tea glass, Iznik saucer and evil-eye charm are rendered cleanly. Light is bright and warm. No marks and no before/after cues. It reads as a real front-camera selfie. (The posterised look in the first full-frame preview was a viewer downscale artifact. Native-resolution crops are clean.)",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153338_f184e399-6e25-4adc-86a2-343048612dd7.png",
+    "ref": 1
+  },
+  {
+    "id": "c9235af9-96dc-4eab-a6ba-3ff6d76f6759",
+    "createdAt": 1790609618.227989,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, dainty gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Take only her identity; ignore the bedroom and the mirror. Scene: a bright international departure gate in late-morning sun. Floor-to-ceiling windows behind her show a clear sky and a plane parked far outside, soft and out of focus, with a few rows of gate seats and distant travellers looking away. She stands by the window holding the handle of her carry-on. Outfit: cream knit cardigan over a white tank, light-wash jeans. Expression: an excited, happy smile, holiday energy. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x650-980, y400-780, on the right. The left 58% (x0-620, y0-820) is calm window light, sky and soft seating, with no face, hair or busy detail. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, departure boards, gate numbers, airline names, logos or brand marks (anything with text is far away and blurred). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity, outfit, light and the face at x650-980, y400-780 exactly as they are, since those all passed. Rework only the left column. Put the gate seating and all travellers on the right, behind her, or keep them fully below y820. If seating must be on the left, make it a light-coloured, heavily out-of-focus band that sits below y820. The left 58% (x0-620, y0-820) holds only open sky, bright window glass and pale floor. No benches, no people and no dark shapes there. Keep her hair entirely right of x630, falling behind her shoulder instead of spreading left. A bigger open-mouth, excited smile, looking at the phone screen. A higher-neck white tank.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153338_c9235af9-96dc-4eab-a6ba-3ff6d76f6759.png",
+    "ref": 1
+  },
+  {
+    "id": "a9a4c08c-72b6-45d2-8386-ed071f72df7b",
+    "createdAt": 1790609626.453135,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and loose face-framing strands, same face shape, eyes, brows, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the airport and its signs. Scene: she has just checked into a bright hotel room in Istanbul. A large window behind her shows rooftops and a mosque dome with slim minarets across the Golden Horn in soft daylight, next to a white bed with her black rolling suitcase standing beside it. Outfit: black sleeveless top, as in the reference, under a light open shirt, with a crossbody strap. Expression: an excited, big natural smile. No tape. Composition on the 1080x1350 slide: front-camera selfie with her face on the LEFT, face box about x70-500, y320-700, chin above y720. The window view sits behind and above her on the left and centre. The upper right (x590-1080, y0-710) is calm plain wall, curtain and soft light. The lower band (y740-1120) is her shoulders, top and the bed, calm enough to carry text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks (plain suitcase). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity and scene, but pull the whole head up and in. The top of her hair should be near y230-250, her eyes around y430-450 and her chin no lower than y690. Hold the phone higher and a little farther away so her shoulders and collarbone fill y740-1120 instead of her jaw. State outright that no part of the face or chin may go below y720. Ask for a bigger open-mouth excited smile that shows teeth. Keep the suitcase lower, beside the bed, so its handle stays under y600 or out of the upper-right text zone.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153346_a9a4c08c-72b6-45d2-8386-ed071f72df7b.png",
+    "ref": 1
+  },
+  {
+    "id": "ebe19dc7-cb97-4962-a2e5-b3251cfcdaca",
+    "createdAt": 1790609634.17725,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P173.jpg as the only identity reference. Same young Latina woman: long dark-brown wavy hair with a centre part, same face shape, eyes, brows, nose, lips and skin tone, dainty gold pendant necklace, small gold hoops. Keep every facial feature exactly as in the reference. Take only her identity; ignore the bedroom and the mirror. Scene: a bright international departure gate in late-morning sun. Floor-to-ceiling windows behind her show a clear sky and a plane parked far outside, soft and out of focus, with a few rows of gate seats and distant travellers looking away. She stands by the window holding the handle of her carry-on. Outfit: cream knit cardigan over a white tank, light-wash jeans. Expression: an excited, happy smile, holiday energy. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x650-980, y400-780, on the right. The left 58% (x0-620, y0-820) is calm window light, sky and soft seating, with no face, hair or busy detail. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, departure boards, gate numbers, airline names, logos or brand marks (anything with text is far away and blurred). No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity, outfit, light and the face at x650-980, y400-780 exactly as they are, since those all passed. Rework only the left column. Put the gate seating and all travellers on the right, behind her, or keep them fully below y820. If seating must be on the left, make it a light-coloured, heavily out-of-focus band that sits below y820. The left 58% (x0-620, y0-820) holds only open sky, bright window glass and pale floor. No benches, no people and no dark shapes there. Keep her hair entirely right of x630, falling behind her shoulder instead of spreading left. A bigger open-mouth, excited smile, looking at the phone screen. A higher-neck white tank.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153354_ebe19dc7-cb97-4962-a2e5-b3251cfcdaca.png",
+    "ref": 1
+  },
+  {
+    "id": "caa43485-15bd-48bf-b475-585d882be1da",
+    "createdAt": 1790609641.145781,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P81.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part, the same wide bright smile, same face shape, eyes, brows, nose, lips and skin tone. Keep her nose and every facial feature exactly as in the reference; no tape, splint, swelling or marks, and nothing that reads as a before/after or a result reveal. Take only her identity and ignore the airport. Scene: back home in Los Angeles about two weeks after the trip, on her small apartment balcony in bright afternoon sun: white railing, potted plants, palm trees and a clear blue sky behind. On the little outdoor table beside her sit two quiet souvenirs from Istanbul: a tulip-shaped Turkish tea glass on a saucer and a small blue evil-eye charm. Outfit: soft white tee under a light linen overshirt, hair down. Expression: relaxed and content, a warm natural smile. Composition on the 1080x1350 slide: front-camera selfie with her arm entering from the lower-right edge, face box about x660-990, y600-960, on the right as in her reference. The left 60% (x0-640) from the top down to y800 is calm: open sky, soft palm fronds and plain wall, with no face, hair or busy detail. The table and souvenirs sit low in the frame (below y880). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm natural daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity, outfit, light and table props as they are. Change only the background on the left. Say that beyond the railing on the left side there is only open blue sky, with no city view, no distant skyline, no rooftops and no trees. Tilt the camera slightly upward so the sky fills x0-640 all the way down to about y780. Right below that, the plain white stucco balcony wall top sits at about y780-800. Put no plants, olive tree or foliage on the left above y850: potted plants only low in the frame or on the right behind her. Palm trees only on the right half (x>640). Move her face about 30-40px left, to face box x650-980. Have the selfie arm enter from the lower-right edge. Issues found: Busy detail in the BM2 text zone (x24-556, y40-769). From about y450 to y769 the left column holds a detailed LA vista: distant palms, rooftops, tree canopies, a crane or mast, the white railing and the olive tree's leaves at the left edge. Edge density there is 15% (y450-600) and 22% (y600-769), against 0% for the sky above and 4.4% for her face. It is the busiest part of the frame and sits right where the chat bubbles go. The prompt asked for the left 60% to stay calm (sky, soft fronds, plain wall) down to y800.; The BT3 zone (x34-650, y50-577) is mostly clean sky, but its bottom band (y450-577) holds a row of distant palms and the skyline (12.5% edge density). A palm crown also enters its right edge around x560-650, y290-450. Probably tolerable, but not clean.; The face box runs slightly right of target. Facebox reads x690-1042, y587-940 against the target x660-990, y600-960, so the right edge overshoots by about 52px. It still clears x650 and stays in frame. Minor.; The selfie arm comes in from the bottom centre-left (about x340-640), not the lower-right edge the prompt asked for. It stays out of both text zones. Minor.; Everything else passes. Identity is a strong match: same eyes, brows, smile, centre part, and the same broad, soft nose with a rounded tip, not reshaped. Skin has natural texture with no plastic look. No legible text, logos or signage. No hands visible, phone out of frame. Tea glass, Iznik saucer and evil-eye charm are rendered cleanly. Light is bright and warm. No marks and no before/after cues. It reads as a real front-camera selfie. (The posterised look in the first full-frame preview was a viewer downscale artifact. Native-resolution crops are clean.)",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153401_caa43485-15bd-48bf-b475-585d882be1da.png",
+    "ref": 1
+  },
+  {
+    "id": "ecd554b0-f2b8-4446-8251-66f36d397469",
+    "createdAt": 1790609648.447511,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman with long dark curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street. Scene: morning in her LA bedroom. She sits up in bed against big white pillows, knees up under a white duvet, curls a little messy, in an oversized white crewneck tee, a mug of coffee in her free hand, warm morning sun through sheer curtains. A front-camera selfie at arm's length, slightly above eye level. Expression: sheepish and amused, a little sleepy (up too late scrolling), not sad. Composition on the 1080x1350 slide: face box about x580-880, y440-790, right of centre below the top third. The left half (x0-540) is white duvet, pillows and sheet folds down the full height, calm. The top band (y0-400) is headboard wall and soft light, calm. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, cosy, nothing dark or ominous. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Tighten identity: 'Match the reference face exactly: soft youthful oval face with full cheeks, soft straight brows (not heavy or angled), almond eyes that are not deep-set, and a short straight nose with a small rounded tip and no strong highlight down the bridge. Do not make her look older or more angular.' Frame lower: 'Put the top of her hair below y400 so no curls cross into the top band (y0-400). Keep the face around y460-780.' Add 'sleepy half-lidded eyes, sheepish small smile' for the expression. Issues found: Identity drift (main reason to fail): side by side with BR_P61.jpg, the candidate reads as a different, older-looking woman. The face is longer and more angular, and the brows are heavier and angled down. The eyes sit deeper under heavier lids, and the cheeks are thinner than the reference's softer, rounder young face.; Reshaped nose: the reference has a short, straight nose with a small rounded tip. The candidate's nose looks longer with a strong bright highlight down the bridge and a more pointed, prominent tip. That is a nose-shape change, which is fatal for a rhinoplasty ad.; Text zone: the top of her curly hair rises to about y285 on the 1080x1350 slide and runs across x560-900. That puts dark, busy curls inside the lower-right corner of the BU3 caption/CTA box (x121-958, y53-372), which the prompt says must stay calm.; Face box is borderline: facebox returns x639-876, y424-661. The top edge is 16px above the target y440 but still below y400, and the face sits higher than the requested y440-790 band.; Minor: she looks smug or amused but not sleepy, so the 'up too late scrolling' mood is weak. Hand, mug, single selfie arm, light and skin texture look acceptable. There is no readable text, logo, second phone or bandage. The left column (BM6 x24-506) is calm pillows and duvet.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153408_ecd554b0-f2b8-4446-8251-66f36d397469.png",
+    "ref": 1
+  },
+  {
+    "id": "258c99fb-9c7d-43e3-84a6-f49bdbfd9787",
+    "createdAt": 1790609649.519005,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and face-framing strands, same face, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the reference's background. Scene: a departure gate at LAX early in the morning, the sun already up: bright warm sunlight pours through floor-to-ceiling windows, a soft peach glow low on the horizon, the interior fully lit. A plane is parked far outside, soft and out of focus. Rows of gate seats and very few people. She sits holding an iced coffee in a plain clear cup with no logo, low near her collarbone, with her carry-on beside her. Outfit: light-grey zip hoodie over a black tank, hair down. Expression: a sleepy-happy early-flight smile. Composition on the 1080x1350 slide: face in the upper centre, face box about x300-760, y200-690, chin above y720. The lower part (y740-1350) is hoodie, coffee cup and seats, calm and low-detail. Any screens are far away and blurred with no readable text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, nothing dim, blue-hour or dark. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity, scene and light as they are. Only the framing needs to change: move her face up and slightly left so the chin is clearly above y700 and the whole face is inside x300-760, y200-690. Camera held higher and further away, more headroom cropped off the top, chin at roughly 50% of frame height, shoulders and cup lower in frame.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153409_258c99fb-9c7d-43e3-84a6-f49bdbfd9787.png",
+    "ref": 1
+  },
+  {
+    "id": "218feb6f-3232-4a75-b431-4f1aa26cdda4",
+    "createdAt": 1790609663.774845,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P62.jpg as the only identity reference. Same young East Asian woman: long straight black hair with a centre part and face-framing strands, same face, nose, lips and skin tone, small stud earrings. Keep every facial feature exactly as in the reference. Take only her identity and ignore the reference's background. Scene: a departure gate at LAX early in the morning, the sun already up: bright warm sunlight pours through floor-to-ceiling windows, a soft peach glow low on the horizon, the interior fully lit. A plane is parked far outside, soft and out of focus. Rows of gate seats and very few people. She sits holding an iced coffee in a plain clear cup with no logo, low near her collarbone, with her carry-on beside her. Outfit: light-grey zip hoodie over a black tank, hair down. Expression: a sleepy-happy early-flight smile. Composition on the 1080x1350 slide: face in the upper centre, face box about x300-760, y200-690, chin above y720. The lower part (y740-1350) is hoodie, coffee cup and seats, calm and low-detail. Any screens are far away and blurred with no readable text. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, nothing dim, blue-hour or dark. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Keep the identity, scene and light as they are. Only the framing needs to change: move her face up and slightly left so the chin is clearly above y700 and the whole face is inside x300-760, y200-690. Camera held higher and further away, more headroom cropped off the top, chin at roughly 50% of frame height, shoulders and cup lower in frame.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153423_218feb6f-3232-4a75-b431-4f1aa26cdda4.png",
+    "ref": 1
+  },
+  {
+    "id": "ea8fcbf9-8c20-430b-ae24-f90a7b89b16a",
+    "createdAt": 1790609665.019456,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman with long dark curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street. Scene: morning in her LA bedroom. She sits up in bed against big white pillows, knees up under a white duvet, curls a little messy, in an oversized white crewneck tee, a mug of coffee in her free hand, warm morning sun through sheer curtains. A front-camera selfie at arm's length, slightly above eye level. Expression: sheepish and amused, a little sleepy (up too late scrolling), not sad. Composition on the 1080x1350 slide: face box about x580-880, y440-790, right of centre below the top third. The left half (x0-540) is white duvet, pillows and sheet folds down the full height, calm. The top band (y0-400) is headboard wall and soft light, calm. Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, mild phone HDR, natural skin texture, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, warm morning daylight, cosy, nothing dark or ominous. No legible text, screen UI, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Tighten identity: 'Match the reference face exactly: soft youthful oval face with full cheeks, soft straight brows (not heavy or angled), almond eyes that are not deep-set, and a short straight nose with a small rounded tip and no strong highlight down the bridge. Do not make her look older or more angular.' Frame lower: 'Put the top of her hair below y400 so no curls cross into the top band (y0-400). Keep the face around y460-780.' Add 'sleepy half-lidded eyes, sheepish small smile' for the expression. Issues found: Identity drift (main reason to fail): side by side with BR_P61.jpg, the candidate reads as a different, older-looking woman. The face is longer and more angular, and the brows are heavier and angled down. The eyes sit deeper under heavier lids, and the cheeks are thinner than the reference's softer, rounder young face.; Reshaped nose: the reference has a short, straight nose with a small rounded tip. The candidate's nose looks longer with a strong bright highlight down the bridge and a more pointed, prominent tip. That is a nose-shape change, which is fatal for a rhinoplasty ad.; Text zone: the top of her curly hair rises to about y285 on the 1080x1350 slide and runs across x560-900. That puts dark, busy curls inside the lower-right corner of the BU3 caption/CTA box (x121-958, y53-372), which the prompt says must stay calm.; Face box is borderline: facebox returns x639-876, y424-661. The top edge is 16px above the target y440 but still below y400, and the face sits higher than the requested y440-790 band.; Minor: she looks smug or amused but not sleepy, so the 'up too late scrolling' mood is weak. Hand, mug, single selfie arm, light and skin texture look acceptable. There is no readable text, logo, second phone or bandage. The left column (BM6 x24-506) is calm pillows and duvet.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153425_ea8fcbf9-8c20-430b-ae24-f90a7b89b16a.png",
+    "ref": 1
+  },
+  {
+    "id": "38f49641-8977-4fb2-bbeb-30ceadd1401d",
+    "createdAt": 1790609715.385753,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "The corner of a sunlit living room in a Southwest-style home that could be in Los Angeles or Phoenix (warm white plaster walls, terracotta tile floor), late morning. A tall window on the right with a sheer linen curtain softly diffusing the sun; outside is only bright warm blur and the soft shadow of a leafy branch on the curtain. A low oatmeal linen sofa enters from the left, with a wool throw folded on its arm. In front of it, a small round oak side table holds a smartphone lying face down, a closed notebook with a pen on top, and a handmade ceramic mug. A tall potted fiddle-leaf fig stands in the far corner. The top 45% of the frame is plain warm white plaster wall with a soft wash of window light: no art, no shelves, no clock. All objects sit between about 55% and 88% of the height. This is a private home, not a hotel lobby or reception: no counters, no orchids, no travertine.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, calm and inviting, like an editorial interiors story. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text anywhere: no screen content, book titles, labels or logos. Vertical 4:5 frame, straight verticals.\n\nFIX FROM REVIEW: Keep the fiddle-leaf fig short and low. It is NOT tall: it is a small young fiddle-leaf fig about 90 cm tall in a low terracotta pot in the far right corner, with its top leaves below 55% of the frame height and no leaves above the midline. The notebook is a plain blank linen cover with a blank spine and no gold stamping, no marks of any kind. The table and sofa bottoms end above 88% of the height, so plain terracotta tile floor fills the bottom 12% of the frame, with no furniture legs in the bottom strip: the camera stands a few steps back at seated eye level so the whole side table, its legs and feet, and the base of the sofa are fully visible and end well above the bottom edge. The top 45% of the frame is plain warm white plaster wall; nothing, not even leaves or leaf shadows with hard edges, above the middle of the frame. The window and curtain stay at the far right edge of the frame, and any branch shadow on the curtain is soft and only in the lower half.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153515_38f49641-8977-4fb2-bbeb-30ceadd1401d.png",
+    "ref": 0
+  },
+  {
+    "id": "8e66ee37-d622-4489-ac5c-46ce42a25e40",
+    "createdAt": 1790609727.646971,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A calm boutique hotel room in Istanbul's old town in warm morning light. It must look nothing like a modern sea-view suite: no floor-to-ceiling picture window, no wide water panorama, no green velvet armchair, no tray on the bed, no headboard wall lamps. On the right 40% of the frame, tall white wooden French doors stand open onto a narrow balcony with a black wrought-iron rail and a tiny bistro table holding one tulip-shaped Turkish tea glass on a saucer. Beyond it: terracotta rooftops, a single distant mosque dome and only a thin sliver of the Bosphorus, in soft golden haze. Sheer white curtains lift slightly in the breeze. The upper-left 60% of the frame is plain warm limewash wall with a simple cornice and nothing on it. The lower half is the foot of a low bed with crisp white linen and a folded oatmeal throw, seen at a slight angle from the foot of the bed, calm and uncluttered. No TV, no art, no visible bulbs.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, restful and calm, like a quiet recovery morning. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text, signs or logos anywhere. Vertical 4:5 frame, straight verticals.\n\nFIX FROM REVIEW: Pull the doors and balcony up and to the right, and give the bed the lower half. Suggested wording: 'The French doors occupy only x>=63% of the frame and the balcony, rail, table and view must sit entirely in the upper 55% of the frame (above y=56%); the bed foot with white linen and folded oatmeal throw fills the entire bottom 48% of the frame edge to edge, rising to y=52%, so the lower-left 90% of the frame from y=52% to y=85% is only plain bed linen and throw. Balcony shows only the rail and one small round bistro table with a single straight pedestal leg, no chair. Curtain hangs straight inside the door frame, not billowing into the room. Only a narrow sliver of water on the horizon.' Consider shooting from higher so the bed foot dominates the foreground. Issues found: Busy detail in the MJ-4 text zone. The quote box (x72-972, y700-1020 in 1080x1350) runs across the curtain, the left door leaf and the whole balcony: the scrolled iron rail, the bistro table and chair, and the terracotta rooftops. That covers roughly x640-972 of the quote's width, so the right part of the quote would sit on high-contrast detail.; The layout does not follow the safe spec. The view is supposed to stay within y200-760, but the door opening and balcony run from about y130 to about y1030 at 1080 scale. The bed is supposed to fill the lower half, but it starts around y900, so it covers only the bottom third and the quote lands mostly on the curtain and balcony instead of on bed linen.; The bistro furniture is malformed (an AI tell). The table's X-legs and the folding chair's legs merge into one crossed frame, and the chair seat seems to sprout from the table's leg crossing. The furniture is not physically coherent.; The prompt is only partly followed. The Bosphorus is a wide water band with a boat, not the 'thin sliver' the prompt asks for. The left French door leaf and the curtain spill well left of the right 40% of the frame, into the space meant for plain wall.; The render is on the clean, smooth side of the Portra 400 film look: little visible grain, and the wall and linen are rendered very evenly. This is a minor point and not a FAIL on its own.; No problems with text or logos (the rooftops and mosque have no readable signage), with people, or with light: the light is warm, bright and not gloomy.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153527_8e66ee37-d622-4489-ac5c-46ce42a25e40.png",
+    "ref": 0
+  },
+  {
+    "id": "68cfe5dc-458c-480c-b9cd-9818a0b7d001",
+    "createdAt": 1790609730.752742,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "The corner of a sunlit living room in a Southwest-style home that could be in Los Angeles or Phoenix (warm white plaster walls, terracotta tile floor), late morning. A tall window on the right with a sheer linen curtain softly diffusing the sun; outside is only bright warm blur and the soft shadow of a leafy branch on the curtain. A low oatmeal linen sofa enters from the left, with a wool throw folded on its arm. In front of it, a small round oak side table holds a smartphone lying face down, a closed notebook with a pen on top, and a handmade ceramic mug. A tall potted fiddle-leaf fig stands in the far corner. The top 45% of the frame is plain warm white plaster wall with a soft wash of window light: no art, no shelves, no clock. All objects sit between about 55% and 88% of the height. This is a private home, not a hotel lobby or reception: no counters, no orchids, no travertine.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, calm and inviting, like an editorial interiors story. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text anywhere: no screen content, book titles, labels or logos. Vertical 4:5 frame, straight verticals.\n\nFIX FROM REVIEW: Drop the tall fiddle-leaf fig. Instead, a low trailing plant (a small pothos in a low terracotta pot) sits on the floor in the far right corner, its leaves spilling down toward the tiles, entirely in the lower part of the frame, below the 55% height line, with no leaves above the midline. The notebook is a plain blank linen cover with a blank spine and no gold stamping, no marks of any kind. The table and sofa bottoms end above 88% of the height, so plain terracotta tile floor fills the bottom 12% of the frame, with no furniture legs in the bottom strip: the camera stands a few steps back at seated eye level so the whole side table, its legs and feet, and the base of the sofa are fully visible and end well above the bottom edge. The top 45% of the frame is plain warm white plaster wall; nothing, not even leaves or leaf shadows with hard edges, above the middle of the frame. The window and curtain stay at the far right edge of the frame, and any branch shadow on the curtain is soft and only in the lower half.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153530_68cfe5dc-458c-480c-b9cd-9818a0b7d001.png",
+    "ref": 0
+  },
+  {
+    "id": "ca8db9a4-04f5-42d1-9451-a32362ef15c8",
+    "createdAt": 1790609757.433969,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman: long dark voluminous curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street and its blurred sign patch. Scene: her sunny living room in Los Angeles in late-morning light: white walls, a light oak floor, and a window with a palm tree outside. She sits cross-legged on the floor next to an open hard-shell carry-on, half-packed with folded clothes, sunglasses and a straw sun hat (plain, no labels). A front-camera selfie from slightly above, her arm entering from the lower-right edge; not a mirror selfie, so it does not echo P173's bedroom mirror packing shot. Outfit: black tank and loose light jeans. Expression: excited, happy smile. Composition on the 1080x1350 slide: face box about x560-880, y520-820. The whole top band (y0-480) is plain white wall and soft window light. The suitcase sits in the lower left (below y850). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, soft, warm daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Pull the camera further back and lower so her whole head, hair included, sits below y480 and the face lands at about y540-800 on the 1080x1350 frame (face box about x560-880, y540-800). The window must sit fully below y480 or be completely out of frame; nothing but plain white wall may appear between y0 and y480, with no palm tree, rooftops, trees or window frame in that top band. Strengthen identity: narrow oval face, slim cheeks, long straight narrow nose with a small rounded tip, medium natural lips, exactly as in BR_P61; do not widen the face or shorten or broaden the nose. Expression: an open-mouth excited smile showing her teeth. Light: soft, even late-morning daylight with no golden rim light and no golden-hour glow.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153557_ca8db9a4-04f5-42d1-9451-a32362ef15c8.png",
+    "ref": 1
+  },
+  {
+    "id": "66a893df-d7b3-494c-9192-4dfd7beb82ac",
+    "createdAt": 1790609764.890564,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A calm boutique hotel room in Istanbul's old town in warm morning light. It must look nothing like a modern sea-view suite: no floor-to-ceiling picture window, no wide water panorama, no green velvet armchair, no tray on the bed, no headboard wall lamps. On the right 40% of the frame, tall white wooden French doors stand open onto a narrow balcony with a black wrought-iron rail and a tiny bistro table holding one tulip-shaped Turkish tea glass on a saucer. Beyond it: terracotta rooftops, a single distant mosque dome and only a thin sliver of the Bosphorus, in soft golden haze. Sheer white curtains lift slightly in the breeze. The upper-left 60% of the frame is plain warm limewash wall with a simple cornice and nothing on it. The lower half is the foot of a low bed with crisp white linen and a folded oatmeal throw, seen at a slight angle from the foot of the bed, calm and uncluttered. No TV, no art, no visible bulbs.\n\nStyle: real 35mm film photograph, Kodak Portra 400, fine natural grain, gentle halation on highlights, honest color. Mood: warm daylight, restful and calm, like a quiet recovery morning. Soft golden light, creamy highlights, open lifted shadows. Not dark, not moody, no heavy vignette, no HDR, no CGI sheen. No people. No readable text, signs or logos anywhere. Vertical 4:5 frame, straight verticals.\n\nFIX FROM REVIEW: Pull the doors and balcony up and to the right, and give the bed the lower half. Suggested wording: 'The French doors occupy only x>=63% of the frame and the balcony, rail, table and view must sit entirely in the upper 55% of the frame (above y=56%); the bed foot with white linen and folded oatmeal throw fills the entire bottom 48% of the frame edge to edge, rising to y=52%, so the lower-left 90% of the frame from y=52% to y=85% is only plain bed linen and throw. Balcony shows only the rail and one small round bistro table with a single straight pedestal leg, no chair. Curtain hangs straight inside the door frame, not billowing into the room. Only a narrow sliver of water on the horizon.' Consider shooting from higher so the bed foot dominates the foreground. Issues found: Busy detail in the MJ-4 text zone. The quote box (x72-972, y700-1020 in 1080x1350) runs across the curtain, the left door leaf and the whole balcony: the scrolled iron rail, the bistro table and chair, and the terracotta rooftops. That covers roughly x640-972 of the quote's width, so the right part of the quote would sit on high-contrast detail.; The layout does not follow the safe spec. The view is supposed to stay within y200-760, but the door opening and balcony run from about y130 to about y1030 at 1080 scale. The bed is supposed to fill the lower half, but it starts around y900, so it covers only the bottom third and the quote lands mostly on the curtain and balcony instead of on bed linen.; The bistro furniture is malformed (an AI tell). The table's X-legs and the folding chair's legs merge into one crossed frame, and the chair seat seems to sprout from the table's leg crossing. The furniture is not physically coherent.; The prompt is only partly followed. The Bosphorus is a wide water band with a boat, not the 'thin sliver' the prompt asks for. The left French door leaf and the curtain spill well left of the right 40% of the frame, into the space meant for plain wall.; The render is on the clean, smooth side of the Portra 400 film look: little visible grain, and the wall and linen are rendered very evenly. This is a minor point and not a FAIL on its own.; No problems with text or logos (the rooftops and mosque have no readable signage), with people, or with light: the light is warm, bright and not gloomy.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153604_66a893df-d7b3-494c-9192-4dfd7beb82ac.png",
+    "ref": 0
+  },
+  {
+    "id": "4322ad6f-9f6f-42c9-b55e-eee451395e7e",
+    "createdAt": 1790609771.901056,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Identity: use img/BR_P61.jpg as the only identity reference. Same young woman: long dark voluminous curly hair, warm olive skin, same face shape, eyes, brows, nose and lips. Keep every facial feature exactly as in the reference. Take only her identity; ignore the reference's street and its blurred sign patch. Scene: her sunny living room in Los Angeles in late-morning light: white walls, a light oak floor, and a window with a palm tree outside. She sits cross-legged on the floor next to an open hard-shell carry-on, half-packed with folded clothes, sunglasses and a straw sun hat (plain, no labels). A front-camera selfie from slightly above, her arm entering from the lower-right edge; not a mirror selfie, so it does not echo P173's bedroom mirror packing shot. Outfit: black tank and loose light jeans. Expression: excited, happy smile. Composition on the 1080x1350 slide: face box about x560-880, y520-820. The whole top band (y0-480) is plain white wall and soft window light. The suitcase sits in the lower left (below y850). Look: a real iPhone front-camera photo she would post to her Instagram story, not a photoshoot. Slight wide-angle distortion, natural skin texture, mild phone HDR, faint sensor noise, true colour. One phone only (out of frame); natural hands. Mood 2 light: bright, soft, warm daylight. No legible text, logos or brand marks. No watermark, border, vignette or blurred edges. Do not make her resemble any celebrity or real public figure. FIX FROM REVIEW: Pull the camera further back and lower so her whole head, hair included, sits below y480 and the face lands at about y540-800 on the 1080x1350 frame (face box about x560-880, y540-800). The window must sit fully below y480 or be completely out of frame; nothing but plain white wall may appear between y0 and y480, with no palm tree, rooftops, trees or window frame in that top band. Strengthen identity: narrow oval face, slim cheeks, long straight narrow nose with a small rounded tip, medium natural lips, exactly as in BR_P61; do not widen the face or shorten or broaden the nose. Expression: an open-mouth excited smile showing her teeth. Light: soft, even late-morning daylight with no golden rim light and no golden-hour glow.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_153611_4322ad6f-9f6f-42c9-b55e-eee451395e7e.png",
+    "ref": 1
+  },
+  {
+    "id": "5ff24ab1-a8c6-4076-bdee-c229f7935363",
+    "createdAt": 1790617791.28245,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Edit of the reference photo. Keep everything the same: the same woman with the exact same face, hair, cream knit sweater and the mug in her hands, her calm soft smile, her pose and position in the centre, the same airplane seat, cabin and framing, the two oval windows in the same places at the same size. Change only the two windows and the light. LEFT window: Los Angeles in bright clear midday daylight far below, blue sky, sunlit palm trees and the downtown skyline, crisp and sunny. RIGHT window: Istanbul at a deep red-orange sunset far below, the Bosphorus with the silhouettes of mosque domes and slim minarets against a glowing red sky, the same deep red mood as the reference. Light: the left side of the cabin and the left side of her face are lit by soft natural daylight from the left window; the right side of the cabin keeps the warm deep red and amber sunset glow of the reference. It still looks like one real photograph. 35mm film look, fine grain. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_174951_5ff24ab1-a8c6-4076-bdee-c229f7935363.png",
+    "ref": 1
+  },
+  {
+    "id": "ac521ab5-51b7-49f7-8eed-7ed06ed4cede",
+    "createdAt": 1790617795.442508,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Edit of the reference photo. Keep the same woman identical (same face, eyes, nose, lips, hair, cream knit sweater, mug), the same pose, framing, seat and cabin, and both oval windows in the same positions. Only change what is outside the windows and how the cabin is lit. Left half: daytime. The left window shows the Los Angeles skyline and palm trees in bright blue-sky sunshine, and soft daylight fills the left side of the cabin. Right half: evening. The right window shows the Istanbul skyline with mosque domes and minarets over the Bosphorus at a deep red sunset, and the right side of the cabin keeps the warm deep red glow of the reference. Natural, believable light on her face, gentle transition across the middle. 35mm film, fine grain, real photograph. No text, no logos, no other people.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_174955_ac521ab5-51b7-49f7-8eed-7ed06ed4cede.png",
+    "ref": 1
+  },
+  {
+    "id": "4df3548d-ac6f-4617-8bad-1b8fee1997c9",
+    "createdAt": 1790617799.884076,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Edit of the reference photo. Keep the woman, her face, hair, sweater, mug, pose, the seat, the cabin and the framing exactly the same, perfectly centred and symmetrical. Replace only the views through the windows: the left window shows sunny daytime Los Angeles far below (blue sky, palm trees, downtown towers in sunlight) and the right window shows Istanbul far below at a deep red sunset (Bosphorus, mosque domes and minarets in silhouette). The cabin light is soft warm golden light overall, a little brighter and more neutral on the left, deeper red and amber on the right. Real 35mm film photograph, fine grain. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_174959_4df3548d-ac6f-4617-8bad-1b8fee1997c9.png",
+    "ref": 1
+  },
+  {
+    "id": "7841085f-0c44-4259-92f8-ff6abc1e8b9a",
+    "createdAt": 1790617880.18892,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is in the reference: the same face, the same dark brown eyes, the same nose with the same shape and size, the same lips, brows, skin tone and hair, the same pose and hand holding her phone, the same framing and the same size and position in the frame. Do not retouch, slim or reshape any facial feature. Change only her surroundings and top: she is now in her bright apartment in Los Angeles in late-morning light, white walls, a light oak floor, a tall window with a palm tree outside, and an open carry-on suitcase with folded clothes on the floor behind her. She wears a simple white ribbed tank. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175120_7841085f-0c44-4259-92f8-ff6abc1e8b9a.png",
+    "ref": 1
+  },
+  {
+    "id": "cf315d66-b06c-4628-808b-cc40ecbf9b87",
+    "createdAt": 1790617882.964915,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is: the same face, eyes, nose shape and size, lips, brows, skin tone, long dark wavy hair, gold necklace and hoops, the same mirror-selfie pose holding her phone, the same framing, size and position in the frame. Do not retouch or reshape any facial feature. Change only the room: remove the suitcase and clothes; beside her now stands a small white desk with an open laptop (screen angled away), a notebook with a pen and an iced coffee, and a plant. Same bright white bedroom walls, the top half of the frame is plain white wall. She wears a soft pink ribbed tank instead of the white one. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175122_cf315d66-b06c-4628-808b-cc40ecbf9b87.png",
+    "ref": 1
+  },
+  {
+    "id": "ffd8c1a5-5eb4-4224-bff5-a773b62cfc4a",
+    "createdAt": 1790617886.328825,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is in the reference: the same face, the same dark brown eyes, the same nose with the same shape and size, the same lips, brows, skin tone and hair, the same pose and hand holding her phone, the same framing and the same size and position in the frame. Do not retouch, slim or reshape any facial feature. Change only her surroundings and clothes: early morning in her bedroom in Los Angeles, soft warm first light through sheer curtains, an unmade bed with a white duvet behind her, a plain white wall above it. She wears an oversized white crewneck tee, curls slightly messy, a little sleepy and amused. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175126_ffd8c1a5-5eb4-4224-bff5-a773b62cfc4a.png",
+    "ref": 1
+  },
+  {
+    "id": "7aebe4fd-3377-42c8-b307-ecd8aed9102a",
+    "createdAt": 1790617892.119509,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is: the same face, eyes, nose shape and size, lips, brows, skin tone, long dark wavy hair, gold necklace and hoops, the same mirror-selfie pose holding her phone, the same framing, size and position in the frame. Do not retouch or reshape any facial feature. Change only the room: remove the suitcase and clothes; beside her now stands a small white desk with an open laptop (screen angled away), a notebook with a pen and an iced coffee, and a plant. Same bright white bedroom walls, the top half of the frame is plain white wall. She wears a soft pink ribbed tank instead of the white one. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175132_7aebe4fd-3377-42c8-b307-ecd8aed9102a.png",
+    "ref": 1
+  },
+  {
+    "id": "58b8ce82-3f14-4efc-a502-da83eb26c750",
+    "createdAt": 1790617892.248965,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is in the reference: the same face, the same dark brown eyes, the same nose with the same shape and size, the same lips, brows, skin tone and hair, the same pose and hand holding her phone, the same framing and the same size and position in the frame. Do not retouch, slim or reshape any facial feature. Change only her surroundings and top: she is now in her bright apartment in Los Angeles in late-morning light, white walls, a light oak floor, a tall window with a palm tree outside, and an open carry-on suitcase with folded clothes on the floor behind her. She wears a simple white ribbed tank. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175132_58b8ce82-3f14-4efc-a502-da83eb26c750.png",
+    "ref": 1
+  },
+  {
+    "id": "38e1392e-b83a-49d0-8e46-56f319f36096",
+    "createdAt": 1790617896.156951,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is in the reference: the same face, the same dark brown eyes, the same nose with the same shape and size, the same lips, brows, skin tone and hair, the same pose and hand holding her phone, the same framing and the same size and position in the frame. Do not retouch, slim or reshape any facial feature. Change only her surroundings and clothes: early morning in her bedroom in Los Angeles, soft warm first light through sheer curtains, an unmade bed with a white duvet behind her, a plain white wall above it. She wears an oversized white crewneck tee, curls slightly messy, a little sleepy and amused. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175136_38e1392e-b83a-49d0-8e46-56f319f36096.png",
+    "ref": 1
+  },
+  {
+    "id": "fc3915ff-0e59-4052-9829-85be458314fa",
+    "createdAt": 1790617962.257186,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Edit of the reference photo. Keep everything exactly the same: the same woman, face, hair, cream sweater, mug, pose, seat, cabin, framing and both windows in the same places, and the same views (Los Angeles on the left, Istanbul with its mosque and minarets over the Bosphorus on the right). Change only the time of day and the light to a bright, soft, warm golden afternoon: warm natural daylight fills the whole cabin evenly, her skin looks fresh and softly lit, the right window shows Istanbul in warm golden afternoon sun with a pale peach sky instead of a deep red sunset. Airy, calm, inviting, like a sunny editorial travel photo. Not dark, not red, not moody. 35mm film, fine grain. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175242_fc3915ff-0e59-4052-9829-85be458314fa.png",
+    "ref": 1
+  },
+  {
+    "id": "fd562989-f3f4-469b-8897-4bd1db752061",
+    "createdAt": 1790617966.153442,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Same photo as the reference with the same woman, pose, mug, seat, cabin and window positions, relit in warm, bright late-afternoon daylight: soft golden sun coming through the windows, cream and honey tones throughout the cabin, gentle shadows, fresh natural skin. Left window: sunny Los Angeles. Right window: Istanbul (mosque domes, minarets, the Bosphorus) glowing in warm golden-hour sun under a soft peach and pale blue sky. Warm and light, like Kodak Portra 400, fine grain. Keep her face identical. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175246_fd562989-f3f4-469b-8897-4bd1db752061.png",
+    "ref": 1
+  },
+  {
+    "id": "75c0de44-22db-46f2-a182-945877614fe3",
+    "createdAt": 1790618193.94297,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is in the reference: the same face, the same dark brown eyes, the same nose with the same shape and size, the same lips, brows, skin tone and hair, the same pose and hand holding her phone, the same framing and the same size and position in the frame. Do not retouch, slim or reshape any facial feature. Change only her surroundings and top: she is now in her bright apartment in Los Angeles in late-morning light, white walls, a light oak floor, a tall window with a palm tree outside, and an open carry-on suitcase with folded clothes on the floor behind her. She wears a simple white ribbed tank. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges. FIX FROM REVIEW: Keep her exact hair: loose, glossy, defined waves, not tighter or frizzier curls, same volume. Keep her soft, full cheeks and the same jaw and chin length; do not slim or lengthen the face. Keep her brows arched and separated exactly as in the reference, not thicker. Keep her irises dark brown, not hazel. Do not add freckles. The window is on the right and its top edge sits below her shoulder line; the upper third of the frame is plain white wall and ceiling with no palm fronds, window frame or door edge. Soft late-morning daylight, no low raking golden-hour sun patches. No floor mirror.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175633_75c0de44-22db-46f2-a182-945877614fe3.png",
+    "ref": 1
+  },
+  {
+    "id": "2af6ad3d-a704-4ff4-a808-ab9bb5e2d429",
+    "createdAt": 1790618207.731478,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the woman exactly as she is in the reference: the same face, the same dark brown eyes, the same nose with the same shape and size, the same lips, brows, skin tone and hair, the same pose and hand holding her phone, the same framing and the same size and position in the frame. Do not retouch, slim or reshape any facial feature. Change only her surroundings and top: she is now in her bright apartment in Los Angeles in late-morning light, white walls, a light oak floor, a tall window with a palm tree outside, and an open carry-on suitcase with folded clothes on the floor behind her. She wears a simple white ribbed tank. Real iPhone photo she would post to her Instagram story: natural skin texture, mild phone HDR, faint sensor noise, true colour. Mood 2 light: bright, soft, warm, nothing dark or gloomy. No legible text, logos or brand marks. No watermark, border or blurred edges. FIX FROM REVIEW: Keep her exact hair: loose, glossy, defined waves, not tighter or frizzier curls, same volume. Keep her soft, full cheeks and the same jaw and chin length; do not slim or lengthen the face. Keep her brows arched and separated exactly as in the reference, not thicker. Keep her irises dark brown, not hazel. Do not add freckles. The window is on the right side of the frame; the palm crown is seen through it only in the lower two thirds of the photo, below the level of her head. The upper third of the frame is plain white wall and ceiling with no palm fronds, window frame or door edge. Soft late-morning daylight, no low raking golden-hour sun patches. No floor mirror; if there is a plant it stands beside the suitcase.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_175647_2af6ad3d-a704-4ff4-a808-ab9bb5e2d429.png",
+    "ref": 1
+  },
+  {
+    "id": "0208d374-a9a9-4bf7-bf6c-3e079180a2cd",
+    "createdAt": 1790622658.534614,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Vast, calm, modern airport terminal interior in soft morning daylight: a sweeping pale ceiling of long curved ribs with rows of round skylights, a tall glass wall on the right looking out to a hazy apron with one distant plain white airliner (no livery, no lettering), polished pale stone floor with long soft reflections, strong one-point perspective to show the hall's enormous scale; completely empty, no people, no luggage carts; no signs, no screens, no wayfinding, no letters or numbers anywhere; warm Mood 2 palette of cream, sand and soft peach light, never dark; gentle 35mm film grain; 4:5. Photographic, natural, not CGI. The vanishing point and skylights sit in the middle band of the frame, roughly 28-61% of the frame height; the composition works when cropped to a wide panoramic window through that band.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_191058_0208d374-a9a9-4bf7-bf6c-3e079180a2cd.png",
+    "ref": 0
+  },
+  {
+    "id": "788a52c6-f2ac-4645-96f5-3341a09233e7",
+    "createdAt": 1790622670.081813,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Editorial 35mm film photograph of a vast, calm, modern airport terminal hall in soft early-morning daylight. A sweeping pale ceiling of long curved ribs with rows of round skylights recedes in strong one-point perspective to a vanishing point at the center of the frame. On the right, a tall glass curtain wall looks out onto a hazy apron with one distant plain white airliner, no livery, no lettering. Polished pale stone floor with long soft reflections of the skylight glow. Completely empty: no people, no luggage carts, no furniture clutter. No signs, no screens, no departure boards, no wayfinding, no letters, logos or numbers anywhere. Warm palette of cream, sand and soft peach light, bright and airy, never dark. Gentle film grain, natural photographic realism, not a 3D render. 4:5 vertical frame; the key architecture and vanishing point sit in the middle band so it crops well to a wide panoramic window.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_191110_788a52c6-f2ac-4645-96f5-3341a09233e7.png",
+    "ref": 0
+  },
+  {
+    "id": "e1ca968d-a66b-4c9b-be02-f3c0d2fa4858",
+    "createdAt": 1790636425.198686,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same woman exactly (same face, nose, lips, hair, pose, profile angle, framing and crop). Change only the light and background: a deep, dark forest-green and warm umber studio background, and a warm golden side light falling on her face, cheekbone, neck and shoulder so the light visibly glows and bounces off her skin, with soft warm highlights and gentle falloff into shadow. Dark but hopeful, calm, intimate, cinematic film look with fine grain. Not gloomy, not gothic, no pure black. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230025_e1ca968d-a66b-4c9b-be02-f3c0d2fa4858.png",
+    "ref": 1
+  },
+  {
+    "id": "49749657-55cf-4491-bc72-8c709ffa3c99",
+    "createdAt": 1790636427.489346,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same woman exactly (same face, nose, lips, hair, pose, profile angle, framing and crop). Change only the light: late-afternoon sunlight filtering through leaves now falls across the scene as soft, blurred dappled leaf shadows on the background wall, her neck, shoulder and the side of her face, with warm amber patches of light between the shadows. The overall image is darker and moody but warm and hopeful, deep green and umber tones, film grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230027_49749657-55cf-4491-bc72-8c709ffa3c99.png",
+    "ref": 1
+  },
+  {
+    "id": "f52ad011-27cd-41ee-a196-d36ba4823ab4",
+    "createdAt": 1790636430.249094,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the exact same composition: the same Los Angeles skyline at the same size and position, the same palm tree silhouettes, the same horizon height. Change only the time of day and colour: soft dusk, the sky a calm gradient from lavender and dusty violet at the top to a faint warm rose at the horizon, a quiet purple-blue ambience, the first city lights twinkling. No red or orange sunset. Calm, dreamy, film grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230030_f52ad011-27cd-41ee-a196-d36ba4823ab4.png",
+    "ref": 1
+  },
+  {
+    "id": "6f887c27-d089-484d-bff0-d0cc0f75325a",
+    "createdAt": 1790636432.12605,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Galata Tower in Istanbul rising above terracotta rooftops, seen from a nearby rooftop terrace at golden hour. The tower fills the upper-middle of the frame, warm low sun on its stone, a soft peach and pale blue sky above. The lower 40% of the frame is calm, softly out-of-focus rooftops and a terrace ledge in warm shadow, quiet enough for text. Kodak Portra 400 film look, fine grain, warm and calm, editorial travel photograph. No people, no readable text, no signs, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230032_6f887c27-d089-484d-bff0-d0cc0f75325a.png",
+    "ref": 0
+  },
+  {
+    "id": "c3ff3938-2918-4b7f-8af1-cf56cc1c082e",
+    "createdAt": 1790636434.02424,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Hagia Sophia in Istanbul in warm early-evening light, its great dome and four minarets glowing softly, seen from a garden with plane trees and a fountain in the foreground. The monument sits in the upper half of the frame against a soft apricot and lilac sky. The lower 40% of the frame is calm garden path and soft shadow, quiet enough for text. Kodak Portra 400 film look, fine grain, warm, calm, editorial. No people, no readable text, no signs, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230034_c3ff3938-2918-4b7f-8af1-cf56cc1c082e.png",
+    "ref": 0
+  },
+  {
+    "id": "ff6f3033-4c6c-440f-9829-fa426af972e4",
+    "createdAt": 1790636435.95818,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Photograph of the Blue Mosque (Sultan Ahmed Mosque) in Istanbul at blue hour, its cascade of domes and six slender minarets lit warmly from within and below, a deep dusky violet-blue sky with the last warm glow near the horizon. The mosque sits in the upper-middle of the frame; the lower 40% is a calm, dark, softly lit plaza, quiet enough for text. Film look, fine grain, serene. No people, no readable text, no signs, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230035_ff6f3033-4c6c-440f-9829-fa426af972e4.png",
+    "ref": 0
+  },
+  {
+    "id": "fcc5a504-3722-4019-b062-742f96caa080",
+    "createdAt": 1790636438.419721,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "A photograph in exactly the same style, colour grade, sky and composition as the reference, but the view is the Pacific Ocean from a bluff on the Los Angeles coast at golden hour: calm sea, a perfectly flat horizon at exactly the same height as the skyline in the reference, a few tall palm silhouettes at the lower edge, the same warm peach and dusty-rose sky with the same thin band of cloud. No city, no people, no boats, no text. Kodak Portra film look, gentle grain.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230038_fcc5a504-3722-4019-b062-742f96caa080.png",
+    "ref": 1
+  },
+  {
+    "id": "20cf6d18-9de1-4899-9b4f-a2fd6423266d",
+    "createdAt": 1790636441.8829,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the man exactly the same: same face, hair, white linen shirt, pose, the plate and towel in his hands, his position and size in the frame. Replace only the room around him: a calm kitchen with deep dusky-blue walls and cabinets, evening light, and a large window behind him showing a leafy suburban street with tall old trees and brick and clapboard houses, all softly out of focus. The whole background is gently blurred with a shallow depth of field so he stays sharp. Warm light on him, cool blue room, cinematic, film grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_230041_20cf6d18-9de1-4899-9b4f-a2fd6423266d.png",
+    "ref": 1
+  },
+  {
+    "id": "87b9387c-f143-42b1-8ec5-d1a1b067fa5c",
+    "createdAt": 1790639633.773236,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235353_87b9387c-f143-42b1-8ec5-d1a1b067fa5c.png",
+    "ref": 1
+  },
+  {
+    "id": "99e7fa98-b95e-4012-91cf-778fc5157cfe",
+    "createdAt": 1790639636.14232,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235356_99e7fa98-b95e-4012-91cf-778fc5157cfe.png",
+    "ref": 1
+  },
+  {
+    "id": "90c4b031-f2e5-4988-a29c-88e4826aa301",
+    "createdAt": 1790639638.439198,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235358_90c4b031-f2e5-4988-a29c-88e4826aa301.png",
+    "ref": 1
+  },
+  {
+    "id": "15610c73-232c-4bb7-9013-11ca4662cac8",
+    "createdAt": 1790639640.85029,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, smile, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235400_15610c73-232c-4bb7-9013-11ca4662cac8.png",
+    "ref": 1
+  },
+  {
+    "id": "2f85644c-63a3-42ed-9167-b991d86a6255",
+    "createdAt": 1790639642.998846,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same people exactly: same faces, noses, hair, clothing, hands, pose, framing and crop. Change only the background and the light: the room fades into a near-black warm charcoal darkness (deep brown-black, not pure black), with a soft warm key light from the side on the young man's face so it glows gently while everything else falls softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235402_2f85644c-63a3-42ed-9167-b991d86a6255.png",
+    "ref": 1
+  },
+  {
+    "id": "198ec6c8-c859-49ed-a468-492e17eeba20",
+    "createdAt": 1790639645.358131,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, platinum hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235405_198ec6c8-c859-49ed-a468-492e17eeba20.png",
+    "ref": 1
+  },
+  {
+    "id": "78f5e6ec-0f6c-4b48-a25e-de219af2f8b9",
+    "createdAt": 1790639647.587028,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235407_78f5e6ec-0f6c-4b48-a25e-de219af2f8b9.png",
+    "ref": 1
+  },
+  {
+    "id": "5f94cce9-6201-412f-81dc-dd4ca247a45c",
+    "createdAt": 1790639649.766658,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235409_5f94cce9-6201-412f-81dc-dd4ca247a45c.png",
+    "ref": 1
+  },
+  {
+    "id": "3c46b372-b9c0-4b6f-845e-72d2ebb1a4fe",
+    "createdAt": 1790639652.199395,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain near-black warm charcoal studio backdrop (deep brown-black, not pure black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235412_3c46b372-b9c0-4b6f-845e-72d2ebb1a4fe.png",
+    "ref": 1
+  },
+  {
+    "id": "6565994e-0a92-44bb-8a9b-55bd1ba1c62f",
+    "createdAt": 1790639654.589389,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same man exactly: same face, hair, white linen shirt, the plate and towel in his hands, his pose, position and size in the frame. Change only the surroundings and light: the kitchen falls away into a near-black warm charcoal darkness (deep brown-black, not pure black), only a faint soft hint of the window behind him, and a soft warm key light on his face and shirt so he glows gently while the edges fall into shadow. Natural skin colour, real texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235414_6565994e-0a92-44bb-8a9b-55bd1ba1c62f.png",
+    "ref": 1
+  },
+  {
+    "id": "11835ad7-967c-40a0-b302-222715a1d6d3",
+    "createdAt": 1790639697.282548,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235457_11835ad7-967c-40a0-b302-222715a1d6d3.png",
+    "ref": 1
+  },
+  {
+    "id": "ea0d8a77-2c54-4a38-9dac-a1f2d1c91403",
+    "createdAt": 1790639699.767693,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235459_ea0d8a77-2c54-4a38-9dac-a1f2d1c91403.png",
+    "ref": 1
+  },
+  {
+    "id": "a6e8a12d-9f91-489a-a979-c93317ad2220",
+    "createdAt": 1790639701.91636,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235501_a6e8a12d-9f91-489a-a979-c93317ad2220.png",
+    "ref": 1
+  },
+  {
+    "id": "c8313409-6e1e-4639-83e6-fee704b67468",
+    "createdAt": 1790639704.17783,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, smile, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235504_c8313409-6e1e-4639-83e6-fee704b67468.png",
+    "ref": 1
+  },
+  {
+    "id": "1e1f31fc-eb12-42c3-8cf8-66fa23a76d37",
+    "createdAt": 1790639706.129069,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same people exactly: same faces, noses, hair, clothing, hands, pose, framing and crop. Change only the background and the light: the room fades into a very dark teal-black darkness (deep blue-green, almost black), with a soft warm key light from the side on the young man's face so it glows gently while everything else falls softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235506_1e1f31fc-eb12-42c3-8cf8-66fa23a76d37.png",
+    "ref": 1
+  },
+  {
+    "id": "d68cf620-15ef-40e6-9fbd-90f8efefeca9",
+    "createdAt": 1790639708.290269,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, platinum hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235508_d68cf620-15ef-40e6-9fbd-90f8efefeca9.png",
+    "ref": 1
+  },
+  {
+    "id": "40bd2805-b3ff-4b2e-9f65-1a6cb4953a71",
+    "createdAt": 1790639710.604981,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235510_40bd2805-b3ff-4b2e-9f65-1a6cb4953a71.png",
+    "ref": 1
+  },
+  {
+    "id": "5fb55d82-b246-4902-a3db-08e9fa70a40d",
+    "createdAt": 1790639712.783802,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235512_5fb55d82-b246-4902-a3db-08e9fa70a40d.png",
+    "ref": 1
+  },
+  {
+    "id": "3244ad1b-3b44-4650-8e77-116e63ac7abb",
+    "createdAt": 1790639715.15428,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same person exactly: same face, eyes, nose shape and size, lips, skin tone, hair, clothing, pose, head angle, framing and crop. Change only the background and the light: a plain very dark teal-black studio backdrop (deep blue-green, almost black) and a soft warm key light from the side, so the face glows gently while the shoulders and body fall softly into shadow. Natural skin colour and real skin texture. Quiet, calm, hopeful editorial studio portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235515_3244ad1b-3b44-4650-8e77-116e63ac7abb.png",
+    "ref": 1
+  },
+  {
+    "id": "0e3e7990-ace6-4577-886c-d9c4709014df",
+    "createdAt": 1790639718.253423,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Edit of the reference photo. Keep the same man exactly: same face, hair, white linen shirt, the plate and towel in his hands, his pose, position and size in the frame. Change only the surroundings and light: the kitchen falls away into a very dark teal-black darkness (deep blue-green, almost black), only a faint soft hint of the window behind him, and a soft warm key light on his face and shirt so he glows gently while the edges fall into shadow. Natural skin colour, real texture. Quiet, calm, hopeful editorial portrait, 35mm Kodak Portra film look with fine grain. No text, no logos.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235518_0e3e7990-ace6-4577-886c-d9c4709014df.png",
+    "ref": 1
+  },
+  {
+    "id": "fe6ddc54-6613-44e1-9b2b-7519c794fa3f",
+    "createdAt": 1790639720.762315,
+    "model": "gpt_image_2_5",
+    "ar": "16:9",
+    "prompt": "Edit of the reference photo. Keep everything the same: the same woman (same face, hair, cream sweater, mug, pose), the same seat, cabin, framing and both window positions and views (Los Angeles on the left, Istanbul with its mosque and minarets on the right). Change only the time and colour: soft dusk, both windows show a calm dusky violet and lavender sky with a faint rose glow at the horizon and the first city lights, and the cabin has a gentle cool-violet ambience with soft warm light still on her face. Dreamy, calm, hopeful, not red, not orange. 35mm film, fine grain. No text, no logos, no other passengers.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260928_235520_fe6ddc54-6613-44e1-9b2b-7519c794fa3f.png",
+    "ref": 1
+  },
+  {
+    "id": "ea52f70f-06a1-48ce-a28f-1d1e425767c1",
+    "createdAt": 1790640050.470772,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Top-down flat-lay photograph, camera directly overhead and perfectly square to the subject: an open clear acrylic ring binder lying completely flat on a deep matte black background. Two blank facing pages of warm cream paper, one left and one right, both perfectly flat rectangles with edges parallel to the frame, separated by a slim central spine with four silver binder rings. The open binder spans nearly the full width of the frame, centered, with even black margins on all sides. Soft warm light from the top left with gentle falloff across the pages, subtle paper fibre texture, soft ring shadows. Analog 35mm film photograph, fine natural film grain, calm, bright, optimistic, editorial product-mockup look. Both pages are completely empty: no text, no photos, no writing, no marks, no logos, nothing printed on them. No hands, no props, no other objects.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000050_ea52f70f-06a1-48ce-a28f-1d1e425767c1.png",
+    "ref": 0
+  },
+  {
+    "id": "cd1d56c0-7e31-47f8-ae35-58006cdccce7",
+    "createdAt": 1790640061.758446,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Straight overhead studio photograph of an open ring binder resting perfectly flat on a deep black velvet background, shot like a product mockup with the camera exactly perpendicular. The binder is open to a two-page spread: a blank warm cream left page and a blank warm cream right page, both flat, crisp rectangles aligned with the image edges, joined by a central silver ring mechanism with four rings. The spread is centered and fills most of the frame width, black background visible around every edge. Soft warm window light from the top left, a gentle highlight on the paper, faint page texture, soft shadows cast by the rings. Shot on 35mm film, fine organic grain, bright and hopeful mood. The pages are entirely blank: no text, no images, no writing, no stains, nothing on them. Nothing else in the scene.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000101_cd1d56c0-7e31-47f8-ae35-58006cdccce7.png",
+    "ref": 0
+  },
+  {
+    "id": "c1a36bca-e250-45bc-85b1-30402274dca7",
+    "createdAt": 1790640063.89837,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Top-down photograph, camera perfectly overhead: an open lay-flat hardcover book with warm cream paper lying completely flat on a deep matte black surface. The two facing pages are blank, flat and rectangular with straight edges parallel to the frame, meeting at a neat center gutter with only a very soft gutter shadow. The open book is centered and fills most of the frame width, with even black margins around it. Soft warm light from the top left, gentle luminous falloff, subtle paper texture. Analog 35mm film look with fine grain, bright, calm and optimistic, editorial mockup style. The pages are completely empty: no text, no photos, no writing, no marks, nothing printed. No hands, no props.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000103_c1a36bca-e250-45bc-85b1-30402274dca7.png",
+    "ref": 0
+  },
+  {
+    "id": "04511b96-27a7-4501-a3b0-6b648828e942",
+    "createdAt": 1790640146.118916,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Overhead flat-lay still life photograph shot straight down from directly above, camera perfectly square and parallel to the subject, no perspective tilt. An open A4 ring binder lying completely flat on a deep matte black background. The binder has a clear frosted PVC cover and a translucent spine with four chrome silver rings down the exact center. Two blank facing pages of thick warm cream paper, one left of the rings and one right of the rings, both perfectly flat, same size, rectangular, edges parallel to the frame edges. The pages are completely empty: no text, no photos, no writing, no marks, no logos, nothing printed. Soft warm morning light from the top left with gentle falloff, subtle paper fibre texture, soft shadows of the metal rings falling onto the inner edges of the pages. Bright, optimistic, calm mood. The open binder is centered and fills about 92 percent of the frame width, with black background visible above and below. 35mm film photograph, fine natural film grain, editorial product still life.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000226_04511b96-27a7-4501-a3b0-6b648828e942.png",
+    "ref": 0
+  },
+  {
+    "id": "17c3db26-23d2-423d-855f-930c12328eb6",
+    "createdAt": 1790640154.160854,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Top-down flat-lay photograph, camera directly overhead and perfectly square to the subject. A large open ring binder with tall portrait pages lying perfectly flat on a deep black background, filling most of the frame with a thin black border on all sides. Chrome silver binder rings run vertically down the exact center over a translucent frosted spine; clear PVC cover edges visible behind the pages. Left page and right page are both blank warm cream paper, perfectly flat, identical size, straight edges aligned with the frame. Absolutely nothing on the pages: no text, no images, no writing, no marks. Soft warm light from the top left, gentle highlight on the paper, subtle page texture, delicate ring shadows cast onto the pages near the spine. Bright and optimistic, clean and calm. Shot on 35mm film, fine organic film grain, editorial still life.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000234_17c3db26-23d2-423d-855f-930c12328eb6.png",
+    "ref": 0
+  },
+  {
+    "id": "038da58b-970a-465a-b2cb-19cc63457e66",
+    "createdAt": 1790640162.53598,
+    "model": "gpt_image_2_5",
+    "ar": "4:5",
+    "prompt": "Straight-down overhead photograph of an open lay-flat ring binder resting on deep black velvet-matte background, camera exactly perpendicular, symmetrical composition, no angle. The spread is centered, left page and right page are blank sheets of warm off-white cream paper, lying perfectly flat with crisp straight edges parallel to the image borders. Four polished silver rings and a translucent spine sit at the vertical center line. Both pages completely blank and empty: no text, no photos, no drawings, no marks of any kind. Warm soft daylight from the upper left, light and optimistic, subtle paper grain, faint soft shadows from the rings onto the pages. Plenty of flat clean paper area on both pages. 35mm film look with fine film grain, high-end editorial still life.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3Jf9BhptAVQfBcYmfWV4afxzC2x/hf_20260929_000242_038da58b-970a-465a-b2cb-19cc63457e66.png",
+    "ref": 0
+  }
+]
