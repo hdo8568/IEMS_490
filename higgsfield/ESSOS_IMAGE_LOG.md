@@ -81,3 +81,4 @@ Full per-image prompts and job IDs live in the JSON files next to each set:
 
 ## 4. REVISION LOG FOR FUTURE PASSES (append here)
 Format: `pass N | date | ask (quoted) | change to spec | why | result | kept/reverted`
+pass 10 | 2026-09-29 | "just do it 20 images" | Merged realism block (pass 7) + mood block (pass 8) into one prompt; added text-to-image portraits for new people (only 8 distinct people exist in source pool); scene prompts drop skin wording, add "no brand badges / legible passport text" | Deliver 20 on the current spec without repeating faces | 8 existing people on new colours + 6 new people + 6 scenes; mood consistent across all 20. Issues: #13 (new curly-haired man) looks close to #7 (existing curly man); "arms folded" lost to the head-and-shoulders crop; #20 hotel entryway is the darkest, maybe too dark | kept. Next: vary new-person hair/age more against existing pool; review #20 brightness
